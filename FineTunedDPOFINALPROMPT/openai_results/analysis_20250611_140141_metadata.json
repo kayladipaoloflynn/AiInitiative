@@ -1,0 +1,10 @@
+{
+  "model": "ft:gpt-4o-2024-08-06:flynn:test-nine:BcuSbEPv",
+  "prompt_template": "structured_professional",
+  "timestamp": "2025-06-11T14:05:05.960402",
+  "total_questions": 29,
+  "successful": 29,
+  "errors": 0,
+  "avg_response_time": 6.538275862068966,
+  "error_details": []
+}
