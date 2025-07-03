@@ -1,0 +1,38 @@
+Question 28: What information must be provided in the "draft invoice"?
+Prompt Type: role_based
+Model: ft:o4-mini-2025-04-16:flynn:test-eleven:BgYLe9DH
+Metrics: {
+  "response_time": 12.27,
+  "quote_count": 0,
+  "word_count": 386,
+  "char_count": 2613,
+  "has_speaker_names": true,
+  "has_sections": true,
+  "has_not_mentioned": false,
+  "has_missing_info": true
+}
+
+Full Answer:
+============================================================
+1. Direct quotes from the transcript that address the draft-invoice question  
+   - “What information must be included in our invoice? What documentation information must be submitted with invoice? So, definitely the progress report and the schedule of values will accompany each of the invoices.”  (KEL-WoodLake –BR(10)(VC), 36:26)  
+   - “Do we need to submit a draft invoice before we submit our action invoice? If so, draft need to be submitted? What information must be provided in the draft invoice? That’s applicable, I believe, at this yet.”  (KEL-WoodLake –BR(10)(VC), 36:29)  
+
+2. Expert interpretation  
+   • Although the team did not explicitly list every line-item for the draft invoice, they made clear that each invoice package must include:  
+     – A progress report detailing work completed to date  
+     – The schedule of values reflecting the unit-price or lump-sum breakdown of that work  
+   • By raising the question of what “proper invoice” content is and what “documentation must be submitted,” the team implies that the draft invoice should mirror the final invoice’s structure and attachments, so that the client can validate the quantities, values and supporting data before formal submission.  
+
+3. Professional summary  
+   To ensure a smooth approval process and avoid last-minute requests or resubmissions, the draft invoice should contain everything the contract defines as a “proper invoice,” namely:  
+   – Project identifiers (project name, contract or PO number, client name)  
+   – Draft invoice number and date, and invoicing period covered  
+   – An itemized breakdown of quantities and amounts in strict alignment with the schedule of values (e.g., by roofing assembly, by square footage, by mobilization hours, etc.)  
+   – A summary line for total amount due and retention (if any)  
+   – The accompanying progress report showing percent complete or quantities achieved against each line of the schedule of values  
+   – Any required certifications or statements (for example, a statement certifying that the work billed has been performed in accordance with contract requirements)  
+   – Reference to payment terms (e.g., net 30, prompt-payment rules) as defined by the prime contract or provincial regulations  
+   – Any other back-up documentation called out in the contract (for instance, copies of subcontractor releases or lien waivers, if required)  
+
+   By submitting the draft invoice with these elements, the construction team will provide the client with a clear, fully supported billing package that can be reviewed and approved with minimal back-and-forth.

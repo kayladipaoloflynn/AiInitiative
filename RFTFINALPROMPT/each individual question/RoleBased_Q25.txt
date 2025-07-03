@@ -1,0 +1,20 @@
+QUESTION 25: What information must be included in our invoice?
+
+ANSWER:
+1. Direct quotes from the transcript  
+   - “Multiple speakers – 36:26  
+     What information must be included in our invoice?  
+     KEL-WoodLake-BR(10)(VC) – 36:29  
+     So, definitely the progress report and the schedule of values will accompany each of the invoices.”
+
+2. Expert interpretation  
+   In a typical commercial roofing subcontract, a “proper invoice” is defined by the prime contract’s payment provisions. Here, the construction‐management team is specifying that two key pieces of supporting documentation must travel with every pay application:  
+   • Progress report – a narrative or tabular summary of work completed to date, percent complete by line item, any hold‐backs or offsets, and reference to approved change orders or pending RFI clarifications.  
+   • Schedule of Values – a line‐item cost breakdown of the contract sum allocated to major work divisions (e.g., WP08 roof assembly, WP04 inverted roof, membrane flashings, canopy membranes, metal flashings). Each invoice line should correspond to one or more line items in the schedule, and the schedule must show original value, approved net change, percent complete, and value of work claimed in the current draw.
+
+3. Professional summary  
+   For Dillworth Phase 1, every subcontractor invoice must include:  
+   • A fully detailed progress report, showing quantities installed, percent complete for each major roofing assembly, and reference to approved changes.  
+   • The project schedule of values, with line‐item values matching the work order breakdown (inverted roof, mod‐bit roofing, tapered insulation, planters, canopy membranes, perimeter flashings, etc.).  
+
+   Attaching both documents to each pay application will ensure compliance with the prime contract’s payment requirements, facilitate the construction manager’s review and certification process, and reduce the risk of disputed or delayed payments.

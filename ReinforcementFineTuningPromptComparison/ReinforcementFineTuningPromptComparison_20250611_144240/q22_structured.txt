@@ -1,0 +1,34 @@
+Question 22: What are the payment terms?
+Prompt Type: structured
+Model: ft:o4-mini-2025-04-16:flynn:test-eleven:BgYLe9DH
+Metrics: {
+  "response_time": 15.77,
+  "quote_count": 0,
+  "word_count": 265,
+  "char_count": 1603,
+  "has_speaker_names": false,
+  "has_sections": true,
+  "has_not_mentioned": true,
+  "has_missing_info": true
+}
+
+Full Answer:
+============================================================
+#### 1. RELEVANT QUOTES
+- “are the payment terms and how long it will take for our invoice to be paid? We don’t have the – I don’t believe we have the prompt payment rules yet, but it, will take for the invoice to be paid and then the payment terms.”  
+- “What documentation information must be submitted with invoice? So, definitely the progress report and the schedule of values will accompany each of the invoices.”
+
+#### 2. ANALYSIS
+From these exchanges:
+- The team explicitly asked about “payment terms” and timing for invoice payment.
+- The response indicates that they have not yet obtained the prime contract’s prompt payment rules, so the specific terms (e.g., net days, retention, milestones) are unknown.
+- They do know what must accompany each invoice—namely, a progress report and a schedule of values—but no further detail on payment timing or conditions is provided.
+
+#### 3. GAPS OR MISSING INFORMATION
+- The exact payment terms (e.g., net 30, net 45, holdback percentages) are not stated.
+- Whether any advance or milestones trigger payments is not mentioned.
+- The prime contract or owner’s prompt payment provisions (statutory or contractual) have not been reviewed or obtained.
+- There is no information on required invoice format beyond attachments, or on when invoices are to be submitted.
+
+#### 4. FINAL ANSWER
+The transcript does not specify any concrete payment terms. The team is awaiting the prime contract’s prompt payment rules to determine timing and conditions. They do confirm, however, that each invoice must be submitted with a progress report and a schedule of values.

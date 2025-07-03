@@ -1,0 +1,28 @@
+Question 3: What is the project construction schedule (start and expected completion) for our scope?
+Prompt Type: role_based
+Model: ft:o4-mini-2025-04-16:flynn:test-eleven:BgYLe9DH
+Metrics: {
+  "response_time": 10.48,
+  "quote_count": 0,
+  "word_count": 170,
+  "char_count": 1209,
+  "has_speaker_names": true,
+  "has_sections": true,
+  "has_not_mentioned": false,
+  "has_missing_info": false
+}
+
+Full Answer:
+============================================================
+1. Direct quotes from the transcript  
+   • “The start roofing is scheduled for 13th of October 2025.”  
+     (Multiple speakers – 25:20)  
+   • “128 crew days, six-man crew, grayback construction…”  
+     (Frank Jonathan – 38:12)  
+
+2. Expert interpretation  
+   – The roofing scope mobilizes on October 13, 2025.  
+   – The team has budgeted 128 crew-days of effort. With a six-person roofing crew, that represents approximately 21–22 standard (10-hour or 8-hour) working days, exclusive of weekends, weather holds or multiple mobilizations.  
+
+3. Professional summary  
+   Based on the handover discussion, your roofing package is set to begin on October 13, 2025. The estimate allocates 128 crew-days for all assemblies (inverted, mod-bit, planters, canopies and associated flashing), assuming a steady six-member crew. Under normal conditions that effort equates to roughly three to four weeks of continuous work, placing practical completion of your scope in early November 2025. You should reconfirm the calendar schedule—factoring in crane windows, weather limitations for torch-applied work and any split mobilizations—and build in contingency in case of delays or additional client-directed changes.

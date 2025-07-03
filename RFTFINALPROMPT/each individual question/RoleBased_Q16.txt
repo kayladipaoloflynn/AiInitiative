@@ -1,0 +1,21 @@
+QUESTION 16: Does this project require any cold weather application procedures as recommended by the manufacturer? If yes, what are they?
+
+ANSWER:
+1. Direct quotes from the transcript that answer the question  
+   • “Does this project require cold weather application procedures as recommended by the manufacturer?”  
+     – KEL-WoodLake –BR(10)(VC) (34:19)  
+   • “So as we will be starting this project in October, we’ll be probably running into late, you know, late or in the winter and proceeding through the winter with that. So we’ll definitely have some limitations with the cap stripping installation, like the cut-off is zero degree, I’ll have to make sure that the customer is aware of that. We’ll have to use a winter rated product, so winter rated primers for the SOPRA VAP. This we can install to minus 10, which is good. We’ll at least get them more watertight for the time being. But yes, there is a high chance that we’ll have to use the winter rated product for this project.”  
+     – KEL-WoodLake –BR(10)(VC) (34:26–35:00)  
+
+2. Expert interpretation of this information  
+   • The team recognizes that an October start date will overlap with colder weather and possibly early winter conditions.  
+   • The manufacturer’s standard cap sheet (“cap stripping installation”) has a 0 °C (32 °F) lower temperature limit for torch or cold-process application. Below that, adhesion and membrane performance cannot be guaranteed.  
+   • SOPRA’s vapor barrier (SOPRA VAP) requires primer application; the standard primer is not rated for sub-freezing conditions. To maintain full adhesion and a watertight assembly when ambient temperatures dip below freezing, the manufacturer provides a “winter rated” primer formulation that can be applied down to –10 °C (14 °F).  
+   • In practice, this means specifying and stocking winter-grade primers, tracking daily temperature forecasts, and alerting the client to any “cut-off” days when installation must pause if temperatures fall below the manufacturer’s minimum.  
+
+3. Professional summary that fully addresses the question  
+   Yes. Because roofing is scheduled to begin in mid-October and continue into colder months, the project must follow the manufacturer’s cold-weather application guidelines. Specifically:  
+   – Cap sheet (“cap stripping”) may not be installed if ambient or deck temperatures fall below 0 °C (32 °F).  
+   – A winter-rated primer for the SOPRA VAP vapor barrier must be used, which permits proper adhesion and watertightness down to –10 °C (14 °F).  
+   – The construction team will need to monitor weather forecasts daily, coordinate work so that primer and membrane installations occur only within the manufacturer’s approved temperature ranges, and inform the client of any temperature-related delays or “cut-off” periods.  
+   – Procurement should include winter-grade primers well in advance, and field crews must be trained on the temperature limitations and handling procedures to remain in compliance with the warranty and performance requirements.

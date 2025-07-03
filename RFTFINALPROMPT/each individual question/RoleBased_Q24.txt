@@ -1,0 +1,17 @@
+QUESTION 24: Does the contract specify requirements for a proper invoice?
+
+ANSWER:
+1. Direct quotes from the transcript  
+   • KEL-WoodLake-BR(10)(VC) – 36:00: “Does the contract specify requirements for a proper invoice?”  
+   • Multiple speakers – 36:26: “What information must be included in our invoice?”  
+   • KEL-WoodLake-BR(10)(VC) – 36:29: “What documentation information must be submitted with invoice? So, definitely the progress report and the schedule of values will accompany each of the invoices.”  
+   • KEL-WoodLake-BR(10)(VC) – 36:34: “Do we need to submit a draft invoice before we submit our actual invoice? If so, draft need to be submitted? What information must be provided in the draft invoice? That’s applicable, I believe, as of yet.”
+
+2. Expert interpretation  
+   The project team has raised the question of whether the prime contract includes explicit invoicing requirements (format, supporting documents, submission process, etc.). Although they have not yet obtained or reviewed the prime contract to confirm its specific invoicing clauses, they have internally agreed on two foundational requirements:  
+   - Every invoice will be accompanied by a progress report.  
+   - Every invoice will include a schedule of values.  
+   They have also flagged the possibility that the contract might require submission of a draft invoice or additional documentation, but they have not yet confirmed or quantified those needs because they do not yet have the prime contract or the prompt-payment rules in hand.
+
+3. Professional summary  
+   At the time of this handover, the team does not yet possess the prime contract’s detailed invoicing provisions. In response to the question “Does the contract specify requirements for a proper invoice?” the team could only confirm their internal practice: each invoice will be supported by a progress report and a schedule of values. They have noted outstanding items—such as whether a draft invoice must be submitted and what additional information the contract may demand—and have committed to obtaining the prime contract and prompt-payment clause to fully validate and comply with the formal invoicing requirements.

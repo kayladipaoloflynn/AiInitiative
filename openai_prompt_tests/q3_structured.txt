@@ -1,0 +1,21 @@
+Question: What is the project construction schedule (start and expected completion) for our scope?
+Prompt Variation: structured
+Metrics: {
+  "response_time": 3.36,
+  "quote_count": 4,
+  "word_count": 99,
+  "char_count": 659,
+  "has_speaker_names": true,
+  "has_not_mentioned": false
+}
+
+Answer:
+1. DIRECT ANSWER: The project construction schedule for our scope starts on October 13, 2025, with a total crew duration of 128 days.
+
+2. EVIDENCE: 
+   - KEL-WoodLake -BR(10)(VC): "The start roofing is scheduled for 13th of October 2025."
+   - Multiple speakers: "And the project is scheduled for 128 crew with total crew."
+
+3. ADDITIONAL CONTEXT: The discussion included considerations for multiple mobilizations and demobilizations due to the multi-scope nature of the project, which may affect the schedule.
+
+4. MISSING INFO: The exact expected completion date was not discussed, nor were specific milestones or phases within the 128-day schedule detailed.

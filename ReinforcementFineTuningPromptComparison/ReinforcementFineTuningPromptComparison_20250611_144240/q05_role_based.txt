@@ -1,0 +1,30 @@
+Question 5: Have any alternate materials been included in the scope of work or specification?
+Prompt Type: role_based
+Model: ft:o4-mini-2025-04-16:flynn:test-eleven:BgYLe9DH
+Metrics: {
+  "response_time": 42.49,
+  "quote_count": 0,
+  "word_count": 296,
+  "char_count": 1961,
+  "has_speaker_names": true,
+  "has_sections": true,
+  "has_not_mentioned": false,
+  "has_missing_info": true
+}
+
+Full Answer:
+============================================================
+1. Direct quotes from the transcript that speak to alternate materials  
+   • KEL-WoodLake (26:34–27:01):  
+     “Have any alternate materials included for work specification? Do we need to bring this to the attention of the client customer before starting?”  
+   • Frank Jonathan (27:02–27:07):  
+     “Apart from that, I don’t see any other confirmed—everything’s per spec. Items to be confirmed would be roof anchors as shown in the bid.”  
+
+2. Expert interpretation  
+   – The team explicitly asked whether any approved “alternates” (i.e., product substitutions from the base specification) had been priced or included in the scope.  
+   – Frank’s response makes clear that, aside from the standard materials and the one known change to fire-rated cap sheets (SOPRA-INFLAM 250 FRGR in lieu of the originally bid 180), there are no formal alternate products captured in the contract.  
+   – The only outstanding “to-be-confirmed” item is the roof-anchor system, which was shown in the bid documents but not yet finalized.  
+   – Although the estimate carries a miscellaneous contingency for things like OLSAN RS230 liquid membrane at planter penetrations, that is not recorded as a spec’d alternate but as an un-quantified allowance.  
+
+3. Professional summary  
+   At this point in the handover, the scope and work order reflect the owner’s specified materials plus the confirmed change from SOPRA-INFLAM 180 to the 250 FR GR cap sheet. No other alternate roofing products have been formally priced or carved into the contract documents. A small miscellaneous allowance covers any Alsan RS230 liquid flashing at planters, but that is treated as contingency rather than a recognized spec alternate. The one remaining scope item to resolve is the design, pricing, and inclusion of roof anchors—the team should confirm that system with the client before mobilization. Otherwise all other products and assemblies on the work order mirror the base specification.

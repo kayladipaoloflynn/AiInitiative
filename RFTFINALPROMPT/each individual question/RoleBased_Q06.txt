@@ -1,0 +1,16 @@
+QUESTION 6: Do we need to bring these alternates to the attention of the client/customer before starting?
+
+ANSWER:
+1. Direct quotes from the transcript that answer the question  
+   • KEL-WoodLake-BR(10)(VC) (around 27:15):  
+     “Have any alternate materials included for work specification?  Do we need to bring this to the attention of the client/customer before starting?”  
+   • Frank Jonathan (immediately following):  
+     “Items to be confirmed would be roof anchors were shown as a bidding.”  
+   • KEL-WoodLake-BR(10)(VC) (right after):  
+     “Apart from that, I don’t see any other alternates—everything else is confirmed as per the letter.”  
+
+2. Expert interpretation of this information  
+   During the handoff review the team specifically asked whether any spec alternates or optional (“alternate”) materials had been priced that still needed client sign-off.  Frank’s response highlights that the only uncaptured item requiring explicit confirmation with Grayback is the roof anchors—they were bid as an alternate and have not yet been locked in.  All other materials and assemblies called out in the estimate use standard, in-stock products and have been fully carried in the work order.  Therefore, aside from the roof anchors, there are no outstanding alternates that must be flagged to the client before mobilization.  
+
+3. Professional summary  
+   The only alternate item identified in your work order that must be brought to the client’s attention before starting is the roof anchors.  All other materials and assemblies have been taken off as standard, in-stock products and are fully incorporated in the estimate.  To close the loop, confirm the roof-anchor scope and pricing with the customer up front; once that is signed off, you can proceed with mobilization without further alternate-related clarifications.

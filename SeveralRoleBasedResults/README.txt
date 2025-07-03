@@ -1,0 +1,1 @@
+It seems there was one day where i kept changing the same code and writing all the corresponding answers to different paths. Now i have a bunch of ok answers with no corresponding code. Sorry but you can look through to see the progression of how things were changed along the way!

@@ -1,0 +1,28 @@
+Question 27: Do we need to submit a "draft invoice" before we submit our actual invoice? If so, when does the "draft invoice" need to be submitted?
+Prompt Type: role_based
+Model: ft:o4-mini-2025-04-16:flynn:test-eleven:BgYLe9DH
+Metrics: {
+  "response_time": 20.42,
+  "quote_count": 0,
+  "word_count": 260,
+  "char_count": 1699,
+  "has_speaker_names": true,
+  "has_sections": true,
+  "has_not_mentioned": false,
+  "has_missing_info": true
+}
+
+Full Answer:
+============================================================
+1. Direct transcript excerpts  
+- KEL-WoodLake-BR(10)(VC) (36:29–36:34):  
+  “Do we need to submit a draft invoice before we submit our action invoice?  
+   If so, draft need to be submitted? What information must be provided in the draft invoice?”  
+- KEL-WoodLake-BR(10)(VC) (36:35–36:36):  
+  “That’s applicable, I believe, at this yet.”
+
+2. Expert interpretation  
+During the invoicing review the team confirmed that each progress invoice must be accompanied by a progress report and a schedule of values. They then raised the question of whether a preliminary “draft invoice” is required in advance of the formal billing. The only response recorded—“That’s applicable, I believe, at this yet”—indicates that no draft-invoice procedure has been established or is currently in force. In other words, the contract requirements for invoicing have not yet been defined to the point of mandating a draft invoice or setting a submission deadline for it.
+
+3. Professional summary  
+At the February 11 handover meeting the team reviewed invoicing requirements and confirmed that each progress invoice must include (at a minimum) the project’s progress report and the schedule of values. When asked if a draft invoice must be submitted in advance of the actual billing, the group acknowledged that no such requirement has been specified to date (“That’s applicable, I believe, at this yet”). Consequently, there is currently no obligation to submit a draft invoice, nor is there a defined deadline for one. If the contract or prime-contract terms ultimately call for a draft submittal, those details will need to be obtained from the prime agreement or clarified with the client before billing commences.

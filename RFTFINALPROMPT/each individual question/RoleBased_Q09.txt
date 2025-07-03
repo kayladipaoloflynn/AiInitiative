@@ -1,0 +1,20 @@
+QUESTION 9: What equipment has been estimated for and what amount has been carried  for each?
+
+ANSWER:
+1. Direct Quotes from the Transcript  
+   • “What about crane usage?  … we’ve carried for 250 dollars an hour and total allowance of both inverted and, let me just combine this one second, 20 hours here on inverted, 46 hours overall, has been allowed for.” (Frank Jonathan – 30:00–30:12 )  
+   • “Did rights to the tower crane on site?”   
+     “Don’t think so.” (Frank Jonathan/KEL-WoodLake – 30:12–30:42)  
+
+2. Expert Interpretation  
+   – The only heavy equipment explicitly quantified in this handoff is crane usage.  
+   – The team assumed availability of a mobile or tower crane already on site; rather than building in a full mobilization cost, they carried a usage allowance.  
+   – They set the crane rental rate at $250 per hour.  
+   – They budgeted a total of 46 crane hours, of which 20 hours are specifically allocated to the inverted roofing scope and the balance (26 hours) to the remainder of the roofing work (e.g. mod-bit assemblies and general material lifts).  
+
+3. Professional Summary  
+   During the phase-1 handover for Dillworth Centre, the team identified crane use as the sole piece of major equipment requiring a budgeted allowance.  No dedicated mobilization or demobilization charge was included; instead, they assumed the general‐contractor crane would remain on site for their lifts.  They carried:  
+   – Crane rental at $250/hour  
+   – A total of 46 crane hours (20 hours tied to inverted roofing operations; 26 hours for all other lifts)  
+
+   All other site equipment needs—such as scaffolding, guardrails, ALSAN spray equipment or roof anchors—were noted for coordination or billed separately as extras, but no lump-sum dollars were carried for them in the handoff estimate.

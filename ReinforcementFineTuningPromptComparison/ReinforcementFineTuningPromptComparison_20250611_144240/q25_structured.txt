@@ -1,0 +1,33 @@
+Question 25: What information must be included in our invoice?
+Prompt Type: structured
+Model: ft:o4-mini-2025-04-16:flynn:test-eleven:BgYLe9DH
+Metrics: {
+  "response_time": 7.95,
+  "quote_count": 0,
+  "word_count": 173,
+  "char_count": 1157,
+  "has_speaker_names": false,
+  "has_sections": true,
+  "has_not_mentioned": true,
+  "has_missing_info": true
+}
+
+Full Answer:
+============================================================
+#### 1. RELEVANT QUOTES  
+1. “What information must be included in our invoice?”  
+2. “What documentation information must be submitted with invoice?”  
+3. “So, definitely the progress report and the schedule of values will accompany each of the invoices.”  
+
+#### 2. ANALYSIS  
+During the discussion of payment procedures, the team explicitly asked what must be included in an invoice and then clarified that, beyond the invoice itself, two supporting documents are required. The phrase “will accompany each of the invoices” indicates these items are mandatory attachments rather than optional extras.
+
+#### 3. GAPS OR MISSING INFORMATION  
+- The transcript does not specify other typical invoicing elements (e.g., invoice number, date, billing address, tax information, detailed line‐item description).  
+- There is no reference to whether a draft invoice is required or what it must contain.  
+- Any formatting requirements or additional documentation (e.g., lien waivers, certified payroll) are not mentioned.
+
+#### 4. FINAL ANSWER  
+Based on the transcript, each invoice must be submitted together with:  
+- A progress report  
+- The schedule of values

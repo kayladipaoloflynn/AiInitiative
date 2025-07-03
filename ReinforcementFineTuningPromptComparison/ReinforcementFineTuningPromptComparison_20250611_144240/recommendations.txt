@@ -1,0 +1,19 @@
+PROMPT ENGINEERING RECOMMENDATIONS
+================================================================================
+
+Based on the comparison analysis, here are specific recommendations:
+
+1. STRUCTURED APPROACH works better for:
+   - What information must be included in our invoice?
+
+2. ROLE-BASED APPROACH works better for:
+   - Who is the customer for this project and describe our past working  relationship, if any?
+   - Are there any concerns to note about the customer before proceeding?
+   - What is the project construction schedule (start and expected completion) for our scope?
+
+3. HYBRID APPROACH SUGGESTION:
+Consider combining the best of both approaches:
+- Use role-based framing for context
+- Include structured sections for clarity
+- Maintain requirement for exact quotes
+- Add explicit gap identification

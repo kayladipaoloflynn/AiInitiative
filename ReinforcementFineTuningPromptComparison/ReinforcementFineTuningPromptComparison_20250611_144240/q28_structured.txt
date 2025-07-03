@@ -1,0 +1,29 @@
+Question 28: What information must be provided in the "draft invoice"?
+Prompt Type: structured
+Model: ft:o4-mini-2025-04-16:flynn:test-eleven:BgYLe9DH
+Metrics: {
+  "response_time": 12.95,
+  "quote_count": 0,
+  "word_count": 144,
+  "char_count": 880,
+  "has_speaker_names": false,
+  "has_sections": true,
+  "has_not_mentioned": true,
+  "has_missing_info": true
+}
+
+Full Answer:
+============================================================
+#### 1. RELEVANT QUOTES  
+1. “What documentation information must be submitted with invoice? So, definitely the progress report and the schedule of values will accompany each of the invoices.”  
+2. “Do we need to submit a draft invoice before we submit our action invoice? If so, draft need to be submitted? What information must be provided in the draft invoice?”
+
+#### 2. ANALYSIS  
+– The first quote clarifies what must accompany each (final) invoice: a progress report and the schedule of values.  
+– The second quote poses the specific questions about a draft invoice but is not followed by any response or detail about what information a draft invoice should contain.
+
+#### 3. GAPS OR MISSING INFORMATION  
+The transcript does not include any answer or discussion detailing what must be provided in the draft invoice.
+
+#### 4. FINAL ANSWER  
+Not mentioned in the transcript.

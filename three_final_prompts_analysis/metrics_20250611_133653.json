@@ -1,0 +1,500 @@
+{
+  "prompt_used": "structured_professional",
+  "model": "ft:gpt-4o-2024-08-06:flynn:test-nine:BcuSbEPv",
+  "timestamp": "20250611_133653",
+  "metrics": [
+    {
+      "question": "Who is the customer for this project and describe our past working  relationship, if any?",
+      "metrics": {
+        "char_count": 1431,
+        "word_count": 210,
+        "paragraph_count": 7,
+        "quote_count": 3,
+        "has_synthesis": true,
+        "has_context_before_quotes": true,
+        "has_clarification_section": true,
+        "has_speaker_attribution": false,
+        "professional_language": true,
+        "synthesis_score": 0.14285714285714285,
+        "completeness_score": null,
+        "quality_score": 0.8
+      }
+    },
+    {
+      "question": "Are there any concerns to note about the customer before proceeding?",
+      "metrics": {
+        "char_count": 1774,
+        "word_count": 247,
+        "paragraph_count": 10,
+        "quote_count": 4,
+        "has_synthesis": true,
+        "has_context_before_quotes": true,
+        "has_clarification_section": true,
+        "has_speaker_attribution": false,
+        "professional_language": true,
+        "synthesis_score": 0.3,
+        "completeness_score": null,
+        "quality_score": 0.8
+      }
+    },
+    {
+      "question": "What is the project construction schedule (start and expected completion) for our scope?",
+      "metrics": {
+        "char_count": 1777,
+        "word_count": 274,
+        "paragraph_count": 5,
+        "quote_count": 4,
+        "has_synthesis": true,
+        "has_context_before_quotes": true,
+        "has_clarification_section": true,
+        "has_speaker_attribution": true,
+        "professional_language": true,
+        "synthesis_score": 0.2,
+        "completeness_score": null,
+        "quality_score": 1.0
+      }
+    },
+    {
+      "question": "Are there any materials estimated for that require extended lead times for ordering/delivery?",
+      "metrics": {
+        "char_count": 1015,
+        "word_count": 153,
+        "paragraph_count": 5,
+        "quote_count": 2,
+        "has_synthesis": true,
+        "has_context_before_quotes": true,
+        "has_clarification_section": true,
+        "has_speaker_attribution": false,
+        "professional_language": true,
+        "synthesis_score": 0.2,
+        "completeness_score": null,
+        "quality_score": 0.7666666666666667
+      }
+    },
+    {
+      "question": "Have any alternate materials been included in the scope of work or specification?",
+      "metrics": {
+        "char_count": 1267,
+        "word_count": 190,
+        "paragraph_count": 5,
+        "quote_count": 4,
+        "has_synthesis": true,
+        "has_context_before_quotes": true,
+        "has_clarification_section": true,
+        "has_speaker_attribution": true,
+        "professional_language": true,
+        "synthesis_score": 0.6,
+        "completeness_score": null,
+        "quality_score": 1.0
+      }
+    },
+    {
+      "question": "Do we need to bring these alternates to the attention of the client/customer before starting?",
+      "metrics": {
+        "char_count": 1913,
+        "word_count": 276,
+        "paragraph_count": 9,
+        "quote_count": 3,
+        "has_synthesis": true,
+        "has_context_before_quotes": true,
+        "has_clarification_section": true,
+        "has_speaker_attribution": true,
+        "professional_language": false,
+        "synthesis_score": 0.3333333333333333,
+        "completeness_score": null,
+        "quality_score": 0.9
+      }
+    },
+    {
+      "question": "Do you feel that there are any underlying risks associated with performing  our work on this project and do we need to bring anything to the attention of the customer before starting?",
+      "metrics": {
+        "char_count": 2182,
+        "word_count": 314,
+        "paragraph_count": 9,
+        "quote_count": 4,
+        "has_synthesis": true,
+        "has_context_before_quotes": true,
+        "has_clarification_section": true,
+        "has_speaker_attribution": true,
+        "professional_language": true,
+        "synthesis_score": 0.4444444444444444,
+        "completeness_score": null,
+        "quality_score": 1.0
+      }
+    },
+    {
+      "question": "Depending on the Risk, i.e. working at heights, combustible products, etc., what precautions are being put in place to minimize these risks?",
+      "metrics": {
+        "char_count": 1879,
+        "word_count": 268,
+        "paragraph_count": 5,
+        "quote_count": 3,
+        "has_synthesis": true,
+        "has_context_before_quotes": true,
+        "has_clarification_section": true,
+        "has_speaker_attribution": false,
+        "professional_language": true,
+        "synthesis_score": 0.6,
+        "completeness_score": null,
+        "quality_score": 0.8
+      }
+    },
+    {
+      "question": "What equipment has been estimated for and what amount has been carried  for each?",
+      "metrics": {
+        "char_count": 1568,
+        "word_count": 241,
+        "paragraph_count": 8,
+        "quote_count": 6,
+        "has_synthesis": true,
+        "has_context_before_quotes": true,
+        "has_clarification_section": true,
+        "has_speaker_attribution": false,
+        "professional_language": true,
+        "synthesis_score": 0.375,
+        "completeness_score": null,
+        "quality_score": 0.8
+      }
+    },
+    {
+      "question": "Has the estimating team done a complete overview of the project but not  limited to, drawings, specifications, and estimate?",
+      "metrics": {
+        "char_count": 1890,
+        "word_count": 262,
+        "paragraph_count": 9,
+        "quote_count": 8,
+        "has_synthesis": true,
+        "has_context_before_quotes": true,
+        "has_clarification_section": true,
+        "has_speaker_attribution": true,
+        "professional_language": true,
+        "synthesis_score": 0.4444444444444444,
+        "completeness_score": null,
+        "quality_score": 1.0
+      }
+    },
+    {
+      "question": "Did estimating provide to the construction team a complete Bluebeam take -off with highlighted drawings indicating our scope of work?",
+      "metrics": {
+        "char_count": 1255,
+        "word_count": 191,
+        "paragraph_count": 6,
+        "quote_count": 2,
+        "has_synthesis": true,
+        "has_context_before_quotes": true,
+        "has_clarification_section": true,
+        "has_speaker_attribution": true,
+        "professional_language": true,
+        "synthesis_score": 0.3333333333333333,
+        "completeness_score": null,
+        "quality_score": 0.9666666666666667
+      }
+    },
+    {
+      "question": "Does the construction team have a 100% clear idea of what our complete scope is?",
+      "metrics": {
+        "char_count": 2492,
+        "word_count": 374,
+        "paragraph_count": 11,
+        "quote_count": 10,
+        "has_synthesis": true,
+        "has_context_before_quotes": true,
+        "has_clarification_section": true,
+        "has_speaker_attribution": true,
+        "professional_language": true,
+        "synthesis_score": 0.45454545454545453,
+        "completeness_score": null,
+        "quality_score": 1.0
+      }
+    },
+    {
+      "question": "What input or suggestions did the Foreman have in regard to the installation of our work?",
+      "metrics": {
+        "char_count": 1393,
+        "word_count": 195,
+        "paragraph_count": 5,
+        "quote_count": 3,
+        "has_synthesis": true,
+        "has_context_before_quotes": true,
+        "has_clarification_section": true,
+        "has_speaker_attribution": true,
+        "professional_language": true,
+        "synthesis_score": 0.4,
+        "completeness_score": null,
+        "quality_score": 1.0
+      }
+    },
+    {
+      "question": "Have the Project Payroll Attributes been reviewed and confirmed to be correct?",
+      "metrics": {
+        "char_count": 1253,
+        "word_count": 176,
+        "paragraph_count": 8,
+        "quote_count": 3,
+        "has_synthesis": true,
+        "has_context_before_quotes": true,
+        "has_clarification_section": true,
+        "has_speaker_attribution": true,
+        "professional_language": true,
+        "synthesis_score": 0.25,
+        "completeness_score": null,
+        "quality_score": 1.0
+      }
+    },
+    {
+      "question": "Do we have a design system letter from the manufacturer that meets the warranty/code requirements and provides the adhesive/fastening pattern?",
+      "metrics": {
+        "char_count": 1447,
+        "word_count": 215,
+        "paragraph_count": 4,
+        "quote_count": 2,
+        "has_synthesis": true,
+        "has_context_before_quotes": true,
+        "has_clarification_section": true,
+        "has_speaker_attribution": false,
+        "professional_language": true,
+        "synthesis_score": 0.25,
+        "completeness_score": null,
+        "quality_score": 0.7666666666666667
+      }
+    },
+    {
+      "question": "Does this project require any cold weather application procedures as recommended by the manufacturer? If yes, what are they?",
+      "metrics": {
+        "char_count": 1302,
+        "word_count": 199,
+        "paragraph_count": 7,
+        "quote_count": 2,
+        "has_synthesis": true,
+        "has_context_before_quotes": true,
+        "has_clarification_section": true,
+        "has_speaker_attribution": true,
+        "professional_language": true,
+        "synthesis_score": 0.2857142857142857,
+        "completeness_score": null,
+        "quality_score": 0.9666666666666667
+      }
+    },
+    {
+      "question": "Has Contract been reviewed internally?",
+      "metrics": {
+        "char_count": 1367,
+        "word_count": 201,
+        "paragraph_count": 8,
+        "quote_count": 1,
+        "has_synthesis": true,
+        "has_context_before_quotes": true,
+        "has_clarification_section": true,
+        "has_speaker_attribution": false,
+        "professional_language": true,
+        "synthesis_score": 0.125,
+        "completeness_score": null,
+        "quality_score": 0.7333333333333334
+      }
+    },
+    {
+      "question": "Are there any contractual risks to note?",
+      "metrics": {
+        "char_count": 2112,
+        "word_count": 299,
+        "paragraph_count": 9,
+        "quote_count": 5,
+        "has_synthesis": true,
+        "has_context_before_quotes": true,
+        "has_clarification_section": true,
+        "has_speaker_attribution": true,
+        "professional_language": true,
+        "synthesis_score": 0.5555555555555556,
+        "completeness_score": null,
+        "quality_score": 1.0
+      }
+    },
+    {
+      "question": "If we are a Subcontractor, do we have a copy of the Prime Contract? If not,  request a copy.",
+      "metrics": {
+        "char_count": 1285,
+        "word_count": 193,
+        "paragraph_count": 9,
+        "quote_count": 1,
+        "has_synthesis": true,
+        "has_context_before_quotes": true,
+        "has_clarification_section": true,
+        "has_speaker_attribution": false,
+        "professional_language": true,
+        "synthesis_score": 0.1111111111111111,
+        "completeness_score": null,
+        "quality_score": 0.7333333333333334
+      }
+    },
+    {
+      "question": "What is the date of the Prime Contract?",
+      "metrics": {
+        "char_count": 792,
+        "word_count": 121,
+        "paragraph_count": 5,
+        "quote_count": 2,
+        "has_synthesis": true,
+        "has_context_before_quotes": true,
+        "has_clarification_section": true,
+        "has_speaker_attribution": true,
+        "professional_language": true,
+        "synthesis_score": 0.4,
+        "completeness_score": null,
+        "quality_score": 0.9666666666666667
+      }
+    },
+    {
+      "question": "Do we know if \"prompt payment\" rules apply under the provincial construction legislation (given the date of the Prime Contract)?",
+      "metrics": {
+        "char_count": 2367,
+        "word_count": 323,
+        "paragraph_count": 10,
+        "quote_count": 7,
+        "has_synthesis": true,
+        "has_context_before_quotes": true,
+        "has_clarification_section": true,
+        "has_speaker_attribution": true,
+        "professional_language": true,
+        "synthesis_score": 0.7,
+        "completeness_score": null,
+        "quality_score": 1.0
+      }
+    },
+    {
+      "question": "What are the payment terms?",
+      "metrics": {
+        "char_count": 1320,
+        "word_count": 188,
+        "paragraph_count": 5,
+        "quote_count": 3,
+        "has_synthesis": true,
+        "has_context_before_quotes": true,
+        "has_clarification_section": true,
+        "has_speaker_attribution": false,
+        "professional_language": true,
+        "synthesis_score": 0.4,
+        "completeness_score": null,
+        "quality_score": 0.8
+      }
+    },
+    {
+      "question": "How long will it take for our invoice to be paid?",
+      "metrics": {
+        "char_count": 1515,
+        "word_count": 217,
+        "paragraph_count": 7,
+        "quote_count": 1,
+        "has_synthesis": true,
+        "has_context_before_quotes": true,
+        "has_clarification_section": true,
+        "has_speaker_attribution": false,
+        "professional_language": true,
+        "synthesis_score": 0.14285714285714285,
+        "completeness_score": null,
+        "quality_score": 0.7333333333333334
+      }
+    },
+    {
+      "question": "Does the contract specify requirements for a proper invoice?",
+      "metrics": {
+        "char_count": 1930,
+        "word_count": 268,
+        "paragraph_count": 10,
+        "quote_count": 5,
+        "has_synthesis": true,
+        "has_context_before_quotes": true,
+        "has_clarification_section": true,
+        "has_speaker_attribution": false,
+        "professional_language": true,
+        "synthesis_score": 0.4,
+        "completeness_score": null,
+        "quality_score": 0.8
+      }
+    },
+    {
+      "question": "What information must be included in our invoice?",
+      "metrics": {
+        "char_count": 1381,
+        "word_count": 207,
+        "paragraph_count": 6,
+        "quote_count": 2,
+        "has_synthesis": true,
+        "has_context_before_quotes": true,
+        "has_clarification_section": true,
+        "has_speaker_attribution": false,
+        "professional_language": true,
+        "synthesis_score": 0.3333333333333333,
+        "completeness_score": null,
+        "quality_score": 0.7666666666666667
+      }
+    },
+    {
+      "question": "What documentation/information must be submitted with each invoice?",
+      "metrics": {
+        "char_count": 1355,
+        "word_count": 201,
+        "paragraph_count": 6,
+        "quote_count": 2,
+        "has_synthesis": true,
+        "has_context_before_quotes": true,
+        "has_clarification_section": true,
+        "has_speaker_attribution": true,
+        "professional_language": true,
+        "synthesis_score": 0.3333333333333333,
+        "completeness_score": null,
+        "quality_score": 0.9666666666666667
+      }
+    },
+    {
+      "question": "Do we need to submit a \"draft invoice\" before we submit our actual invoice? If so, when does the \"draft invoice\" need to be submitted?",
+      "metrics": {
+        "char_count": 1690,
+        "word_count": 241,
+        "paragraph_count": 8,
+        "quote_count": 3,
+        "has_synthesis": true,
+        "has_context_before_quotes": true,
+        "has_clarification_section": true,
+        "has_speaker_attribution": true,
+        "professional_language": true,
+        "synthesis_score": 0.25,
+        "completeness_score": null,
+        "quality_score": 1.0
+      }
+    },
+    {
+      "question": "What information must be provided in the \"draft invoice\"?",
+      "metrics": {
+        "char_count": 1398,
+        "word_count": 202,
+        "paragraph_count": 8,
+        "quote_count": 3,
+        "has_synthesis": true,
+        "has_context_before_quotes": true,
+        "has_clarification_section": true,
+        "has_speaker_attribution": false,
+        "professional_language": true,
+        "synthesis_score": 0.375,
+        "completeness_score": null,
+        "quality_score": 0.8
+      }
+    },
+    {
+      "question": "Is a Performance Bond Required for this Project?",
+      "metrics": {
+        "char_count": 1414,
+        "word_count": 202,
+        "paragraph_count": 9,
+        "quote_count": 2,
+        "has_synthesis": true,
+        "has_context_before_quotes": true,
+        "has_clarification_section": true,
+        "has_speaker_attribution": false,
+        "professional_language": true,
+        "synthesis_score": 0.1111111111111111,
+        "completeness_score": null,
+        "quality_score": 0.7666666666666667
+      }
+    }
+  ]
+}

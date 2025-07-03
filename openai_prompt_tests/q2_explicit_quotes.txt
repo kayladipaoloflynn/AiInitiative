@@ -1,0 +1,13 @@
+Question: What are the underlying risks associated with performing our work on this project?
+Prompt Variation: explicit_quotes
+Metrics: {
+  "response_time": 0.94,
+  "quote_count": 0,
+  "word_count": 7,
+  "char_count": 41,
+  "has_speaker_names": false,
+  "has_not_mentioned": true
+}
+
+Answer:
+This was not mentioned in the transcript.

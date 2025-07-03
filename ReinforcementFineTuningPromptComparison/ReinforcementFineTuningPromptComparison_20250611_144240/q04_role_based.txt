@@ -1,0 +1,26 @@
+Question 4: Are there any materials estimated for that require extended lead times for ordering/delivery?
+Prompt Type: role_based
+Model: ft:o4-mini-2025-04-16:flynn:test-eleven:BgYLe9DH
+Metrics: {
+  "response_time": 6.6,
+  "quote_count": 0,
+  "word_count": 174,
+  "char_count": 1213,
+  "has_speaker_names": true,
+  "has_sections": true,
+  "has_not_mentioned": false,
+  "has_missing_info": true
+}
+
+Full Answer:
+============================================================
+1. Direct quotes from the transcript  
+   • Frank Jonathan (00:26:54–27:01): “From what I— the taper package probably will need three to four weeks.”  
+   • KEL-WoodLake (00:27:01–27:06): “Before all that will be completed, but like you said, the rest seems to standard product and easily available.”  
+
+2. Expert interpretation  
+   – The only item flagged with significant lead time is the tapered insulation package (“taper package”). Frank confirms it will require three to four weeks for procurement.  
+   – All other roofing materials discussed—SOPRA torchable membranes, cap sheets, self-adhered traffic caps, insulation boards (2-in-1 SmartBoard, XPS), primers and adhesives—are standard stock items and are not expected to incur extended delivery delays.  
+
+3. Professional summary  
+   During the handoff, the team specifically identified the tapered insulation package as having a three- to four-week lead time. No other materials were noted to require extended ordering or delivery schedules, as they are all standard stock products. To avoid schedule impacts, the tapered insulation should be ordered early in the procurement process, while remaining materials can be procured on a standard timeline.

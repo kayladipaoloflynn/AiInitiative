@@ -1,0 +1,699 @@
+Dillworth phase 1 handover  
+Metadata  
+ 
+Title: Dillworth phase 1 handover  
+Location: Teams  
+Date: 2025 -02-11T20:00:16Z UTC  
+Attendees: Alan Zych, Cory Stevenson, Frank Jonathan, KEL -WoodLake -BR(10)(VC), 
+Kevin Trahan, Luke De Fazio, Tracy Moffat  
+Link: https://app.meetgeek.ai/meeting/2f56c8a0 -a173 -4d46 -9011 -42956d0417b7  
+Agenda:  
+30-Minute General Meeting AgendaOpening and Welcome (1 minute)Quick welcome 
+and introduction to the meeting's objectives.Review of Action Items (3 minutes)Brief 
+update on the status of action items from the previous meeting.Key Discussions (20 
+minutes)Focused discussion on one or two key issues that need input or decision -
+making.Time -bound to ensure brevity and relevance.Next Steps (3 minutes)Quick 
+summary of action items arising from the meeting's discussions.Assigning of 
+responsibilities for these items.Wrap -Up (3 minutes)Final thoughts or 
+comments.Confirm the time for the next meeting.  
+ 
+MeetGeek Transcript  
+ 
+Alan Zych - 00:01  
+Okay, so let me give you kind of the high level intro here.  
+So as I was saying before, our goal is to try and leverage some AI tools to make 
+successfully recording the actual real conversations that happen in a handoff meeting 
+And translating that into is not always working fantastically, the documentation of those 
+discussions for the purposes of the handoff  
+form and pill.  
+So that when we review those as part of the ops KPI, when review those, something 
+goes wrong later on in the project,  or if something goes right, that we have that to refer 
+back to and it's an accurate We've done this with a couple different branches so far, had 
+some success.  
+What would like everybody to do today is going through the handoff Questions that 
+exist in the pill handoff meeting today.  
+Please read out the question that you're trying to answer as you kind of move between 
+of discussion.  
+Obviously, certain things kind of wind up flowing in a conversation.  
+ 
+Alan Zych - 01:30  
+Somebody says, oh, well, what about and Z?  
+And that ties into something below.  
+But what we'd like to have happen is you are kind the question and then providing 
+answer.  
+If you have a bunch back and forth, try at the very end of that question to just 
+summarize your kind of final answer, if you'd like to say.  
+What going to do, as I was saying before, is this is being recorded, it's being transcribed, 
+We're gonna run the transcript through NAI and say, conversation, here are the 
+questions we need answered, please give me answer.  
+We inevitably then run it through a second time and say, hey, try, can you give us a little 
+more detail from conversation, what people actually said, don't make it summarized.  
+And then it usually spits something out fairly decent.  
+ 
+Alan Zych - 02:33  
+So provide that to you.  
+Still run your handoff meetin g the way you normally would and put your answers in.  
+The product is not ready prime time for your answers yet, but we'll provide that to you 
+so you can see how it worked.  
+Fair.  
+ 
+KEL-WoodLake -BR(10)(VC) - 02:54  
+questions?  
+ 
+Alan Zych - 02:54  
+Oh you going to use this to steal my voice and hack my credit card or something like 
+that?  
+ 
+KEL-WoodLake -BR(10)(VC) - 03:01  
+I'm not, by the way.  
+Fantastic.  
+ 
+Alan Zych - 03:11  
+will, I'll be online until the end.  
+So will our note takers and the recording will go, but you guys do what you do.  
+I'm going to go turn my camera off and pretend we're Okay.  
+You can even know, fucker Alan a couple of times just to check if I'm really listening.  
+ 
+KEL-WoodLake -BR(10)(VC) - 03:33  
+Oh, folks.  
+right.  
+ 
+Frank Jonathan - 03:38  
+Dariusz, should we get started?  
+ 
+Multiple speakers - 03:39  
+Sure, yep.  
+ 
+Frank Jonathan - 03:41  
+All right, starting with Dillwood Centre phase 1, buildings 1A and 1B.  
+conventional assemblies are WP08, as labeled on the drawings, 2 -ply modbed system, 
+about 260 squares overall.  
+It's over a plywood deck, soap of that bar, two layers of 2.6 inches, glass -faced ISO, 
+Tapered, Mysore Deered, and then 2 -in-1 Super Smart Board and a Super Lean Flamm 
+250 FRGR.  
+And this is George, my bad.  
+And 
+this roof is being picture framed, so on flashings you have the Superplastic Duo and the 
+Superplastic Traffic app.  
+WP10, these are small canopies along the main roof, about squares.  
+ 
+Frank Jonathan - 04:41  
+System as it's shown, 2 -in-1 super smart board which is mechanically fastened, and then 
+you have a super ply -stack traffic app which is self -adhered.  
+for is 10 -year system warranty.  
+I'm to go into the ground level, portion of our job.  
+Overall, you have about squares.  
+this assembly here, WP -04-04A, which is overall squares.  
+Over a concrete deck, you have a super lean flamm 180 base torch and flamm 250 FRGR 
+torched, super 18G loose -laid and then a filter fabric which is loose -laid.  
+So that's All over blue portions of the roof of the patio area you see here.  
+ 
+Frank Jonathan - 05:41  
+Landscape Planters 74 squares.  
+same torch cap base, super barrier 30, two layers of 3 inch XPS 35 PSI, filter fabric which 
+So that's happening pretty much all through these green portions, all these planters, 
+inside  
+a parking ramp that's calling out torch cap, super drain 18G, Then in yellow here.  
+So The reason I blacked out this thing is previously we 4 inch XPS, which we discussed 
+and took that out during the time of bid.  
+So we insulation at the WP04 or 04A.  
+ 
+Multiple speakers - 06:44 
+areas, you have about 123 squares, so this is all of our orange areas as you can see.  
+ 
+Frank Jonathan - 06:51  
+Pretty much as WP09.  
+Not 
+that's being replaced the basketball court and a paved street in purple here.  
+So that's all base cap and 18G.  
+And then moving There is a about 0.5 squares of WP04 -04A 
+level  
+quite an extensive portion Which is about 12 squares, system as we spoke about earlier.  
+ 
+Frank Jonathan - 07:57  
+And those of our systems all through.  
+Any questions systems?  
+ 
+KEL-WoodLake -BR(10)(VC) - 08:06  
+I looked through the specs and actually the was for I believe SOPRA -INFLAM 180 cap 
+base and 180 cap.  
+So was the confirmation of direction from the customer to change to 250?  
+That's the first question.  
+And the second one is, was there also requirement to use the file rated cap on the 
+concrete deck?  
+ 
+Frank Jonathan - 08:37  
+Okay, yes, let me just open up the spec here because This is a long while I'll open it up 
+here.  
+with the FR cap is because it mentioned a flame retarding agent.  
+ 
+Multiple speakers - 09:28  
+So we went 250 FR instead of the 180. And there was mention the 180 as  
+ 
+Frank Jonathan - 09:44  
+bid, so that's why I confused.  
+ 
+KEL-WoodLake -BR(10)(VC) - 09:51  
+think that's exactly what you've got highlighted over here, so proof material, you've got 
+the base go up, go up little bit, you've got that exactly right on the top of screen, you've 
+got the base sheeting, brainstorming, flam 118 and another flam 18. So what I'm saying 
+here is because the deck is  
+gonna get covered with the d rainage mat and insulation, There is no express membrane, 
+we can basically go base on base and that will be cost saving.  
+We can use the FRCAP on the main roof, which will make sense.  
+ 
+Frank Jonathan - 10:28  
+But here we're dealing not combustible surface.  
+ 
+KEL-WoodLake -BR(10)(VC) - 10:32  
+Right.  
+Yeah, that makes sense.  
+ 
+Multiple speakers - 10:33  
+It could be a cost saving and a future discussion for sure.  
+ 
+Frank Jonathan - 10:38  
+But at the time of bidding, did go the FRCAP and let me confirm That on the estima te as 
+well, yes.  
+So yes, we did go with the 250. Okay.  
+On inverted as well.  
+So that might be a cost Okay.  
+ 
+KEL-WoodLake -BR(10)(VC) - 10:52  
+Right.  
+ 
+Frank Jonathan - 10:53  
+We're there saving.  
+apart from that, did you have any questions?  
+If we can come back to the main, to the level one plaza.  
+ 
+Multiple speakers - 11:02  
+I've got a question about the, all the planters.  
+ 
+KEL-WoodLake -BR(10)(VC) - 11:05  
+So I Do not see, I didn't see any of the OLSAN RS230 liquid membrane to do, to address 
+penetration, since we are not doing co -travel over there, we're doing SBS, so any 
+doubles will have to be finished with the OLSAN and I don't see that over here, so was 
+that excluded from the contract?  
+ 
+Frank Jonat han - 11:30  
+So we put that as MISC?  
+On the estimate, and we really don't quantify Alsan, because again, a lot of details way 
+out through, but we have allowed for some misc contingency to cover that.  
+Apart other questions for Dariusz?  
+Not for the deck.  
+Okay.  
+Yeah.  
+All right.  
+ 
+KEL-WoodLake -BR(10)(VC) - 12:00  
+Awesome.  
+ 
+Frank Jonathan - 12:00  
+And this is what the conventional looks like on the main Uh, for this is building 1A.  
+Um, you have Superwalk on, uh, the service path.  
+the light blue represents WP08, wher e we are having a picture frame right around the 
+edges or the perimeter stripping, should say.  
+And being torched.  
+So, um, and then WP10, it's And that's the exterior here.  
+have two pop -up proofs, elevator and stair.  
+That's on the roof.  
+ 
+Frank Jonathan - 12:46  
+And then building 1B, WP08, service proofs, WP10 on the edges.  
+That's for Any questions Nope.  
+ 
+KEL-WoodLake -BR(10)(VC) - 13:11  
+right.  
+ 
+Frank Jonathan - 13:12  
+on to a were not the best at the time of bidding.  
+So we've assumed for the best, just to begin with.  
+the perfect details.  
+We membrane run up and over.  
+And then actually we have it run up and over, we suffocation or high temp membrane 
+underneath the cap.  
+And a cap sheet there.  
+And then pretty Is that metal cladding panel That is not included.  
+ 
+Frank Jonathan - 13:57  
+So what are we doing with membrane?  
+The membrane will bring in up over parapets?  
+Yes, that is about it.  
+ 
+KEL-WoodLake -BR(10)(VC) - 14:03  
+Okay.  
+ 
+Frank Jonathan - 14:11  
+inside would be by the cladders, but since we didn't get any responses, we just included 
+for the membrane up and over.  
+Okay. 
+Yeah.  
+And then these are your Pop on the main you have your membrane run up and tied into 
+the wall here through wall flashing and then a drip edge on the far end.  
+ 
+KEL-WoodLake -BR(10)(VC) - 14:50  
+level.  
+ 
+Frank Jonathan - 14:53  
+Again, pretty much all wherever you see like a Does the fabric run up?  
+I'm sure we've included for those.  
+Should be able to cover and then... So detail.  
+ 
+KEL-WoodLake -BR(10)(VC) - 15:14  
+We don't have any of the press stripping that was not required at the time of the 
+meeting.  
+That's not included in price.  
+If that be requested, it will be coming as As separate, yeah.  
+ 
+Frank Jonathan - 15:37  
+And Pretty all of the details are There isn't a lot of change from one And then Again, 
+pretty much the same.  
+any questions overall about the drawings?  
+Not for me.  
+All So do we estimate quickly or just go to the work order?  
+Maybe let's go to the work order and then we'll be  able to  
+ 
+KEL-WoodLake -BR(10)(VC) - 16:23  
+Actually, Let's do the estimate right work order and then we'll go through the checklist 
+for the handoff.  
+Okay.  
+All right.  
+problem.  
+ 
+Frank Jonathan - 16:35  
+So, 
+color -coded in phase 1 A and B for WP08 and P10.  
+Then you have your conventional assemblies listed down.  
+There considerable amount of tapered.  
+So, I think the price that we carried was cheapest between the suppliers at that time.  
+And then do attack drums, 250 And then the perimeter picture framing is separate d 
+That's my calculation we have included for.  
+ 
+Multiple speakers - 17:28  
+all that inclusive, For the stripping, we have pry travel grade which is the part of the cold 
+stripping assembly?  
+I think I've elastical stick, goes with the super ply stick tool.  
+ 
+Frank Jonathan - 17:53  
+have the copay yet, no.  
+Okay.  
+ 
+KEL-WoodLake -BR(10)(VC) - 17:59  
+right.  
+ 
+Frank Jonathan - 18:04  
+asks for the field after picture framing.  
+Elasticall 500, Soper Walk, HD.  
+And price per square foot at $16.53.  
+ 
+KEL-WoodLake -BR(10)(VC) - 18:22  
+Um, labor, why is your look, can, if we can come back to the, uh, to the material over so 
+this is the main roof, as we are doing picture framing using, uh, let me take a look, are 
+we using elastic, sorry, the, uh, supply traffic stick cap?  
+Yeah.  
+ 
+Multiple speakers - 18:46  
+Okay, so we kind of mistake whi ch being repeated across the board.  
+ 
+KEL-WoodLake -BR(10)(VC) - 18:57  
+So, if the requirement is for the airfare fire rated cap, the traffic state cap is not rated.  
+ 
+Multiple speakers - 19:05  
+Okay, agreed.  
+Yes, but with Flynn's initiative policy, We won't be able to build this job unless we 
+carry... There is option when we can get a standard traffic cap and then we're using the 
+adhesive, like the Coldplay EF adhesive, but that process for the installation is way 
+longer and more costly than the state  
+ 
+KEL-Wood Lake -BR(10)(VC) - 19:36  
+traffic cap is.  
+They may come back on us that we are giving them the product, the cold Coldply 
+product lines, but not fully fire rated.  
+Okay.  
+All right.  
+ 
+Frank Jonathan - 19:51  
+So, that the fire rated products, we'd have to go with the Coldply traffic app, which 
+would use the Coldply.  
+Just give me a second.  
+ 
+KEL-WoodLake -BR(10)(VC) - 20:19  
+and then we'll use the Coldplay EF that and that system.  
+Yeah.  
+Okay.  
+All right.  
+I'll keep projects.  
+ 
+Frank Jonathan - 20:31  
+Okay.  
+For sure.  
+Okay.  
+All right.  
+Then on to the So yeah, quite an extensive number coded to what's there on the 
+drawings.  
+And then, oh, my bad.  
+There right.  
+ 
+Frank Jonathan - 20:58  
+And then, board, 18G.  
+Yeah, might be a pickup here with That's there and then two layers of three inch XPS 
+square.  
+Overall you're looking at close to $ 5.66 at $9.63 a square foot on the  
+work order.  
+there any specific about the stuff that you wanted to go over, Dariusz?  
+No, I look at those hours, that all seems reasonable.  
+ 
+KEL-WoodLake -BR(10)(VC) - 21:54  
+You will have to, of course, look at the any kind of press scripting and all some 
+equipment bring if needed for that, but that will be coming as extra.  
+The one Thank you.  
+Okay, so when you do the installation and then also for fabrication in the specs, when 
+we look at the specs kind of confusing.  
+There ar e two places when they're talking about the Sheet metal.  
+And then one place which is the 0762, which is the bitumenal material.  
+They've got a section about flashing, cut flashing, when they're asking for 10 -foot pieces 
+with the S -log. 
+And then another section 0762, which is Directly talking about the sheet metal, they're 
+asking about 8 -foot pieces and the standing seam joints.  
+ 
+KEL-WoodLake -BR(10)(VC) - 22:59  
+So which one did you use in your estimate?  
+Because that will be a different installation rate.  
+ 
+Frank Jonathan - 23:09  
+Okay, think I went with the single starter strip cleats, then go with the double and the 
+10-foot My sheets are all 4x10s.  
+Let me reconfirm that for us here, just a second.  
+Oh my bad,  
+ 
+KEL-WoodLake -BR(10)(VC) - 23:54  
+Yep so that's that and then scope overview or review.  
+ 
+Multiple speakers - 24:03  
+Okay let me let with the with the questions then we'll be able to appeal those.  
+ 
+KEL-WoodLake -BR(10)(VC) - 24:13  
+So who is the customer for the project describe our past working any, are they any 
+concern to not before proceedings?  
+Me personally, I've never worked with the construction so I can't comment on the 
+relationship those.  
+I don't know attended more, any other estimates for those or you've got any experience 
+with them?  
+haven't worked either.  
+It's our first project with them.  
+Okay.  
+ 
+Frank Jonathan - 24:49  
+I see in the work we've contact persons.  
+ 
+KEL-WoodLake -BR(10)(VC) - 24:54  
+We've got Brian Rich who is the project manager for Grayback.  
+We've got Earl Faraguna who is the construction manager and Bob McAllister who is the 
+superintendent.  
+So this is the main context for us.  
+Schedule review was the project construction schedule expected our scope.  
+ 
+Multiple speakers - 25:20  
+The start roofing is scheduled for 13th of October 2025. And the project is scheduled for 
+128 crew with total crew.  
+ 
+KEL-WoodLake -BR(10)(VC) - 25:36  
+My question is, with all the multi -scope projects, The way I counted for multiple 
+mobilization and demobilization because we probably will be asked to come and do 
+some pre -stripping then come back later on field as of any of those.  
+ 
+Multiple speakers - 25:59  
+Right, so whatever is on been included for and anything above this.  
+ 
+Frank Jonathan - 26:10  
+Inverted looks like 297 hours, so that's definitely mobilization over there.  
+ 
+KEL-WoodLake -BR(10)(VC) - 26:19  
+And for mod bit section you have 104 hours.  
+104 hours, yeah.  
+ 
+Multiple speakers - 26:34  
+review, any matter estimated that we will lead times for ordering delivery?  
+ 
+KEL-WoodLake -BR(10)(VC) - 26:43  
+Your comments on this?  
+Everything is standard, standard stock, so I don't think there are any times.  
+ 
+Frank Jonathan  - 26:54  
+From what I the taper package probably will need three to four weeks.  
+ 
+KEL-WoodLake -BR(10)(VC) - 27:01  
+Before all that will be completed, but like you said, the rest seems to standard product 
+and easily available.  
+Have any alternate materials included for work specification?  
+Do we need to bring this to attention of the client customer before starting?  
+So, items to be confirmed would be roof anchors were shown as a bidding.  
+ 
+Frank Jonathan - 27:33  
+Apart from that, I don't see any other confirmed as everything letter.  
+Okay.  
+ 
+KEL-WoodLake -BR(10)(VC) - 27:47  
+Risk 
+It'd be good to get some eyes on it near closer, but for Okay.  
+ 
+Multiple speakers - 28:04  
+Do you feel that there are underlying risks concentrated with performing on this And do 
+we need to bring anything to the attention of the customer before starting?  
+ 
+KEL-WoodLake -BR(10)(VC) - 28:14  
+So definitely Kevin and Cory, there will be a situation with multiple trades in our way . 
+We'll have to coordinate leverage and making sure we've got the safety zone set up 
+around all lifting equipment as  
+soon as the perimeter of our work.  
+ 
+Multiple speakers - 28:39  
+And to add that, I you're working on wood deck lot of torch, so safety to be watched out 
+for. 
+ 
+KEL-WoodLake -BR(10)(VC) - 28:53  
+the risk, working at heights, combustible products, place to minimize this risk?  
+Picture framing current, all the penetrations, picture framing current, all parameters, all 
+the combustibles will have to be removed from the working area the safety distance.  
+Task swept and garbage picked.  
+Working at the heights, we'll have our guardrail set up around the perimeter.  
+Cory, any questions on this?  
+Any concerns, suggestions?  
+ 
+Multiple speakers - 29:35  
+No, again, nothing jumps out just looking but we'll have to actually see real site 
+conditions when Okay, so to be reviewed.  
+ 
+Cory Stevenson - 29:44  
+Okay, equipment review.  
+ 
+KEL-WoodLake -BR(10)(VC) - 29:50  
+has been estimated for each?  
+Frank, I've got a question.  
+What about crane usage?  
+ 
+Frank Jonathan - 30:00  
+So we have an on our estimate, but depending project is complete and if the crane is 
+still there on site time for us to use, it all depends.  
+we've carried for 250 dollars an hour And total allowance of both inverted and, let me 
+just combine this one second, 20 hours here on inverted, 46 hours overall, has been 
+allowed for.  
+Okay.  
+Did rights to the tower crane on site?  
+ 
+KEL-WoodLake -BR(10)(VC) - 30:42  
+don't think so.  
+Okay.  
+Project scope the estimation team drawing, specification and estimate?  
+My answer is yes.  
+Everything was presented, the information at this point are clear.  
+We will probably have more questions once will get closer to the project, send some 
+advice.  
+We'll to confirm with the customer use of that 180 base on base on the deck if they're 
+okay with that this is not combustible.  
+ 
+KEL-WoodLake -BR(10)(VC) - 31:27  
+Also any kind of pre -stripping we'll have to do on the time material base which will be 
+probably safer for us.  
+It will be difficult with that amount of the planters on site.  
+difficult to estimate that probably.  
+Okay, I don't think more on this.  
+The estimating provides construction team a complete global takeoff.  
+ 
+Frank Jonathan - 31:56  
+Yes, it's there on your folder.  
+Yeah, I like easy for guys for our performance to  spot, so thank you for that.  
+ 
+KEL-WoodLake -BR(10)(VC) - 32:09  
+Does the construction team have a 100% clear idea of what our complete scope is?  
+yes. 
+At this point, there is no more questions.  
+We have very little time review this, but everything seems clear.  
+Form and comments.  
+What input suggestion did Foreman have installation Kevin, Um, no, it seems like it 
+should be fairly straightforward.  
+ 
+Multiple speakers - 32:43  
+do like the color coding as That should help a lot to know uh, yeah.  
+ 
+Kevin Trahan - 32:51  
+So you think any obstacles I think what customer?  
+ 
+KEL-WoodLak e-BR(10)(VC) - 33:02  
+Um, no, I don't think so.  
+Okay.  
+ 
+Multiple speakers - 33:11  
+review or have project payroll attributes will be confirmed I say yes.  
+ 
+KEL-WoodLake -BR(10)(VC) - 33:19  
+It appears be correct.  
+design, do we have design from the manufacturer warranty And provides the adhesive 
+pastaining pattern.  
+Did we obtain that design letter?  
+Yes. 
+Okay.  
+So we've got in PIO?  
+Yeah, in the design review folder.  
+ 
+KEL-WoodLake -BR(10)(VC) - 33:45  
+Okay.  
+And then did provide wind uplift calculation?  
+ 
+Multiple speake rs - 33:50  
+wind uplift calculation provided by the customer or did you obtain them from the wind 
+uplift calculator?  
+ 
+KEL-WoodLake -BR(10)(VC) - 33:56  
+We obtained that from the wind uplift calculator.  
+Okay, so we'll have to confirm with the client.  
+Yes, sometimes they have a little bit stricter requirements than what's needed, fine.  
+ 
+Multiple speakers - 34:13  
+That's at least give us a good window, good starting point for the material.  
+ 
+KEL-WoodLake -BR(10)(VC) - 34:19  
+Does this project require cold water application procedures as recommended by the 
+manufacturer?  
+ 
+Frank Jonathan - 34:25  
+they?  
+ 
+KEL-WoodLake -BR(10)(VC) - 34:26  
+So as we will be starting this project in October, we'll be probably running into late, you 
+know, late or in the winter and proceeding through the winter with that.  
+So we'll definitely have some limitations with the With the cap stripping installation, like 
+the cut -off is zero degree, I'll have to make sure that the customer aware of that.  
+We'll have to use a winter rated product, so winter rated primers for the SOPRA VAP.  
+This we can install to minus 10, which is good.  
+We'll at least get them more waterti ght for the time being.  
+But yes, there is a high chance that we'll have to use the winter rated product for this 
+project.  
+Okay.  
+ 
+KEL-WoodLake -BR(10)(VC) - 35:23  
+contract been reviewed internally?  
+that's been reviewed, but our branch manager development manager as long as me for 
+the details.  
+If you are the subcontractor, do you have the copy of prime contract?  
+If not, request the copy of the prime contract.  
+don't have the copy of prime contract, I believe, yet.  
+That will be requested.  
+Do we know if prime pay ment rules apply under provincial registration?  
+ 
+KEL-WoodLake -BR(10)(VC) - 36:00  
+are the payment terms and how long it will take for our invoice to be paid?  
+We don't have the – I don't believe we have the prompt payment rules yet, but it, will 
+take for the invoice to be paid and then the payment terms.  
+Does the contract specify requirements proper invoice?  
+ 
+Multiple speakers - 36:26  
+What information must be included in our invoice?  
+ 
+KEL-WoodLake -BR(10)(VC) - 36:29  
+What documentation information must be submitted with invoice?  
+So, definitely the progress r eport and the schedule of values will accompany each of the 
+invoices.  
+Do we need to submit a draft invoice before we submit our action invoice?  
+If so, draft need to be submitted?  
+What information must be provided in the draft invoice?  
+That's applicable, I believe, at this yet.  
+And then bonding, is the performing bond requirement required project?  
+ 
+KEL-WoodLake -BR(10)(VC) - 37:03  
+Do we have bonding for this?  
+No, we don't bonding.  
+No bonding?  
+No bonding.  
+Okay.  
+ 
+Frank Jonathan - 37:11  
+I think this is what I ha ve. 
+Okay.  
+forward with order, I think that the set most but just a quick run through.  
+128 crew days, six -man crew, grayback construction, roofing system visual under this 
+folder and file destination These documents been reviewed at the Then you have your 
+all broken out for inverted mod bid.  
+hours reflects separately for each.  
+Contacts, we went that already.  
+It's your system warranty.  
+ 
+Frank Jonathan - 38:12  
+is basically just a copy paste from the quote letter, the main one is like, there's no 
+RCABC warranty included for.  
+Scaffolding by construction manager.  
+Price includes two inch XPS perimeter of the buildings.  
+So pretty much the main ones.  
+24 gauge metal standard stock colors.  
+And then be confirmed, roofing anchors to be confirmed.  
+pretty much got to do with the design letter at the time the wind calculated through the 
+calculator.  
+ 
+Frank Jonathan - 39:06  
+So yeah, I think we spoke about this already add -ons w ould be like the Superwalk, is for 
+that service path that we just had chance to look at.  
+24 gauge metal, 16 roof scuppers on the main roof.  
+Then WP10, Pretty much all of them canopies, then 24 gauge metal as Inverted supply, 
+WP03, all footage for each of them.  
+And that wraps up our work order here.  
+Any other  
+All right, awesome.  
+Thanks guys, good luck.  
+ 
+KEL-WoodLake -BR(10)(VC) - 40:17  
+you.  
+ 
+Frank Jonathan - 40:20  
+Thank you.  
+ 
+Multiple speakers - 41:00  
+never had a crowd that big like this time so get a little nervous and jump the gun and 
+then let Frank order.  
+ 
+Cory Stevenson - 41:06  
+My apologies.  
+You're good right now.  
+You guys are pretty engaged there so let's go.  
+ 
+Luke De Fazio - 41:13  
+Okay yeah we did went through the specs earlier and sent through the work order as 
+well so maybe that was bad.  
+ 
+Multiple speakers - 41:22  
+Yeah no and I think you guys have some stuff to change too right and you're already on 
+it so you guys got some definitely some time here so it's good good.  
+Uh, yeah, it's just the torching the wood is a little concerning, but you guys might need 
+to change that to meet protocols.  
+ 
+KEL-WoodLake -BR(10)(VC) - 41:39  
+That's the only comment I would have.  
+ 
+Cory Stevenson - 41:44  
+Awesome.  
+Okay.  
+ 
+Luke De Fazio - 41:45  
+appreciate you guys having us and if you guys help, just let us know.  
+you.  
+ 

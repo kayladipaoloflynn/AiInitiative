@@ -1,0 +1,14 @@
+QUESTION 5: Have any alternate materials been included in the scope of work or specification?
+
+ANSWER:
+1. Direct quotes from the transcript  
+- KEL-WoodLake-BR(10)(VC) (26:43): “Have any alternate materials included for work specification? Do we need to bring this to attention of the client customer before starting?”  
+- Frank Jonathan (27:33): “Apart from that, I don’t see any other confirmed – everything else is standard.”  
+- Frank Jonathan (09:28): “So we went 250 FR instead of the 180.”  
+
+2. Expert interpretation  
+- The exchange at 26:43–27:33 makes clear that, aside from the one confirmed swap, the estimating team did not carry any other alternate products. Everything beyond standard, stock-listed materials remains as bid.  
+- The earlier discussion at 08:06–09:28 documents a single material substitution: the project was bid on SOPRA-INFLAM 180 cap base and cap sheet, but the team confirmed they have provisioned SOPRA-INFLAM 250 FRGR (flame-retardant) cap instead of the 180. That is the only formal alternate the client has approved to date.  
+
+3. Professional summary  
+The scope and specifications for Dillworth Phase 1, Buildings 1A/1B, incorporate just one alternate material: the substitution of the bid-base SOPRA-INFLAM 180 cap sheet with the flame-retardant SOPRA-INFLAM 250 FRGR cap sheet. Apart from that change, all roofing assemblies and accessory products carried in the work order are standard, stock items in accordance with the original specifications. No other alternates have been included, and if any further product deviations are proposed, they should be highlighted to the client for formal approval prior to procurement or installation.

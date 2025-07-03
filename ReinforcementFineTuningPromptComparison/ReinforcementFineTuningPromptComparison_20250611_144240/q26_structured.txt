@@ -1,0 +1,36 @@
+Question 26: What documentation/information must be submitted with each invoice?
+Prompt Type: structured
+Model: ft:o4-mini-2025-04-16:flynn:test-eleven:BgYLe9DH
+Metrics: {
+  "response_time": 9.36,
+  "quote_count": 0,
+  "word_count": 182,
+  "char_count": 1229,
+  "has_speaker_names": true,
+  "has_sections": true,
+  "has_not_mentioned": false,
+  "has_missing_info": true
+}
+
+Full Answer:
+============================================================
+#### 1. RELEVANT QUOTES  
+- KEL-WoodLake-BR(10)(VC) (36:29): “What documentation information must be submitted with invoice?  
+  So, definitely the progress report and the schedule of values will accompany each of the invoices.”  
+
+#### 2. ANALYSIS  
+From this exchange, the team was clarifying what back‐up materials must be sent along with every billing submission. The response explicitly identifies two items—  
+  • A progress report  
+  • A schedule of values  
+These are the only documents mentioned in the transcript as mandatory attachments to each invoice.
+
+#### 3. GAPS OR MISSING INFORMATION  
+- The transcript does not specify the required format, level of detail, or frequency of updates for the progress report.  
+- It does not describe the structure or breakdown required in the schedule of values.  
+- No other customary billing attachments (e.g., lien waivers, certified payroll records, tax forms, draft invoice requirements) are mentioned.  
+- There is no confirmation whether any additional project‐specific or contract‐specified forms must accompany the invoice.
+
+#### 4. FINAL ANSWER  
+Based solely on the transcript, each invoice must be submitted with:  
+  1. A progress report  
+  2. A schedule of values

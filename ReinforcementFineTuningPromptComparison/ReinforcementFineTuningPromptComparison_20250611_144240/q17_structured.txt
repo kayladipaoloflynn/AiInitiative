@@ -1,0 +1,30 @@
+Question 17: Has Contract been reviewed internally?
+Prompt Type: structured
+Model: ft:o4-mini-2025-04-16:flynn:test-eleven:BgYLe9DH
+Metrics: {
+  "response_time": 8.04,
+  "quote_count": 0,
+  "word_count": 168,
+  "char_count": 1125,
+  "has_speaker_names": true,
+  "has_sections": true,
+  "has_not_mentioned": false,
+  "has_missing_info": true
+}
+
+Full Answer:
+============================================================
+#### 1. RELEVANT QUOTES  
+- KEL-WoodLake-BR(10)(VC) (35:23): “contract been reviewed internally?”  
+- Multiple speakers (immediately following): “that’s been reviewed, but our branch manager development manager as long as me for the details.”  
+
+#### 2. ANALYSIS  
+When asked directly whether the contract had been reviewed internally, the team affirmed that it had. The response indicates that the review was conducted by the branch manager, the development manager, and the person speaking (KEL-WoodLake), though no other individuals or departments are named.  
+
+#### 3. GAPS OR MISSING INFORMATION  
+- The transcript does not specify the date of the internal review or any findings from that review.  
+- It does not indicate whether legal counsel or other stakeholders (e.g., finance or risk management) participated in the review.  
+- There is no detail on what aspects of the contract were reviewed or whether any issues were identified.  
+
+#### 4. FINAL ANSWER  
+Yes. The transcript records that the contract “has been reviewed internally” by the branch manager, the development manager, and the speaker (KEL-WoodLake).

@@ -1,0 +1,18 @@
+QUESTION 27: Do we need to submit a "draft invoice" before we submit our actual invoice? If so, when does the "draft invoice" need to be submitted?
+
+ANSWER:
+1. Direct quotes from the transcript  
+   • KEL-WoodLake (timestamp ~36:23):  
+     “Do we need to submit a draft invoice before we submit our actual invoice?  If so, when does the draft need to be submitted?  What information must be provided in the draft invoice?  That’s applicable, I believe, at this yet.”  
+   • (No subsequent speaker provides a definitive answer to that question during the meeting.)
+
+2. Expert interpretation  
+   – The topic of a “draft invoice” was explicitly raised by KEL as something to confirm with the prime contract and payment terms, but the team did not resolve it in the meeting.  
+   – The phrase “applicable, I believe, at this yet” signals that the requirement to provide a draft invoice has not been established in the documents they have on hand (they have not yet seen the prime contract or prompt‐payment rules in full).  
+   – Because no one in the transcript commits to a draft‐invoice submission deadline or details its contents, it appears the team does not currently have sufficient information to mandate or calendar a draft‐invoice submittal.
+
+3. Professional summary  
+   During the handover review, the construction team surfaced the question of whether a draft invoice must precede the formal invoice and, if so, when and in what form.  However, they did not arrive at a definitive answer because:  
+   • They have not yet reviewed the prime contract or prompt‐payment requirements in detail.  
+   • No one on the call confirmed a draft‐invoice deadline or standard contents.  
+   Next steps: as soon as the prime contract (and any applicable provincial prompt‐payment rules) are obtained, the team should verify whether a draft invoice is contractually mandated, and if so, establish the timing (for example, a week before each progress draw) and the required level of detail (line‐item schedule of values, backup support documents, etc.).  Until that review is complete, there is no obligation to prepare or submit a draft invoice.

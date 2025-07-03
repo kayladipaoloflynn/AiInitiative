@@ -1,0 +1,34 @@
+Question 22: What are the payment terms?
+Prompt Type: role_based
+Model: ft:o4-mini-2025-04-16:flynn:test-eleven:BgYLe9DH
+Metrics: {
+  "response_time": 11.91,
+  "quote_count": 0,
+  "word_count": 396,
+  "char_count": 2660,
+  "has_speaker_names": true,
+  "has_sections": true,
+  "has_not_mentioned": false,
+  "has_missing_info": false
+}
+
+Full Answer:
+============================================================
+1. Direct quotes from the transcript that bear on payment terms  
+   • KEL-WoodLake: “are the payment terms and how long it will take for our invoice to be paid?” (36:00)  
+   • Other speaker: “We don’t have the – I don’t believe we have the prompt payment rules yet, but it, will take for the invoice to be paid and then the payment terms.” (36:26)  
+   • KEL-WoodLake: “Does the contract specify requirements proper invoice? What information must be included in our invoice? What documentation information must be submitted with invoice? So definitely the progress report and the schedule of values will accompany each of the invoices.” (36:29–36:43)  
+
+2. Expert interpretation  
+   At the time of this handover meeting, the project team has not yet confirmed the specific payment terms. They recognize that prompt-payment legislation (under provincial registration) may apply but have not obtained or reviewed those rules. They also do not yet have a copy of the prime contract, which typically defines the payment schedule, invoice submission requirements and timing (for example, net-30, net-45, etc.). In the interim, they have agreed that every progress claim will be supported by a progress report and a schedule of values, as required back-up documentation. No performance bond is required on this project, and invoice content requirements (beyond the progress report and schedule of values) will be clarified once the prime contract and any prompt-payment regulations are in hand.
+
+3. Professional summary  
+   During the Dillworth Phase 1 handover, the team specifically raised the question of payment terms and invoice timing but confirmed that these have not yet been defined. They are awaiting:
+     – A copy of the prime contract (to confirm the contract’s invoicing requirements, payment intervals and any prompt-payment provisions under provincial law).  
+     – The formal prompt-payment rules (to establish statutory deadlines for owner or general-contractor payment to the roofing subcontractor).  
+   In the meantime, the agreed procedure is that each progress invoice will be accompanied by a progress report and schedule of values. Once the prime contract and prompt-payment regulations have been reviewed, the project manager should issue a written memo or update specifying:  
+     – The billing frequency (e.g., monthly, bi-monthly).  
+     – The due date or net days (e.g., net 30).  
+     – Any retentions or holdbacks.  
+     – Documentation and submission protocols (format, contact, distribution).  
+   That follow-up will fully establish the payment terms and ensure compliance with both contractual and statutory requirements.

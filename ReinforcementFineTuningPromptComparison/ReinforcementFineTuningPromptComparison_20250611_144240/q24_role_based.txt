@@ -1,0 +1,31 @@
+Question 24: Does the contract specify requirements for a proper invoice?
+Prompt Type: role_based
+Model: ft:o4-mini-2025-04-16:flynn:test-eleven:BgYLe9DH
+Metrics: {
+  "response_time": 10.5,
+  "quote_count": 0,
+  "word_count": 342,
+  "char_count": 2310,
+  "has_speaker_names": true,
+  "has_sections": true,
+  "has_not_mentioned": false,
+  "has_missing_info": true
+}
+
+Full Answer:
+============================================================
+1. Direct quotes from the transcript  
+  - KEL-WoodLake -BR(10)(VC) (around 36:00): “Does the contract specify requirements proper invoice?”  
+  - Multiple speakers immediately thereafter: “What information must be included in our invoice?”  
+  - KEL-WoodLake -BR(10)(VC): “What documentation information must be submitted with invoice? So, definitely the progress report and the schedule of values will accompany each of the invoices.”  
+  - KEL-WoodLake -BR(10)(VC): “If so, draft need to be submitted? What information must be provided in the draft invoice? That’s applicable, I believe, at this yet.”  
+  - KEL-WoodLake -BR(10)(VC) (just prior): “If you are the subcontractor, do you have the copy of prime contract? If not, request the copy of the prime contract.”
+
+2. Expert interpretation  
+  - The team explicitly asked whether the prime contract defines what constitutes a proper invoice, but they had not yet located or reviewed those provisions.  
+  - In lieu of contract language, they defaulted to standard practice—attaching a progress report and schedule of values to each billing.  
+  - They recognize that draft invoices or additional supporting information may be required, but have not confirmed specifics because they do not yet have the prime contract or prompt-payment rules in hand.  
+  - The absence of a definitive answer in the discussion indicates that the contract’s invoice requirements remain unverified and must be confirmed once the prime contract documentation is obtained.
+
+3. Professional summary  
+  At this handover meeting, the construction team questioned whether the contract details the form and content requirements for a proper invoice. No explicit contract language was identified during the call. In the interim, the team agreed to attach a progress report and schedule of values to each invoice as a best practice. They also noted potential requirements for a draft invoice or other supporting data but were unable to specify those elements until they receive and review the prime contract and any applicable prompt-payment regulations. The next step is to secure the prime contract document, confirm invoice format requirements, payment terms, and any prompt-payment rules, and then communicate those obligations clearly to the billing team before work commences.

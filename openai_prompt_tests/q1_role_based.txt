@@ -1,0 +1,19 @@
+Question: Who is the customer for this project and describe our past working relationship, if any?
+Prompt Variation: role_based
+Metrics: {
+  "response_time": 3.05,
+  "quote_count": 4,
+  "word_count": 78,
+  "char_count": 524,
+  "has_speaker_names": true,
+  "has_not_mentioned": false
+}
+
+Answer:
+KEL-WoodLake-BR(10)(VC): "Me personally, I've never worked with the construction so I can't comment on the relationship those. I don't know attended more, any other estimates for those or you've got any experience with them?"
+
+Multiple speakers: "haven't worked either. It's our first project with them."
+
+**Actionable Information:**
+- This is the first project with the customer, so there is no past working relationship to reference.
+- Ensure clear communication and establish a strong working relationship from the start.

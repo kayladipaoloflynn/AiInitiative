@@ -1,0 +1,28 @@
+Question 21: Do we know if "prompt payment" rules apply under the provincial construction legislation (given the date of the Prime Contract)?
+Prompt Type: role_based
+Model: ft:o4-mini-2025-04-16:flynn:test-eleven:BgYLe9DH
+Metrics: {
+  "response_time": 14.13,
+  "quote_count": 0,
+  "word_count": 314,
+  "char_count": 2029,
+  "has_speaker_names": true,
+  "has_sections": true,
+  "has_not_mentioned": false,
+  "has_missing_info": false
+}
+
+Full Answer:
+============================================================
+1. Direct quotes from the transcript that bear on prompt-payment applicability  
+   - KEL-WoodLake (approx. 35:50):  
+     “If you are the subcontractor, do you have the copy of the prime contract?  If not, request the copy of the prime contract.  Do we know if prime payment rules apply under provincial registration?”  
+   - (shortly thereafter) a team member:  
+     “We don’t have the – I don’t believe we have the prompt payment rules yet, but … it will take for the invoice to be paid and then the payment terms.”  
+
+2. Expert interpretation  
+   •   At the time of this handover, the team has not yet obtained or reviewed the prime contract and therefore cannot confirm whether the province’s prompt payment legislation governs this work.  
+   •   Prompt payment regimes in most Canadian provinces (for example, B.C. as of October 1, 2022, Ontario as of September 2023, Alberta in 2024) are triggered by the effective date of the prime contract and by the location of the work.  Without the executed prime contract in hand, there is no way to verify (a) when the contract was signed, (b) whether it expressly opts out of or incorporates the statutory prompt-payment regime, or (c) what specific invoice timing and interest-on-late-payment provisions apply.  
+
+3. Professional summary  
+   To determine whether prompt-payment rules apply, the construction team must immediately secure and review the fully executed prime contract and cross-reference it against the provincial prompt-payment legislation in force on the date the prime contract was entered into.  If the prime contract was executed after the legislative effective date (e.g., October 1, 2022 in B.C.) and does not validly opt out, then the statutory notice, invoice-review and adjudication timelines (often 28 days for payment and 7 days for disputed portions) will govern.  Until that contract review is complete, the team cannot confirm invoicing deadlines or interest charges on late payments, and should treat all payment-term assumptions as provisional.

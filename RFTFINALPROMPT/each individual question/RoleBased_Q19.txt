@@ -1,0 +1,17 @@
+QUESTION 19: If we are a Subcontractor, do we have a copy of the Prime Contract? If not,  request a copy.
+
+ANSWER:
+1. Direct quotes from the transcript  
+   a) KEL-WoodLake-BR(10)(VC) at ~35:23:  
+      “Contract been reviewed internally?”  
+      Reply: “That’s been reviewed, but our branch manager, development manager as long as me for the details.”  
+   b) KEL-WoodLake-BR(10)(VC) at ~36:00:  
+      “If you are the subcontractor, do you have the copy of prime contract? If not, request the copy of the prime contract.”
+
+2. Expert interpretation  
+   – The discussion confirms that while the team has performed an internal review of their own contract documents, they have not yet confirmed possession of the owner–general-contractor (prime) agreement.  
+   – As a subcontractor, you must have a copy of the prime contract in order to fully understand the tiered flow-down obligations (scope, payment terms, prompt payment rules, change procedures, bonding requirements, insurance, etc.).  
+   – The transcript explicitly instructs that, if the subcontractor does not already hold the prime contract, one must be formally requested from the client (or from the general contractor).
+
+3. Professional summary  
+   In the handoff meeting the question was raised whether the subcontractor has a copy of the prime contract, and it was acknowledged that although the subcontractor’s own internal agreement has been reviewed, the prime contract itself has not yet been obtained.  To protect the subcontractor’s interests—and to ensure alignment with the owner–GC agreement on payment terms, bond requirements, prompt-payment rules and all flow-down clauses—the subcontractor must now formally request a copy of the prime contract from the general contractor (or appropriate client contact) before work begins.

@@ -1,0 +1,41 @@
+Question 25: What information must be included in our invoice?
+Prompt Type: role_based
+Model: ft:o4-mini-2025-04-16:flynn:test-eleven:BgYLe9DH
+Metrics: {
+  "response_time": 11.46,
+  "quote_count": 0,
+  "word_count": 421,
+  "char_count": 2962,
+  "has_speaker_names": true,
+  "has_sections": false,
+  "has_not_mentioned": false,
+  "has_missing_info": false
+}
+
+Full Answer:
+============================================================
+1. Direct Quotes from the Transcript  
+   • KEL-WoodLake-BR(10)(VC) at 36:26:  
+     “What information must be included in our invoice? What documentation information must be submitted with invoice? So, definitely the progress report and the schedule of values will accompany each of the invoices.”  
+
+2. Expert Interpretation  
+   a. Progress Report  
+      – The team has agreed that every billing submission must be backed up by a progress report.  In a construction‐billing context, a progress report typically summarizes the percentage of work completed in each scope area (e.g., membrane installation, insulation, flashing), records any deviations or change-order work, and confirms readiness for the invoiced payment milestone.  
+   b. Schedule of Values  
+      – The schedule of values is a line-item breakdown of the contract sum, allocating portions of the total price to specific work items (e.g., WP08 membrane, tapered insulation, planters, canopy roofing).  By attaching it to each invoice, the billing department and the client can see exactly how much value of work has been performed against each defined scope and verify the amounts billed.  
+
+   Beyond these two items, industry best practice—and likely the prime contract’s “proper invoice” requirements—will dictate inclusion of:  
+   – Invoice header information (invoice number, date, billing period)  
+   – Reference to the prime contract or work order number  
+   – Description of work performed, broken out by CSI code or by work-package code (e.g., WP08, WP04-04A, WP10)  
+   – Quantity, unit price, and extended price consistent with the schedule of values  
+   – Identification of any retention or holdback amounts  
+   – Payment terms (net 30, prompt-payment rules)  
+   – Any required supporting documentation (lien waivers, certified payroll reports, change-order authorizations), if called out in the contract  
+
+3. Professional Summary  
+   For the Dillworth Phase 1 handover project, each progress‐billing invoice must contain at a minimum:  
+   1. A current progress report showing the percent complete or quantities installed in each work category.  
+   2. The approved schedule of values, with line items aligned to the contract’s assemblies (e.g., WP08, WP10, inverted roofing, insulation packages), demonstrating how the invoiced amount breaks down by scope.  
+
+   In addition, to meet “proper invoice” requirements and facilitate prompt payment under the prime contract, the contractor should ensure the invoice also includes standard billing details (invoice number and date, project identifiers, payment terms) and any other documents or certifications the contract specifies (for example, lien waivers or certified payroll if required). By bundling the progress report and schedule of values with these core invoice elements, the billing package will meet both the internal expectations voiced in the handoff meeting and the formal requirements of the prime contract.

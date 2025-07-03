@@ -1,0 +1,24 @@
+QUESTION 18: Are there any contractual risks to note?
+
+ANSWER:
+1. Direct quotes from the transcript that point to contractual‐level concerns  
+   - “If you are the subcontractor, do you have the copy of prime contract? If not, request the copy of the prime contract.” (KEL–WoodLake, 36:00)  
+   - “Do we know if prime payment rules apply under provincial registration? What are the payment terms and how long it will take for our invoice to be paid? We don't have the prompt payment rules yet.” (KEL–WoodLake, 36:00–36:26)  
+   - “Does the contract specify requirements proper invoice? What information must be included in our invoice? What documentation information must be submitted with invoice?” (KEL–WoodLake, 36:26–36:29)  
+   - “Bonding, is the performing bond requirement required project? Do we have bonding for this? No, we don't bonding.” (KEL–WoodLake, 37:03–37:11)  
+   - “Items to be confirmed would be roof anchors were shown as a bidding item.” (KEL–WoodLake, 27:33)  
+
+2. Expert interpretation of these points  
+   - Missing prime contract: Without the signed prime contract, the team lacks visibility into key clauses—scope definitions, indemnities, insurance and bonding requirements, hold-back provisions, change order procedures and dispute resolution mechanisms. This creates exposure to obligations that may not have been anticipated in the estimate or work-order.  
+   - Unconfirmed prompt‐payment regime and invoice requirements: Not knowing if statutory prompt‐payment rules apply, nor what constitutes a “proper invoice,” risks delayed or withheld payments. If the subcontractor’s invoices fail to meet the owner’s contract or governmental criteria (e.g., required line-item breakdown or supplemental documentation), cash flow and retention release could be compromised.  
+   - No performance bond in place: If the prime contract ultimately requires bonding (and it is not secured), the subcontractor could be barred from proceeding or face default. Conversely, the absence of a bond where one is contractually required may expose the contractor to liquidated damages or termination.  
+   - Scope uncertainty around roof anchors: Roof anchors were bid but not fully “confirmed.” If anchors are found to be part of the permanent scope (or require additional engineering), the subcontractor may face extra costs or liabilities that were not captured in the estimate.  
+
+3. Professional summary of contractual risks and recommended next steps  
+   Based on the handover discussion, the principal contractual risks are:  
+   • Absence of the prime contract and its terms: The subcontractor must secure and review the prime agreement immediately to confirm scope, bonding and insurance requirements, payment terms, change‐order procedures and dispute resolution methods.  
+   • Uncertain prompt-payment and invoicing requirements: Clarify whether provincial prompt-payment legislation applies; obtain the owner’s or prime-contract template for “proper invoice” submission and confirm the schedule of values, progress-report attachments, retention percentages and accepted formats to avoid payment delays.  
+   • Bonding exposure: Determine if performance or payment bonds are contractually mandated. If required, arrange for bonding in advance of mobilization to prevent non-compliance or right‐to-proceed problems.  
+   • Unverified ancillary scope (roof anchors): Confirm in writing with the construction manager or general contractor whether roof anchors, flashings or other details—outlined in the bid but not fully documented—are included in the subcontract. If not, secure a formal change order or allowance.  
+
+   By addressing these items now—before materials procurement, mobilization or major cash outlays—the team can mitigate payment risk, scope creep and potential contract default.

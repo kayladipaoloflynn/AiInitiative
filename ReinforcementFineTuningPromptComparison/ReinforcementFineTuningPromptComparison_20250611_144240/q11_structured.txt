@@ -1,0 +1,16 @@
+Question 11: Did estimating provide to the construction team a complete Bluebeam take -off with highlighted drawings indicating our scope of work?
+Prompt Type: structured
+Model: ft:o4-mini-2025-04-16:flynn:test-eleven:BgYLe9DH
+Metrics: {
+  "response_time": 26.97,
+  "quote_count": 0,
+  "word_count": 0,
+  "char_count": 0,
+  "has_speaker_names": false,
+  "has_sections": false,
+  "has_not_mentioned": false,
+  "has_missing_info": false
+}
+
+Full Answer:
+============================================================

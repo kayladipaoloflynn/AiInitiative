@@ -1,0 +1,14 @@
+QUESTION 29: Is a Performance Bond Required for this Project?
+
+ANSWER:
+1. Direct quotes from the transcript  
+- KEL-WoodLake –BR(10)(VC) (timestamp ~37:03): “And then bonding, is the performing bond requirement required project?”  
+- Frank Jonathan (immediately following): “Do we have bonding for this?”  
+- KEL-WoodLake –BR(10)(VC): “No, we don’t bonding.”  
+- Frank Jonathan (confirming): “No bonding? No bonding.”
+
+2. Expert interpretation  
+In that exchange, the team explicitly raises the question of whether a performance bond is a contractual requirement. Both speakers immediately agree that no bonding has been carried or required. In construction projects, a performance bond guarantees that the contractor will complete the work per contract terms; here, the estimating and project team have not allocated any allowance for a performance bond, indicating that the prime contract or client specifications do not call for one. It remains prudent, however, to verify this absence of bonding requirements in the subcontract or prime contract documents before mobilization.
+
+3. Professional summary  
+During the handover meeting for Dillworth Phase 1, the team confirmed that no performance bond is required for this project. There is no line-item allowance or contingency set aside for bonding in the estimate or work order, and the project’s contractual scope as discussed does not include any performance bond condition. To finalize this conclusion, the construction manager should cross-check the prime contract and any client addenda to ensure that a performance bond is indeed not stipulated. Assuming that review yields no bonding clause, the project can proceed without arranging a performance bond.

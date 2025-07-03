@@ -1,0 +1,13 @@
+Question: Who is the customer for this project and describe our past working relationship, if any?
+Prompt Variation: minimal
+Metrics: {
+  "response_time": 2.82,
+  "quote_count": 0,
+  "word_count": 23,
+  "char_count": 142,
+  "has_speaker_names": false,
+  "has_not_mentioned": false
+}
+
+Answer:
+The customer for this project is Grayback Construction. There is no past working relationship mentioned, as it is the first project with them.

@@ -1,0 +1,28 @@
+Question 9: What equipment has been estimated for and what amount has been carried  for each?
+Prompt Type: role_based
+Model: ft:o4-mini-2025-04-16:flynn:test-eleven:BgYLe9DH
+Metrics: {
+  "response_time": 8.2,
+  "quote_count": 0,
+  "word_count": 243,
+  "char_count": 1466,
+  "has_speaker_names": true,
+  "has_sections": true,
+  "has_not_mentioned": false,
+  "has_missing_info": false
+}
+
+Full Answer:
+============================================================
+1. Direct transcript quotes  
+- KEL-WoodLake (30:00): “What about crane usage?”  
+- Frank Jonathan (30:00–30:06): “So we have an on-our estimate, but depending [on] project is complete and if the crane is still there on site time for us to use, it all depends. We’ve carried for 250 dollars an hour and total allowance of both inverted and, let me just combine this one second, 20 hours here on inverted, 46 hours overall, has been allowed for.”  
+- KEL-WoodLake (30:42): “Did rights to the tower crane on site? … don’t think so.”  
+
+2. Expert interpretation  
+- The only piece of heavy equipment explicitly budgeted in the handover is crane time.  
+- The estimator assumed availability (or partial availability) of the tower crane and priced usage at a blended rate of $250 per hour.  
+- They split the hours by scope: 20 hours allocated to the inverted roofing portion and a total of 46 hours allocated across the entire Phase 1A/B roofing work.  
+
+3. Professional summary  
+The project’s equipment allowance is confined to crane time, budgeted at $250/hr. In the work order, the estimator included 20 hours of crane service under the inverted roofing scope and a total of 46 hours of crane service for all roofing assemblies. No other specialized equipment (e.g., hoists, aerial lifts) was quantified or costed in this handover discussion; all other on-site handling and lifting will rely on this crane allowance or be covered under general labor and supervision.

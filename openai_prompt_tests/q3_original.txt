@@ -1,0 +1,20 @@
+Question: What is the project construction schedule (start and expected completion) for our scope?
+Prompt Variation: original
+Metrics: {
+  "response_time": 2.16,
+  "quote_count": 10,
+  "word_count": 65,
+  "char_count": 379,
+  "has_speaker_names": false,
+  "has_not_mentioned": false
+}
+
+Answer:
+The project construction schedule for the scope is as follows:
+
+The start of roofing is scheduled for "13th of October 2025," and the project is expected to be completed in "128 crew days" with a "six-man crew."
+
+This information is supported by the following quotes from the transcript:
+
+- "The start roofing is scheduled for 13th of October 2025."
+- "128 crew with total crew."

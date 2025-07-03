@@ -1,0 +1,30 @@
+QUESTION 2: Are there any concerns to note about the customer before proceeding?
+
+ANSWER:
+1. Direct quotes from the transcript that answer the question  
+   • KEL-WoodLake (BR) – 24:13  
+     “So who is the customer for the project, describe our past working any, are they any concern to note before proceeding?”  
+   • Unknown speaker – 24:19  
+     “Me personally, I’ve never worked with [Grayback Construction] so I can’t comment on the relationship… It’s our first project with them.”  
+   • KEL-WoodLake (BR) – 36:00  
+     “If you are the subcontractor, do you have the copy of the prime contract? … I don’t have the copy of prime contract, I believe, yet. Do we know if prime payment rules apply? … We don’t have the prompt payment rules yet, or payment terms.”  
+   • KEL-WoodLake (BR) – 37:03  
+     “Bonding: is the performance bond requirement required on this project? … No bonding.”  
+
+2. Expert interpretation of this information  
+   – No prior relationship: The team has never worked with the customer (Grayback Construction) and this is their first engagement. That lack of history means there is no track record on which to assess the customer’s responsiveness, billing practices or site-management style.  
+   – Contractual clarity missing: The prime contract has not yet been obtained or reviewed. Without it, the subcontract scope, invoicing requirements, hold-backs, change-order provisions and prompt-payment legislation cannot be confirmed.  
+   – Payment and bonding risk: The group acknowledges they do not yet know the payment terms or prompt-payment rules that will govern invoice turnaround. They also note that no performance bond has been secured or required, which could expose the subcontractor if Grayback’s client imposes bonding requirements later or disputes arise.  
+
+3. Professional summary that fully addresses the question  
+   Before proceeding, the principal concern is that this is a first‐time engagement with Grayback Construction and the team has not yet obtained or reviewed the prime contract. This creates three specific risk areas:  
+   1. Commercial risk – Unknown prime‐contract terms and prompt-payment rules leave open questions around invoice format, supporting documentation, retention, payment timing and dispute resolution.  
+   2. Credit risk – Without historical performance data, there is no assurance of Grayback’s payment practices or financial stability.  
+   3. Surety risk – No performance bond is currently in place; should the owner later require bonding or should project delays lead to claims, the subcontractor may face exposure.  
+
+   Action items to mitigate these concerns:  
+   • Secure and review a full copy of the prime contract, focusing on scope, payment provisions, retentions and prompt-payment legislation.  
+   • Confirm the formal payment terms, applicable prompt-payment rules, invoice requirements and expected turnaround time.  
+   • Verify whether a performance bond or other form of surety will be required by the owner or project lender and secure one if necessary.  
+
+   Once these contractual and financial items are clarified, the team can proceed with confidence in the technical and logistical aspects of the handoff.

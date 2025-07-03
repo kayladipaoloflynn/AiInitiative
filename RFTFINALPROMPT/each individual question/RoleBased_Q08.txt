@@ -1,0 +1,25 @@
+QUESTION 8: Depending on the Risk, i.e. working at heights, combustible products, etc., what precautions are being put in place to minimize these risks?
+
+ANSWER:
+1. Direct quotes from the transcript that answer the question  
+   
+   • KEL-WoodLake (28:14–28:22):  
+     “So definitely Kevin and Cory, there will be a situation with multiple trades in our way. We’ll have to coordinate … and make sure we’ve got the safety zone set up around all lifting equipment as soon as the perimeter of our work.”  
+   
+   • KEL-WoodLake (28:53–29:02):  
+     “All the combustibles will have to be removed from the working area to the safety distance. Task swept and garbage picked.”  
+   
+   • KEL-WoodLake (29:02–29:06):  
+     “Working at the heights, we’ll have our guardrail set up around the perimeter.”  
+   
+2. Expert interpretation of this information  
+   
+   – Coordination and exclusion zones: The team recognizes that other trades and lifting operations will share the roof deck, so they will establish clear “safety zones” around the crane or hoisting equipment and the edge of the building. By communicating these zones to all crews, they prevent inadvertent encroachment and reduce collision or drop-object hazards.  
+   
+   – Housekeeping and combustible control: Because they are torch-applying bituminous membranes over a combustible wood deck, the crew will remove any loose combustibles (scrap, packaging, off-cuts) to a safe distance before hot-work begins. They will maintain continuous “sweeping and garbage pick-up” to eliminate ignition sources and fuel for a fire.  
+   
+   – Fall protection: Recognizing the risk of working at height, guardrails will be installed continuously around the roof perimeter before any roofing work commences. This ensures compliance with fall-protection standards and keeps workers from leaning or stepping over the edge during membrane installation and detailing.  
+   
+3. Professional summary that fully addresses the question  
+   
+   In response to the dual hazards of working at height and performing torch-applied (combustible) roofing on a wood deck, the project team has put several layers of protection in place. First, they will coordinate closely with all trades on site to define and maintain exclusion zones around lifting equipment, preventing unauthorized entry into crane drop-zones. Second, they will enforce stringent housekeeping: removing all combustible materials from the work area, sweeping up debris, and keeping the zone clear before and during any hot-work. Third, they will install guardrails around the entire roof perimeter to provide continuous fall protection. Together, these measures—trade coordination, combustible control, and perimeter guardrails—constitute a comprehensive risk-minimization strategy for this phase of the handover.

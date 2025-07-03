@@ -1,0 +1,38 @@
+Question 15: Do we have a design system letter from the manufacturer that meets the warranty/code requirements and provides the adhesive/fastening pattern?
+Prompt Type: structured
+Model: ft:o4-mini-2025-04-16:flynn:test-eleven:BgYLe9DH
+Metrics: {
+  "response_time": 10.9,
+  "quote_count": 0,
+  "word_count": 219,
+  "char_count": 1536,
+  "has_speaker_names": true,
+  "has_sections": true,
+  "has_not_mentioned": false,
+  "has_missing_info": true
+}
+
+Full Answer:
+============================================================
+#### 1. RELEVANT QUOTES  
+1. KEL-WoodLake ‑BR(10)(VC) (33:19):  
+   “design, do we have design from the manufacturer warranty And provides the adhesive pastaining pattern. Did we obtain that design letter?”  
+2. Multiple speakers (immediately following):  
+   “Yes.”  
+3. KEL-WoodLake ‑BR(10)(VC) (33:23):  
+   “So we’ve got in PIO?”  
+4. Multiple speakers (33:24):  
+   “Yeah, in the design review folder.”
+
+#### 2. ANALYSIS  
+– The question “Did we obtain that design letter?” clearly refers to a manufacturer’s design system letter meeting warranty requirements and providing the adhesive/fastening pattern.  
+– The immediate affirmative response (“Yes.”) indicates that such a letter has indeed been obtained.  
+– The follow-up confirms its location: the letter is stored in the “design review folder” in PIO.
+
+#### 3. GAPS OR MISSING INFORMATION  
+- The transcript does not explicitly state that the design letter meets all applicable building code requirements, only that it meets the manufacturer’s warranty requirements.  
+- No details are provided about the actual adhesive or fastening patterns contained within the letter (e.g., quantities, layout, specific fastener types).  
+- There is no mention of any third-party review or approval of the design letter for code compliance.
+
+#### 4. FINAL ANSWER  
+Based solely on the transcript, yes—the manufacturer’s design system letter, which covers warranty requirements and includes the adhesive/fastening pattern, has been obtained and is available in the “design review folder.”

@@ -1,0 +1,17 @@
+QUESTION 10: Has the estimating team done a complete overview of the project but not  limited to, drawings, specifications, and estimate?
+
+ANSWER:
+1. Direct quotes from the transcript  
+   a. KEL-WoodLake-BR(10)(VC) – 30:12  
+      “Project scope the estimation team drawing, specification and estimate? My answer is yes. Everything was presented, the information at this point are clear. We will probably have more questions once we get closer to the project, send some advice. We’ll have to confirm with the customer use of that 180 base on the deck if they’re okay with that—this is not combustible.”  
+   b. Frank Jonathan – 31:56  
+      “Yes, it’s there in your folder. Yeah, I like easy for guys to spot.”  
+
+2. Expert interpretation  
+   • At 30:12, the branch leader (KEL-WoodLake) explicitly confirms that the estimating team has reviewed and compiled all the core project inputs—drawings, specifications, and the detailed estimate.  
+   • The acknowledgement that “everything was presented” and that the “information at this point are clear” indicates that the estimating deliverables have been packaged and made available to the construction team.  
+   • The only caveat mentioned (“we will probably have more questions once we get closer to the project”) speaks to the normal process of refining a bid package as field conditions become clearer, not to any fundamental gap in the current estimate.  
+   • Frank Jonathan’s comment that the package “is there in your folder” reinforces that the deliverables (global take-off, work order breakout by assembly, quantity take-off and hours) have indeed been issued and are accessible for review.  
+
+3. Professional summary  
+   The transcript confirms that the estimating team performed a comprehensive scope review, encompassing the project drawings, the full specification package, and the detailed cost estimate/work order. They have delivered a global take-off and breakout of assemblies (inverted roofing, modified bitumen, conventional systems, insulation, traffic coatings, metal flashings, etc.) into the shared project folder. Although a few items remain for pre-construction confirmation (e.g., combustibility of a base-on-base deck detail, winter-rated product requirements, prime contract prompt-payment terms), these are typical last-mile clarifications rather than indications of an incomplete estimate. Overall, the estimating deliverables are complete and have been formally issued to the construction team.

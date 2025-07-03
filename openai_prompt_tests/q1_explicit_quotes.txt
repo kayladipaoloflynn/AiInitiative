@@ -1,0 +1,13 @@
+Question: Who is the customer for this project and describe our past working relationship, if any?
+Prompt Variation: explicit_quotes
+Metrics: {
+  "response_time": 2.06,
+  "quote_count": 2,
+  "word_count": 7,
+  "char_count": 43,
+  "has_speaker_names": false,
+  "has_not_mentioned": true
+}
+
+Answer:
+"This was not mentioned in the transcript."

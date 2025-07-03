@@ -1,0 +1,34 @@
+Question 4: Are there any materials estimated for that require extended lead times for ordering/delivery?
+Prompt Type: structured
+Model: ft:o4-mini-2025-04-16:flynn:test-eleven:BgYLe9DH
+Metrics: {
+  "response_time": 7.42,
+  "quote_count": 0,
+  "word_count": 258,
+  "char_count": 1702,
+  "has_speaker_names": true,
+  "has_sections": true,
+  "has_not_mentioned": false,
+  "has_missing_info": true
+}
+
+Full Answer:
+============================================================
+#### 1. RELEVANT QUOTES  
+- KEL-WoodLake-BR(10)(VC) – 26:43  
+  “Everything is standard, standard stock, so I don't think there are any [lead] times.”  
+- Frank Jonathan – 26:54  
+  “From what I… the taper package probably will need three to four weeks.”  
+- KEL-WoodLake-BR(10)(VC) – 27:01  
+  “Before all that will be completed, but like you said, the rest seems to standard product and easily available.”  
+
+#### 2. ANALYSIS  
+These quotes show that the team considers the bulk of the materials to be “standard, standard stock” with no special ordering delays. However, Frank Jonathan identifies one exception: the taper package (tapered insulation), for which he anticipates a three-to-four-week lead time. The follow-up comment from KEL confirms that aside from that item, the remaining materials should have no extended lead times and are readily available.
+
+#### 3. GAPS OR MISSING INFORMATION  
+- The transcript does not specify the exact supplier or part number for the taper package, which would confirm the lead-time estimate.  
+- It is not clear whether any other less-common items (e.g., custom metal flashing lengths, specialty coatings, or unique roofing accessories) might also have lead times beyond standard stock.  
+- No documentation is referenced (e.g., a purchase schedule) that would verify these assessments or identify other potential long-lead items.
+
+#### 4. FINAL ANSWER  
+Based solely on the transcript, the only material called out as requiring extended lead time is the tapered insulation package, which is expected to take approximately three to four weeks for delivery. All other specified materials are described as standard stock with no anticipated lead-time delays.

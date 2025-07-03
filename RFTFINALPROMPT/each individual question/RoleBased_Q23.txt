@@ -1,0 +1,19 @@
+QUESTION 23: How long will it take for our invoice to be paid?
+
+ANSWER:
+1. Direct quotes from the transcript that address the question  
+   • KEL-WoodLake-BR(10)(VC) at 36:00:  
+     “What are the payment terms and how long it will take for our invoice to be paid?”  
+   • KEL-WoodLake-BR(10)(VC) immediately thereafter:  
+     “We don’t have the prompt payment rules yet, but it will take for the invoice to be paid and then the payment terms.”
+
+2. Expert interpretation  
+   • No definitive payment period was established during the handover. The team explicitly noted that they had not yet reviewed or obtained the prime contract’s prompt-payment rules, which in most jurisdictions govern the maximum number of days in which an owner or general contractor must release payment after receipt of a proper invoice.  
+   • By flagging the absence of “prompt payment rules,” the group effectively acknowledged that invoice timing remains undetermined and must be confirmed once the prime contract is in hand and its terms have been reviewed.
+
+3. Professional summary  
+   During this handover, the team asked about how long it would take for an invoice to be paid, but no specific timeline was committed. The transcript makes clear that the prompt-payment provisions (often found in the prime contract or governed by provincial legislation) had not yet been reviewed or received. As such, you should immediately:  
+   • Request a copy of the prime contract, including all payment-related appendices.  
+   • Review the contract’s prompt-payment clause to confirm the owner’s or general contractor’s required payment window (commonly 20–30 days, depending on jurisdiction).  
+   • Verify any invoicing requirements (e.g., schedule of values, progress reports, retainage) to ensure your invoices are “proper” and qualify for timely release under the contract.  
+   Only once those steps are completed will you have a firm answer on how long it will take for your invoice to be paid.

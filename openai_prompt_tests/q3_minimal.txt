@@ -1,0 +1,13 @@
+Question: What is the project construction schedule (start and expected completion) for our scope?
+Prompt Variation: minimal
+Metrics: {
+  "response_time": 1.73,
+  "quote_count": 0,
+  "word_count": 20,
+  "char_count": 109,
+  "has_speaker_names": false,
+  "has_not_mentioned": false
+}
+
+Answer:
+The start of roofing is scheduled for October 13, 2025, with a total of 128 crew days planned for completion.

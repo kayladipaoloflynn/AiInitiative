@@ -1,0 +1,18 @@
+QUESTION 26: What documentation/information must be submitted with each invoice?
+
+ANSWER:
+1. Direct Transcript Quotes  
+- KEL-WoodLake-BR(10)(VC) (36:29): “So, definitely the progress report and the schedule of values will accompany each of the invoices.”  
+
+2. Expert Interpretation  
+The “progress report” in this context is the contractor’s periodic update on the percentage of work completed, any deviations from planned progress, and issues affecting the schedule or budget. The “schedule of values” is the detailed cost breakdown by major work category or system (e.g., WP08 roofing, WP10 canopies, planters, etc.), which ties back to the line-items in the contract or work order. Submitting these two documents with each pay application ensures that the owner or construction manager can:  
+• Verify that the invoiced amount aligns with actual progress.  
+• Match costs billed to the originally agreed values.  
+• Process payments under prompt-payment or provincial payment rules.  
+
+3. Professional Summary  
+For Dillworth Phase 1, each application for payment must be accompanied by two key pieces of documentation:  
+• A Progress Report, detailing the percentage of scope completed, status of ongoing tasks, and any variances or issues encountered.  
+• A Schedule of Values, providing a line-item breakdown of the contract or work-order value by roofing system, ancillary work, mobilization, etc., and showing the value billed to date.  
+
+Together, these documents provide the owner’s team with the transparency needed to review, validate, and process each invoice in accordance with the contractual payment provisions.

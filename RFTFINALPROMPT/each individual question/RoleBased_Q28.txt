@@ -1,0 +1,20 @@
+QUESTION 28: What information must be provided in the "draft invoice"?
+
+ANSWER:
+1. Direct quotes from the transcript  
+• KEL-WoodLake-BR(10)(VC) at 36:19–36:29:  
+  “Does the contract specify requirements proper invoice? What information must be included in our invoice? What documentation information must be submitted with invoice?  
+  So, definitely the progress report and the schedule of values will accompany each of the invoices.  
+  Do we need to submit a draft invoice before we submit our action invoice? If so, draft need to be submitted? What information must be provided in the draft invoice?”  
+
+2. Expert interpretation  
+In this context the team confirms that every billing submission—whether a draft invoice or a formal progress invoice—must be accompanied by two core attachments:  
+  a. A progress report, showing the percentage of work completed to date, key milestones achieved, and any deviations from the baseline schedule.  
+  b. A schedule of values, which breaks the contract sum into line-item values (e.g. by major assembly, system or phase), quantifies the work done to date, and shows the amount currently being billed.  
+Although the group pauses on whether a separate “draft invoice” has its own distinct checklist, best practice under any prime contract is that a draft follows the same format and includes the same supporting documentation as the formal invoice—so that the client can review line-item billings and progress status before the payment application is finalized.  
+
+3. Professional summary  
+For this project, any draft invoice submitted for client review must include at minimum:  
+  – The progress report, detailing work completed, percent complete, and any schedule impacts up to the draft billing date.  
+  – The schedule of values, showing line-item values, quantities installed or completed, cumulative billings to date, and the current draft amount.  
+By providing these two documents with the draft invoice, the construction team ensures full transparency on quantities installed and costs claimed.  It also aligns with the prime contract’s “proper invoice” requirements, allows the client to verify that the work matches the schedule and values breakdown, and expedites the approval of the final progress invoice.

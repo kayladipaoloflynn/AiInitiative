@@ -1,0 +1,29 @@
+Question 26: What documentation/information must be submitted with each invoice?
+Prompt Type: role_based
+Model: ft:o4-mini-2025-04-16:flynn:test-eleven:BgYLe9DH
+Metrics: {
+  "response_time": 10.58,
+  "quote_count": 0,
+  "word_count": 297,
+  "char_count": 2011,
+  "has_speaker_names": true,
+  "has_sections": true,
+  "has_not_mentioned": false,
+  "has_missing_info": false
+}
+
+Full Answer:
+============================================================
+1. Direct quotes from the transcript  
+   • KEL-WoodLake-BR(10)(VC) at 36:29: “So, definitely the progress report and the schedule of values will accompany each of the invoices.”
+
+2. Expert interpretation  
+   – “Progress report” in this context refers to the periodic narrative or tabular update on work completed to date, milestones achieved, and percent-complete by system or area. It gives the owner and construction manager a snapshot of actual versus planned progress.  
+   – “Schedule of values” is the line-item breakdown of the contract sum allocated to each major work package or roofing system (inverted, mod-bit, edge metal, penetrations, etc.). It provides the basis for calculating the percentage of each line item to be billed against the progress report. By submitting both together, the contractor demonstrates not only how much work has been done but also how the invoiced amount ties back to the budgeted scope and rates.
+
+3. Professional summary  
+   According to the handover discussion, each progress invoice must be supported by two key documents:  
+   1) A project progress report, detailing the scope of work completed since the last billing, percentage of completion by roof assembly or area, and any schedule or variance notes.  
+   2) A schedule of values, which breaks the total contract price into discrete line items (e.g., WP-08 mod-bit roofing, tapered insulation, edge metal, etc.) and shows the value assigned to each.  
+
+   Together, these deliverables ensure transparency in how the invoiced amount has been calculated and provide the owner’s team with the information necessary to review, approve, and process payment in accordance with the prime contract’s requirements. If the prime contract or any provincial prompt-payment legislation imposes additional invoicing prerequisites (format, draft submission, backup data, insurance certificates, etc.), those should be confirmed against the contract documents and added to the submittal package before issuing each invoice.

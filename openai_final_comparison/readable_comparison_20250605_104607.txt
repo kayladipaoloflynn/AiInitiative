@@ -1,0 +1,187 @@
+STRUCTURED vs ROLE-BASED COMPARISON
+================================================================================
+
+QUESTION: Who is the customer for this project and describe our past working relationship, if any?
+--------------------------------------------------------------------------------
+
+STRUCTURED WITH SUGGESTIONS:
+1. DIRECT ANSWER: The customer for this project is Grayback Construction, and there is no past working relationship.
+
+2. EVIDENCE: 
+   - KEL-WoodLake -BR(10)(VC): "Me personally, I've never worked with the construction so I can't comment on the relationship those."
+   - Multiple speakers: "haven't worked either. It's our first project with them."
+
+3. ADDITIONAL CONTEXT: The main contacts for the project are Brian Rich (Project Manager), Earl Faraguna (Construction Manager), and Bob McAllister (Superintendent).
+
+4. RECOMMENDATIONS: It would be beneficial to establish communication with the main contacts at Grayback Construction to build a working relationship and clarify any project expectations.
+
+ROLE-BASED:
+The customer for this project is Grayback Construction. There is no past working relationship mentioned with them.
+
+Frank Jonathan: "I see in the work we've contact persons."
+
+KEL-WoodLake -BR(10)(VC): "We've got Brian Rich who is the project manager for Grayback. We've got Earl Faraguna who is the construction manager and Bob McAllister who is the superintendent."
+
+KEL-WoodLake -BR(10)(VC): "Me personally, I've never worked with the construction so I can't comment on the relationship those. I don't know attended more, any other estimates for those or you've got any experience with them?"
+
+Multiple speakers: "haven't worked either. It's our first project with them."
+
+================================================================================
+
+QUESTION: What are the underlying risks associated with performing our work on this project?
+--------------------------------------------------------------------------------
+
+STRUCTURED WITH SUGGESTIONS:
+1. DIRECT ANSWER: The underlying risks include coordination with multiple trades, safety concerns with torching on wood decks, and working at heights with combustible materials.
+
+2. EVIDENCE: 
+   - KEL-WoodLake -BR(10)(VC): "there will be a situation with multiple trades in our way. We'll have to coordinate leverage and making sure we've got the safety zone set up around all lifting equipment."
+   - Multiple speakers: "you're working on wood deck lot of torch, so safety to be watched out for."
+   - KEL-WoodLake -BR(10)(VC): "working at heights, we'll have our guardrail set up around the perimeter."
+
+3. ADDITIONAL CONTEXT: The project involves picture framing around penetrations and parameters, requiring careful removal of combustibles from the work area. The team plans to implement safety measures like guardrails to mitigate risks.
+
+4. RECOMMENDATIONS: It is advisable to conduct a detailed site safety assessment closer to the project start date. Coordination meetings with other trades should be scheduled to ensure clear communication and safety compliance. Additionally, confirm safety protocols for torching on wood decks with relevant safety officers.
+
+ROLE-BASED:
+Certainly, here are the underlying risks associated with performing work on this project, as discussed in the meeting:
+
+1. **Multiple Trades Coordination:**
+   - KEL-WoodLake-BR(10)(VC): "there will be a situation with multiple trades in our way. We'll have to coordinate leverage and making sure we've got the safety zone set up around all lifting equipment."
+
+2. **Working on Wood Deck:**
+   - Multiple speakers: "you're working on wood deck lot of torch, so safety to be watched out for."
+
+3. **Combustible Products:**
+   - KEL-WoodLake-BR(10)(VC): "working at heights, combustible products, place to minimize this risk."
+
+4. **Weather Conditions:**
+   - KEL-WoodLake-BR(10)(VC): "as we will be starting this project in October, we'll be probably running into late, you know, late or in the winter and proceeding through the winter with that."
+
+5. **Safety Measures:**
+   - KEL-WoodLake-BR(10)(VC): "Picture framing current, all the penetrations, picture framing current, all parameters, all the combustibles will have to be removed from the working area the safety distance."
+
+6. **Use of Non-Fire Rated Materials:**
+   - KEL-WoodLake-BR(10)(VC): "if the requirement is for the airfare fire rated cap, the traffic state cap is not rated."
+
+**Follow-up Items:**
+- Confirm coordination plans with other trades to ensure safety zones are established.
+- Review protocols for working with combustible materials on wood decks.
+- Prepare for potential weather-related delays and ensure winter-rated products are available.
+- Verify material specifications to ensure compliance with fire safety requirements.
+
+================================================================================
+
+QUESTION: What are the payment terms?
+--------------------------------------------------------------------------------
+
+STRUCTURED WITH SUGGESTIONS:
+1. DIRECT ANSWER: The payment terms and prompt payment rules are not specified in the transcript.
+
+2. EVIDENCE: 
+   - KEL-WoodLake-BR(10)(VC) - 36:00: "We don't have the – I don't believe we have the prompt payment rules yet, but it, will take for the invoice to be paid and then the payment terms."
+   - KEL-WoodLake-BR(10)(VC) - 36:26: "What information must be included in our invoice?"
+
+3. ADDITIONAL CONTEXT: The discussion highlights the need for progress reports and schedules of values to accompany invoices, but specific payment terms are not detailed.
+
+4. RECOMMENDATIONS: It is recommended to contact the project manager or financial officer to obtain detailed payment terms and confirm the prompt payment rules. Additionally, request a copy of the prime contract to review any specified payment conditions.
+
+ROLE-BASED:
+Based on the transcript, the specific payment terms are not clearly outlined. However, there are several points related to payment and invoicing that need attention:
+
+1. **Prompt Payment Rules**: 
+   - KEL-WoodLake-BR(10)(VC): "We don't have the – I don't believe we have the prompt payment rules yet, but it, will take for the invoice to be paid and then the payment terms."
+
+2. **Invoice Requirements**:
+   - KEL-WoodLake-BR(10)(VC): "What documentation information must be submitted with invoice? So, definitely the progress report and the schedule of values will accompany each of the invoices."
+
+3. **Draft Invoice**:
+   - KEL-WoodLake-BR(10)(VC): "Do we need to submit a draft invoice before we submit our action invoice? If so, draft need to be submitted? What information must be provided in the draft invoice? That's applicable, I believe, at this yet."
+
+**Follow-Up Items**:
+- Clarify the specific payment terms and timelines.
+- Confirm if a draft invoice is required before the final submission.
+- Ensure all necessary documentation accompanies each invoice.
+
+These points need to be addressed to ensure smooth financial transactions and compliance with contract requirements.
+
+================================================================================
+
+QUESTION: Do we need to bring any alternates to the attention of the client/customer before starting?
+--------------------------------------------------------------------------------
+
+STRUCTURED WITH SUGGESTIONS:
+1. DIRECT ANSWER: Yes, items such as roof anchors need confirmation with the client before starting.
+
+2. EVIDENCE: 
+   - Frank Jonathan: "So, items to be confirmed would be roof anchors were shown as a bidding."
+   - KEL-WoodLake -BR(10)(VC): "Have any alternate materials included for work specification? Do we need to bring this to attention of the client customer before starting?"
+
+3. ADDITIONAL CONTEXT: The discussion highlighted the need to confirm certain specifications and materials with the client to ensure alignment with project requirements. There was also mention of using winter-rated products due to seasonal constraints.
+
+4. RECOMMENDATIONS: It is advisable to contact the client to confirm the use of roof anchors and any other alternates. Additionally, review the project specifications with the client to ensure all materials meet their approval.
+
+ROLE-BASED:
+Certainly. Based on the transcript, here's the information regarding alternates that need to be brought to the client's attention:
+
+1. **Roof Anchors**: 
+   - Frank Jonathan: "Items to be confirmed would be roof anchors were shown as a bidding."
+
+2. **Fire Rated Cap**:
+   - KEL-WoodLake -BR(10)(VC): "If the requirement is for the airfare fire rated cap, the traffic state cap is not rated."
+
+3. **Cold Weather Products**:
+   - KEL-WoodLake -BR(10)(VC): "We'll have to use a winter rated product, so winter rated primers for the SOPRA VAP."
+
+Ensure these items are discussed with the client to confirm specifications and avoid any discrepancies during the project execution.
+
+================================================================================
+
+QUESTION: Are there any contractual risks to note?
+--------------------------------------------------------------------------------
+
+STRUCTURED WITH SUGGESTIONS:
+1. DIRECT ANSWER: There are potential contractual risks related to payment terms and the absence of bonding.
+
+2. EVIDENCE: 
+   - KEL-WoodLake -BR(10)(VC) - "We don't have the – I don't believe we have the prompt payment rules yet, but it, will take for the invoice to be paid and then the payment terms."
+   - KEL-WoodLake -BR(10)(VC) - "Do we have bonding for this? No, we don't bonding. No bonding?"
+
+3. ADDITIONAL CONTEXT: The discussion highlighted concerns about the lack of clarity on payment terms and the absence of bonding, which could impact financial security and project execution. Additionally, there was mention of needing to confirm certain specifications with the client, such as the use of materials on non-combustible surfaces.
+
+4. RECOMMENDATIONS: It is recommended to:
+   - Contact the client to clarify payment terms and ensure understanding of prompt payment rules.
+   - Request a copy of the prime contract to verify all contractual obligations.
+   - Discuss the potential need for bonding with the project manager to assess if it should be pursued for financial protection.
+
+ROLE-BASED:
+Certainly, here are the contractual risks noted in the transcript:
+
+1. **Prime Contract Copy:**
+   - KEL-WoodLake-BR(10)(VC): "don't have the copy of prime contract, I believe, yet. That will be requested."
+   - **Concern:** Ensure the prime contract is obtained to understand all obligations and requirements.
+
+2. **Payment Terms:**
+   - KEL-WoodLake-BR(10)(VC): "We don't have the – I don't believe we have the prompt payment rules yet, but it, will take for the invoice to be paid and then the payment terms."
+   - **Concern:** Clarify payment terms and prompt payment rules to avoid cash flow issues.
+
+3. **Bonding Requirements:**
+   - KEL-WoodLake-BR(10)(VC): "No bonding? No bonding."
+   - **Concern:** Confirm if bonding is required to mitigate financial risk.
+
+4. **Invoice Requirements:**
+   - KEL-WoodLake-BR(10)(VC): "What documentation information must be submitted with invoice? So, definitely the progress report and the schedule of values will accompany each of the invoices."
+   - **Concern:** Ensure all required documentation is prepared for invoicing to prevent delays.
+
+5. **Material and Specification Confirmation:**
+   - KEL-WoodLake-BR(10)(VC): "We'll to confirm with the customer use of that 180 base on base on the deck if they're okay with that this is not combustible."
+   - **Concern:** Confirm material specifications with the client to avoid compliance issues.
+
+6. **Winter Product Use:**
+   - KEL-WoodLake-BR(10)(VC): "We'll definitely have some limitations with the With the cap stripping installation, like the cut-off is zero degree, I'll have to make sure that the customer aware of that."
+   - **Concern:** Communicate any limitations due to weather conditions and product use to the client.
+
+These items should be addressed promptly to minimize contractual risks.
+
+================================================================================
+

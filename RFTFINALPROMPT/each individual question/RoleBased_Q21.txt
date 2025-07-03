@@ -1,0 +1,24 @@
+QUESTION 21: Do we know if "prompt payment" rules apply under the provincial construction legislation (given the date of the Prime Contract)?
+
+ANSWER:
+1. Direct quotes from the transcript  
+   • KEL-WoodLake-BR(10)(VC) at ~36:00:  
+     “If you are the subcontractor, do you have the copy of prime contract? … Do we know if prime payment rules apply under provincial registration?”  
+   • KEL-WoodLake-BR(10)(VC) immediately after:  
+     “We don’t have the – I don’t believe we have the prompt payment rules yet, but it, will take for the invoice to be paid and then the payment terms.”  
+
+2. Expert interpretation  
+   – At the time of this handover, the project team had not yet obtained a copy of the prime contract and therefore could not confirm whether the provincial prompt payment regime applied.  
+   – The question as phrased in the meeting conflates “prime payment rules” and “prompt payment” under provincial construction legislation, indicating that the team recognizes the need to verify applicable statutory payment timelines but has not done so.  
+   – Because prompt payment obligations are triggered by specific contract dates and by reference to the governing provincial construction act, without the prime contract in hand—and without knowing its execution date or the applicable jurisdiction—the team cannot yet determine which prompt payment requirements apply.
+
+3. Professional summary and recommendation  
+   As of the handover meeting on February 11, 2025, the team did not know whether prompt payment rules under the relevant provincial construction legislation applied to Dillworth Phase 1. They have not yet secured or reviewed the prime contract, which must be examined to establish:  
+   a) The date the prime contract was executed (to see if it falls on or after the province’s prompt payment commencement date).  
+   b) The jurisdictional provisions incorporated by reference in the prime contract (to confirm which provincial construction act governs).  
+
+   Next steps:  
+   1. Obtain a full copy of the prime contract immediately.  
+   2. Review the contract’s choice-of-law clause and execution date.  
+   3. Cross-reference with the provincial construction act’s prompt payment provisions (for example, in Ontario, those rules took effect October 1, 2019) to determine deadlines for issuing notices of non-payment, payment certificates, and final payment.  
+   4. Update the project’s invoicing and cash-flow plan to reflect the confirmed prompt payment timelines.

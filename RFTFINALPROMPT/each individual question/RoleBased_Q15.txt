@@ -1,0 +1,18 @@
+QUESTION 15: Do we have a design system letter from the manufacturer that meets the warranty/code requirements and provides the adhesive/fastening pattern?
+
+ANSWER:
+1. Direct quotes from the transcript  
+   – KEL-WoodLake-BR(10)(VC) at 33:19–33:22:  
+     “design, do we have design from the manufacturer warranty And provides the adhesive pastaining pattern. Did we obtain that design letter?”  
+   – Multiple speakers at 33:22–33:24:  
+     “Yes.”  
+   – KEL-WoodLake-BR(10)(VC) at 33:45–33:48:  
+     “Okay. So we’ve got in PIO?”  
+   – Multiple speakers at 33:48–33:50:  
+     “Yeah, in the design review folder.”  
+
+2. Expert interpretation of this information  
+   The team explicitly asked whether the manufacturer’s system design letter— which is the document that certifies the roofing assembly for warranty and code compliance and lays out the required adhesive and fastening pattern—had been obtained. The affirmative response, coupled with the confirmation that it resides in the “design review” (PIO) folder, indicates that the letter is on file. In a typical roofing handoff, possession of that letter means the project has the stamped or signed approval from the manufacturer, detailing exactly how many fasteners per square foot, their spacing, and the adhesive application method required to achieve the specified warranty and meet local code (including wind-uplift criteria).
+
+3. Professional summary  
+   Based on the handover discussion, the project team has secured the manufacturer’s system design letter. This letter, which includes the prescribed adhesive application and fastening pattern required for both warranty and code compliance, is stored in the design review (PIO) folder. No further action is needed to procure that document; the construction team can proceed knowing they have the official manufacturer-provided installation pattern to satisfy warranty and regulatory requirements.

@@ -1,0 +1,34 @@
+Question 9: What equipment has been estimated for and what amount has been carried  for each?
+Prompt Type: structured
+Model: ft:o4-mini-2025-04-16:flynn:test-eleven:BgYLe9DH
+Metrics: {
+  "response_time": 7.62,
+  "quote_count": 0,
+  "word_count": 264,
+  "char_count": 1526,
+  "has_speaker_names": true,
+  "has_sections": true,
+  "has_not_mentioned": true,
+  "has_missing_info": true
+}
+
+Full Answer:
+============================================================
+#### 1. RELEVANT QUOTES  
+- KEL-WoodLake-BR(10)(VC) – 29:50: “What about crane usage?”  
+- Frank Jonathan – 30:00: “So we have an on our estimate, but depending project is complete and if the crane is still there on site time for us to use, it all depends. we’ve carried for 250 dollars an hour And total allowance of both inverted and, let me just combine this one second, 20 hours here on inverted, 46 hours overall, has been allowed for.”  
+
+#### 2. ANALYSIS  
+These quotes show that the only piece of equipment specifically quantified in the estimate is crane usage. The team has:  
+- Estimated usage of a crane  
+- Applied a rate of $250 per hour for crane time  
+- Allocated 20 hours of crane usage to the inverted roofing portion  
+- Allocated a total of 46 hours of crane usage overall in the work order  
+
+#### 3. GAPS OR MISSING INFORMATION  
+- No other equipment (e.g., lifts, generators, scaffolding) is itemized or quantified in the transcript.  
+- It is not clear whether the 46-hour total includes the 20 inverted hours or is in addition to them (though phrasing implies 20 of the 46).  
+- Details on mobilization fees, minimum crane charges, or any standby time are not provided.  
+
+#### 4. FINAL ANSWER  
+Based on the transcript, the only equipment explicitly estimated is crane usage. The estimate carries crane time at a rate of $250 per hour, with 20 hours allocated to the inverted roofing portion and a total allowance of 46 crane hours overall. Other equipment costs are not mentioned in the transcript.

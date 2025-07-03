@@ -1,0 +1,29 @@
+Question 27: Do we need to submit a "draft invoice" before we submit our actual invoice? If so, when does the "draft invoice" need to be submitted?
+Prompt Type: structured
+Model: ft:o4-mini-2025-04-16:flynn:test-eleven:BgYLe9DH
+Metrics: {
+  "response_time": 12.81,
+  "quote_count": 0,
+  "word_count": 128,
+  "char_count": 766,
+  "has_speaker_names": true,
+  "has_sections": true,
+  "has_not_mentioned": true,
+  "has_missing_info": true
+}
+
+Full Answer:
+============================================================
+#### 1. RELEVANT QUOTES
+“Do we need to submit a draft invoice before we submit our action invoice? If so, draft need to be submitted? What information must be provided in the draft invoice?” (KEL-WoodLake ‑BR(10)(VC) – 36:29)
+
+#### 2. ANALYSIS
+• The only mention of a “draft invoice” is the question posed by KEL-WoodLake asking whether one must be submitted and, if so, when and with what content.  
+• There is no recorded response or further discussion addressing that question in the transcript.
+
+#### 3. GAPS OR MISSING INFORMATION
+• No answer or clarification is provided about whether a draft invoice is required.  
+• There is no information on timing, format, or content requirements for a draft invoice.
+
+#### 4. FINAL ANSWER
+Not mentioned in the transcript.

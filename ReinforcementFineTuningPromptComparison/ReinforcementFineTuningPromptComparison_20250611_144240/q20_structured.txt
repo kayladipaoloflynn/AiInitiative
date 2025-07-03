@@ -1,0 +1,29 @@
+Question 20: What is the date of the Prime Contract?
+Prompt Type: structured
+Model: ft:o4-mini-2025-04-16:flynn:test-eleven:BgYLe9DH
+Metrics: {
+  "response_time": 7.04,
+  "quote_count": 0,
+  "word_count": 139,
+  "char_count": 834,
+  "has_speaker_names": false,
+  "has_sections": true,
+  "has_not_mentioned": true,
+  "has_missing_info": true
+}
+
+Full Answer:
+============================================================
+#### 1. RELEVANT QUOTES  
+- “If you are the subcontractor, do you have the copy of prime contract? If not, request the copy of prime contract.”  
+- “don’t have the copy of prime contract, I believe, yet. That will be requested.”  
+
+#### 2. ANALYSIS  
+These quotes indicate that the team has not yet received the prime contract and therefore has not reviewed its details. No information about the contract’s date is available in the transcript because the document itself has not been obtained or discussed beyond the need to request it.  
+
+#### 3. GAPS OR MISSING INFORMATION  
+- The actual prime contract document or a summary thereof, which would contain the contract date.  
+- Any direct reference or discussion where the contract date might have been read aloud or noted.  
+
+#### 4. FINAL ANSWER  
+Not mentioned in the transcript.

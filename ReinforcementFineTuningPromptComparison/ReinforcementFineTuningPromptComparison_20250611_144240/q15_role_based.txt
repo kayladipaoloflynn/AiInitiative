@@ -1,0 +1,33 @@
+Question 15: Do we have a design system letter from the manufacturer that meets the warranty/code requirements and provides the adhesive/fastening pattern?
+Prompt Type: role_based
+Model: ft:o4-mini-2025-04-16:flynn:test-eleven:BgYLe9DH
+Metrics: {
+  "response_time": 8.73,
+  "quote_count": 0,
+  "word_count": 205,
+  "char_count": 1496,
+  "has_speaker_names": true,
+  "has_sections": true,
+  "has_not_mentioned": false,
+  "has_missing_info": false
+}
+
+Full Answer:
+============================================================
+1. Direct quotes from the transcript  
+- KEL-WoodLake-BR(10)(VC) (33:19):  
+  “design, do we have design from the manufacturer warranty And provides the adhesive pastaining pattern. Did we obtain that design letter?”  
+- Multiple speakers (33:45):  
+  “Yes.”  
+- KEL-WoodLake-BR(10)(VC) (33:45):  
+  “Okay. So we’ve got in PIO?”  
+- Multiple speakers (33:45):  
+  “Yeah, in the design review folder.”
+
+2. Expert interpretation  
+- The team explicitly confirms that the manufacturer’s system design letter—covering both the warranty/code requirements and the adhesive/fastening pattern—has been obtained.  
+- The design letter is stored in the project’s “Design Review” folder (sometimes referred to as “PIO”), making it available to both the estimating and construction teams.  
+- By having this letter on file, the project meets the standard requirement for a manufacturer-approved design letter, which is necessary to secure the system warranty and to guide correct installation (adhesive types, fastener spacing, wind-uplift criteria, etc.).
+
+3. Professional summary  
+Yes. The manufacturer’s system design letter, which documents compliance with warranty and code criteria and specifies the adhesive and fastening pattern, has been received and is accessible in the project’s Design Review (PIO) folder. This ensures that the installation team has the requisite signed-off design instructions to satisfy warranty conditions and to install the roofing assemblies per manufacturer requirements.

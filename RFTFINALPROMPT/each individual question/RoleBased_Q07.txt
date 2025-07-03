@@ -1,0 +1,31 @@
+QUESTION 7: Do you feel that there are any underlying risks associated with performing  our work on this project and do we need to bring anything to the attention of the customer before starting?
+
+ANSWER:
+1. Direct quotes from the transcript that answer the question  
+   • Cory Stevenson (prompting):  
+     “Do you feel that there are underlying risks concentrated with performing on this and do we need to bring anything to the attention of the customer before starting?” (28:04–28:14)  
+   • KEL-WoodLake-BR(10)(VC):  
+     “So definitely Kevin and Cory, there will be a situation with multiple trades in our way. We’ll have to coordinate, leverage and making sure we’ve got the safety zone set up around all lifting equipment as soon as the perimeter of our work.” (28:14–28:39)  
+   • Multiple speakers (added comment):  
+     “And to add that, if you’re working on wood deck, lot of torch, so safety to be watched out for.” (28:39–28:53)  
+   • KEL-WoodLake-BR(10)(VC) (continuing):  
+     “The risk, working at heights, combustible products—place to minimize this risk? Picture framing current, all the penetrations, picture framing current, all parameters, all the combustibles will have to be removed from the working area—the safety distance. Task swept and garbage picked. Working at heights, we’ll have our guardrail set up around the perimeter.” (28:53–29:14)  
+   • KEL-WoodLake-BR(10)(VC) (later, on environmental conditions):  
+     “As we will be starting this project in October … we’ll definitely have some limitations with the cap stripping installation, like the cut-off is zero degree. I’ll have to make sure that the customer is aware of that. We’ll have to use a winter rated product … we can install to minus 10, which is good. But yes, there is a high chance that we’ll have to use the winter rated product for this project.” (34:19–35:07)  
+
+2. Expert interpretation of this information  
+   • Trade coordination risk: The site will host multiple trades (steel erectors, cladders, landscapers, concrete crews, etc.) whose simultaneous work zones will overlap with our roofing areas and material/equipment lifts. Uncoordinated hoisting or pedestrian paths could lead to conflicts, dropped objects or delays.  
+   • Fire hazard risk: The primary assemblies include torched-on SBS membranes over a combustible wood deck. Torch application on or near wood requires strict hot-work protocols, fire watches, fire-retardant clearances around the work area, and potentially on-site fire suppression.  
+   • Fall protection risk: The roof areas have varying heights and incomplete parapet protection early in the install. Guardrails, tie-offs, safety nets or personal-fall-arrest systems must be in place before any crew accesses the deck.  
+   • Weather and product performance risk: Starting in October, ambient temperatures may fall below the recommended cut-off for standard cap sheets and adhesives. Unless the customer agrees to winter-rated primers and cap sheets, we risk workmanship claims, membrane adhesion failures or temporary leaks.  
+   • Mobilization/sequencing risk: Numerous planters and inverts require pre-stripping and multiple returns. Without clear sequencing agreements (and confirmation of crane availability/rates), our labour and crane-hour allowances may be insufficient, leading to change-order disputes.  
+
+3. Professional summary that fully addresses the question  
+   Based on the handover discussion, there are several underlying risks that should be highlighted to the customer before work commences:  
+   1. Trade-interface coordination: Roofing lifts and material staging will conflict with other trades. We recommend formalizing a daily lift plan and mutual exclusion zones in the customer’s site-coordination protocol.  
+   2. Fire safety on a combustible deck: Torch-applied SBS over wood requires a rigorous hot-work permit, on-site fire watch, and pre-approved fire-retardant clearances. We should confirm the customer’s expectations for fire-watch staffing and any associated cost or schedule impacts.  
+   3. Fall protection: Early in the job, perimeter protection is incomplete. We will provide guardrail systems and/or anchor points, but the timing of their installation depends on the customer’s scaffold or cladding schedule. A window of responsibility for tie-off installation should be agreed.  
+   4. Cold-weather limitations: Standard cap sheets and adhesives have a zero-degree installation cut-off. To maintain schedule through late fall and winter, we must switch to winter-rated primers and membranes. We ask the customer to approve specification addenda and price adjustments for winter-grade products.  
+   5. Multi-phase mobilization: The complexity of planters and inverted roof sections means multiple mobilizations. We propose firming up the number of planned roof-deck pre-stripping visits and confirming crane hours up front to avoid cost overruns.  
+
+   Bringing these items formally to the customer’s attention—and securing written approvals on sequencing, fire watches, fall-protection scope and winter product substitutions—will mitigate safety exposures and shield both parties from downstream claims.

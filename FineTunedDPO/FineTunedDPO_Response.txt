@@ -1,0 +1,306 @@
+1. Who is the customer for this project and describe our past working  relationship, if any?
+Answer: The customer for this project is associated with Grayback. The main contacts mentioned are Brian Rich, the project manager, Earl Faraguna, the construction manager, and Bob McAllister, the superintendent. Regarding the past working relationship, it is noted that there is no previous experience working with this customer. As stated in the transcript:
+
+"So who is the customer for the project describe our past working any, are they any concern to not before proceedings? Me personally, I've never worked with the construction so I can't comment on the relationship those. I don't know attended more, any other estimates for those or you've got any experience with them? haven't worked either. It's our first project with them."
+
+Summary: The customer for the project is linked to Grayback, with specific contacts being Brian Rich, Earl Faraguna, and Bob McAllister. There is no prior working relationship with this customer, as this is the first project with them.
+
+2. Are there any concerns to note about the customer before proceeding?
+Answer: The transcript reveals that there are no specific concerns about the customer before proceeding with the project. The participants discuss their lack of prior experience with the customer, indicating that this is their first project with them. Specifically, KEL-WoodLake -BR(10)(VC) mentions, "Me personally, I've never worked with the construction so I can't comment on the relationship those. I don't know attended more, any other estimates for those or you've got any experience with them?" Frank Jonathan adds, "haven't worked either. It's our first project with them."
+
+In summary, the team does not express any concerns about the customer, but they acknowledge that they have not worked with this customer before. This lack of prior experience might imply a need for caution, but no specific issues are noted in the transcript. It's important for the team to maintain open communication and ensure clarity in their interactions as they proceed with this new customer relationship.
+
+3. What is the project construction schedule (start and expected completion) for our scope?
+Answer: The project construction schedule for the scope mentioned in the transcript starts on October 13, 2025. The expected duration for the project is outlined as "128 crew days" with a "six-man crew." 
+
+In the transcript, it is stated: 
+
+- "Schedule review was the project construction schedule expected our scope."
+- "The start roofing is scheduled for 13th of October 2025."
+- "And the project is scheduled for 128 crew with total crew."
+
+**Summary:**
+
+The construction schedule for the Dillworth Phase 1 project is set to begin on October 13, 2025, with a planned duration of 128 crew days. This schedule involves a six-person crew working on the project. The information provided in the transcript gives a clear timeline for the project's start and the expected workforce deployment, ensuring that the scope is covered within the specified timeframe.
+
+4. Are there any materials estimated for that require extended lead times for ordering/delivery?
+Answer: In the transcript, there is a discussion about materials and their lead times. Frank Jonathan mentions, "From what I the taper package probably will need three to four weeks." This indicates that the taper package is the only material that might require an extended lead time for ordering and delivery. KEL-WoodLake -BR(10)(VC) adds, "the rest seems to standard product and easily available," suggesting that other materials do not have extended lead times.
+
+**Summary:** The transcript reveals that the taper package is the only material with a potential extended lead time, requiring three to four weeks for delivery. Other materials are standard and readily available, so they do not require extended lead times.
+
+5. Have any alternate materials been included in the scope of work or specification?
+Answer: In the transcript, alternate materials are discussed in the context of the project specifications. Frank Jonathan mentions, "Apart from that, I don't see any other confirmed as everything letter," indicating that no other alternate materials have been confirmed beyond what is specified. Additionally, KEL-WoodLake-BR(10)(VC) asks, "Have any alternate materials included for work specification?" to which Frank Jonathan responds, "So, items to be confirmed would be roof anchors were shown as a bidding."
+
+This exchange suggests that while the roof anchors are noted as items to be confirmed, no specific alternate materials are highlighted as included in the scope of work or specification at this stage.
+
+**Summary:**
+
+The transcript indicates that no alternate materials have been explicitly included in the scope of work or specification, except for the need to confirm roof anchors. This suggests that the project is proceeding with the materials initially specified, with no additional alternates confirmed at this time.
+
+6. Do we need to bring these alternates to the attention of the client/customer before starting?
+Answer: Based on the transcript, there are discussions about alternate materials and considerations that need to be confirmed with the client before proceeding. Specifically, the transcript mentions:
+
+1. **Roof Anchors**: "So, items to be confirmed would be roof anchors were shown as a bidding."
+
+2. **Base on Base on the Deck**: "We'll to confirm with the customer use of that 180 base on base on the deck if they're okay with that this is not combustible."
+
+These points indicate that certain materials and methods require client confirmation before the project can proceed.
+
+**Summary**: The transcript highlights the need to confirm specific alternates with the client, such as the use of roof anchors and the base on base method for non-combustible decks. These confirmations are necessary to ensure alignment with client expectations and project requirements.
+
+7. Do you feel that there are any underlying risks associated with performing  our work on this project and do we need to bring anything to the attention of the customer before starting?
+Answer: Based on the transcript, there are several underlying risks associated with performing work on the Dillworth phase 1 project. These risks are discussed and highlighted by the attendees, suggesting the need to bring certain concerns to the attention of the customer before starting.
+
+1. **Multiple Trades Coordination**: There is a concern about coordinating with multiple trades on-site, which could pose safety risks. As stated, "there will be a situation with multiple trades in our way. We'll have to coordinate leverage and making sure we've got the safety zone set up around all lifting equipment."
+
+2. **Safety Concerns with Combustible Materials**: The project involves working on a wood deck with torch applications, which raises safety concerns. It is noted that "you're working on wood deck lot of torch, so safety to be watched out for." This highlights the need for careful safety measures to prevent fire hazards.
+
+3. **Working at Heights**: The risk of working at heights is mentioned, with plans to "have our guardrail set up around the perimeter" to ensure worker safety.
+
+4. **Weather Conditions**: The project is expected to continue into the winter, which may require using winter-rated products. It is mentioned that "we'll definitely have some limitations with the cap stripping installation, like the cut-off is zero degree, I'll have to make sure that the customer aware of that."
+
+5. **Material Specifications**: There is a need to confirm with the customer about the use of certain materials, such as the "180 base on base on the deck if they're okay with that this is not combustible."
+
+In summary, the project presents several risks related to safety, coordination with other trades, and environmental conditions. These factors necessitate clear communication with the customer to ensure all parties are aware of the potential challenges and the measures being taken to address them. Proper planning and coordination will be essential to mitigate these risks effectively.
+
+8. Depending on the Risk, i.e. working at heights, combustible products, etc., what precautions are being put in place to minimize these risks?
+Answer: To address the risks associated with working at heights and using combustible products, several precautions are being implemented:
+
+1. **Safety Zones and Coordination**: The team plans to "coordinate leverage and making sure we've got the safety zone set up around all lifting equipment as soon as the perimeter of our work" (KEL-WoodLake -BR(10)(VC) - 28:14). This indicates a focus on establishing clear safety zones to prevent accidents during lifting operations.
+
+2. **Combustible Material Management**: There is a specific mention of managing combustible materials: "all the combustibles will have to be removed from the working area the safety distance" (KEL-WoodLake -BR(10)(VC) - 28:53). This precaution aims to reduce fire hazards by ensuring that combustible materials are kept at a safe distance from work areas.
+
+3. **Guardrails for Working at Heights**: The team plans to set up guardrails: "Working at the heights, we'll have our guardrail set up around the perimeter" (KEL-WoodLake -BR(10)(VC) - 28:53). This is a standard safety measure to prevent falls from elevated work areas.
+
+4. **Task Management and Cleanliness**: They emphasize maintaining cleanliness and organization: "Task swept and garbage picked" (KEL-WoodLake -BR(10)(VC) - 28:53). Keeping the work area clean can help prevent accidents and improve overall safety.
+
+5. **Review of Real Site Conditions**: There is an acknowledgment of the need to assess site conditions: "we'll have to actually see real site conditions" (Cory Stevenson - 29:35). This suggests that the team will continuously evaluate the site to adapt safety measures as needed.
+
+**Summary**: The team is implementing several safety precautions to mitigate risks associated with working at heights and using combustible materials. These include setting up safety zones, managing combustible materials, using guardrails, maintaining cleanliness, and reviewing site conditions. These measures are intended to ensure a safe working environment and prevent accidents.
+
+9. What equipment has been estimated for and what amount has been carried  for each?
+Answer: In the transcript, the discussion about equipment estimation and the amounts carried for each is addressed in the following excerpts:
+
+1. **Crane Usage:**
+   - Frank Jonathan mentions, "So we have an on our estimate, but depending project is complete and if the crane is still there on site time for us to use, it all depends. we've carried for 250 dollars an hour And total allowance of both inverted and, let me just combine this one second, 20 hours here on inverted, 46 hours overall, has been allowed for."
+
+2. **Tower Crane:**
+   - KEL-WoodLake -BR(10)(VC) asks, "Did rights to the tower crane on site?" to which the response is, "don't think so."
+
+**Summary:**
+The transcript outlines that the primary equipment estimated for is a crane, with an hourly rate of $250. A total of 46 hours has been allocated for crane usage, including 20 hours specifically for inverted work. There is no indication of rights to a tower crane on site, suggesting reliance on other crane arrangements.
+
+10. Has the estimating team done a complete overview of the project but not  limited to, drawings, specifications, and estimate?
+Answer: The estimating team has indeed conducted a comprehensive overview of the project, including drawings, specifications, and estimates. This is evident from the transcript where it is stated, "Project scope the estimation team drawing, specification and estimate? My answer is yes. Everything was presented, the information at this point are clear." Additionally, Frank Jonathan confirms, "Yes, it's there on your folder. Yeah, I like easy for guys for our performance to spot, so thank you for that."
+
+In summary, the transcript clearly indicates that the estimating team has thoroughly reviewed all necessary aspects of the project, including drawings, specifications, and estimates. This preparation ensures that the construction team has a clear understanding of the project scope and requirements.
+
+11. Did estimating provide to the construction team a complete Bluebeam take -off with highlighted drawings indicating our scope of work?
+Answer: Based on the transcript, it appears that the construction team did receive a complete Bluebeam take-off with highlighted drawings indicating the scope of work. Frank Jonathan confirms this by stating, "Yes, it's there on your folder. Yeah, I like easy for guys for our performance to spot, so thank you for that." This indicates that the necessary documents and highlighted drawings were provided to the construction team.
+
+**Summary:** The transcript confirms that the construction team was provided with a complete Bluebeam take-off, including highlighted drawings that indicate the scope of work. This ensures clarity and aids in the team's performance, as noted by Frank Jonathan.
+
+12. Does the construction team have a 100% clear idea of what our complete scope is?
+Answer: **A:**
+
+The construction team appears to have a clear understanding of the complete scope of the project. In the transcript, it is stated:
+
+"Does the construction team have a 100% clear idea of what our complete scope is? yes. At this point, there is no more questions. We have very little time review this, but everything seems clear."
+
+This indicates that the team has reviewed the necessary details and feels confident about the scope, despite having limited time to review. They have addressed potential issues and clarified details during the meeting, which contributes to their understanding.
+
+**Summary:**
+
+Based on the transcript, the construction team confirms that they have a complete understanding of the project scope. They have reviewed the necessary documents and discussed potential concerns, leading to a consensus that everything is clear. This preparation ensures that the team is aligned and ready to proceed with the project.
+
+13. What input or suggestions did the Foreman have in regard to the installation of our work?
+Answer: In the transcript, the Foreman's input regarding the installation is mentioned briefly. Kevin Trahan, who appears to be the Foreman, states: 
+
+"No, it seems like it should be fairly straightforward." 
+
+Additionally, there is a mention of the color coding system: 
+
+"do like the color coding as That should help a lot to know uh, yeah."
+
+This suggests that Kevin finds the installation process to be straightforward and appreciates the use of color coding, which he believes will aid in the process.
+
+**Summary:**
+
+The Foreman, Kevin Trahan, provided minimal input regarding the installation, indicating that the process seems straightforward to him. He also appreciated the color coding system, which he believes will assist in organizing and executing the work effectively. This feedback suggests confidence in the planned procedures and highlights the utility of visual aids in managing construction tasks.
+
+14. Have the Project Payroll Attributes been reviewed and confirmed to be correct?
+Answer: To determine if the Project Payroll Attributes have been reviewed and confirmed to be correct, we can refer to the specific section of the transcript where this topic is discussed:
+
+1. **Transcript Evidence:**
+   - The question about the review of project payroll attributes is directly addressed in the transcript: 
+     - "Multiple speakers - 33:11 review or have project payroll attributes will be confirmed I say yes."
+     - This indicates that the project payroll attributes have been reviewed and confirmed as correct.
+
+2. **Additional Context:**
+   - There is a general agreement among the speakers that the necessary reviews have been conducted, as indicated by the affirmative response.
+
+**Summary:**
+Based on the transcript, it is clear that the Project Payroll Attributes have been reviewed and confirmed to be correct. The affirmative response from the speakers indicates that this aspect of the project has been thoroughly checked and verified. This step is crucial in ensuring that payroll processes align with project requirements and expectations.
+
+15. Do we have a design system letter from the manufacturer that meets the warranty/code requirements and provides the adhesive/fastening pattern?
+Answer: Based on the transcript, the question about the design system letter from the manufacturer is addressed as follows:
+
+KEL-WoodLake -BR(10)(VC) confirms: 
+"design, do we have design from the manufacturer warranty And provides the adhesive pastaining pattern. Did we obtain that design letter? Yes. Okay. So we've got in PIO? Yeah, in the design review folder."
+
+This indicates that they do have the design system letter from the manufacturer that meets the warranty and code requirements, and it provides the adhesive/fastening pattern. It is stored in the design review folder.
+
+**Summary:**
+The transcript confirms that the design system letter from the manufacturer, which meets warranty and code requirements and includes the adhesive/fastening pattern, is available and stored in the design review folder.
+
+16. Does this project require any cold weather application procedures as recommended by the manufacturer? If yes, what are they?
+Answer: Yes, the project requires cold weather application procedures as recommended by the manufacturer. During the discussion, KEL-WoodLake mentions, "So as we will be starting this project in October, we'll be probably running into late, you know, late or in the winter and proceeding through the winter with that. So we'll definitely have some limitations with the With the cap stripping installation, like the cut-off is zero degree, I'll have to make sure that the customer aware of that. We'll have to use a winter rated product, so winter rated primers for the SOPRA VAP. This we can install to minus 10, which is good."
+
+Summary: The project will begin in October and is expected to continue into the winter months, necessitating specific cold weather procedures. These include using winter-rated products such as primers for the SOPRA VAP, which can be installed at temperatures as low as minus 10 degrees Celsius. This ensures that the project can proceed despite cold weather conditions.
+
+17. Has Contract been reviewed internally?
+Answer: Based on the transcript, the contract has been reviewed internally. This is confirmed by the statement:
+
+"contract been reviewed internally? that's been reviewed, but our branch manager development manager as long as me for the details."
+
+This indicates that the contract has undergone an internal review by relevant managers and personnel.
+
+**Summary:** The transcript confirms that the contract for the Dillworth Phase 1 project has been reviewed internally by the branch manager, development manager, and others involved in the project. This internal review process ensures that all necessary details and conditions of the contract are understood and agreed upon before proceeding with the project.
+
+18. Are there any contractual risks to note?
+Answer: Based on the transcript, there are several contractual risks to note:
+
+1. **Prime Contract Copy**: It was mentioned that they do not have a copy of the prime contract yet. "If you are the subcontractor, do you have the copy of prime contract? If not, request the copy of the prime contract. don't have the copy of prime contract, I believe, yet. That will be requested." Not having the prime contract can lead to misunderstandings of obligations and requirements.
+
+2. **Payment Terms**: The payment terms and prompt payment rules are unclear. "We don't have the – I don't believe we have the prompt payment rules yet, but it, will take for the invoice to be paid and then the payment terms." This uncertainty can affect cash flow and financial planning.
+
+3. **Bonding**: There is no bonding for the project. "Do we have bonding for this? No, we don't bonding. No bonding? No bonding." Lack of bonding can be a risk if there are performance or payment issues.
+
+4. **Invoice Requirements**: There is a need for specific documentation with invoices, such as progress reports and schedules of values. "What documentation information must be submitted with invoice? So, definitely the progress report and the schedule of values will accompany each of the invoices." Missing these could delay payments.
+
+5. **Winter Rated Products**: There is a need to use winter-rated products due to the project timeline extending into colder months. "We'll definitely have some limitations with the With the cap stripping installation, like the cut-off is zero degree, I'll have to make sure that the customer aware of that." This could impact project costs and timelines.
+
+**Summary**: The transcript highlights several contractual risks, including the absence of a prime contract, unclear payment terms, lack of bonding, specific invoice documentation requirements, and the need for winter-rated products due to project timing. These factors could lead to financial, legal, and operational challenges if not addressed.
+
+19. If we are a Subcontractor, do we have a copy of the Prime Contract? If not,  request a copy.
+Answer: Based on the transcript, it appears that the subcontractor does not have a copy of the prime contract. This is evident from the following exchange:
+
+KEL-WoodLake -BR(10)(VC) states: "If you are the subcontractor, do you have the copy of prime contract? If not, request the copy of the prime contract."
+
+This is followed by:
+
+KEL-WoodLake -BR(10)(VC) - 35:23: "don't have the copy of prime contract, I believe, yet. That will be requested."
+
+**Summary:**
+
+The subcontractor does not currently possess a copy of the prime contract. It is acknowledged that a request for the copy will be made, ensuring that the subcontractor can review and understand the terms and conditions outlined in the prime contract. This step is crucial for aligning the subcontractor's obligations and expectations with those of the main contract.
+
+20. What is the date of the Prime Contract?
+Answer: The transcript does not provide a specific date for the Prime Contract. There is a mention of the need to request a copy of the Prime Contract: 
+
+"If you are the subcontractor, do you have the copy of prime contract? If not, request the copy of the prime contract."
+
+This indicates that the Prime Contract's details, including its date, were not discussed or available during this meeting.
+
+**Summary:** The transcript does not specify the date of the Prime Contract. It mentions that the copy of the Prime Contract needs to be requested, implying that its details were not covered in the meeting.
+
+21. Do we know if "prompt payment" rules apply under the provincial construction legislation (given the date of the Prime Contract)?
+Answer: Based on the transcript provided, there is no explicit confirmation about the application of "prompt payment" rules under the provincial construction legislation. The transcript states:
+
+"We don't have the – I don't believe we have the prompt payment rules yet, but it, will take for the invoice to be paid and then the payment terms."
+
+This indicates uncertainty regarding the prompt payment rules and their application to the project.
+
+**Summary:**
+
+The transcript reveals uncertainty about the application of "prompt payment" rules under provincial construction legislation. It mentions that the prompt payment rules are not yet confirmed, indicating a lack of clarity on this matter within the context of the project.
+
+22. What are the payment terms?
+Answer: To determine the payment terms from the transcript, we can examine the relevant sections where payment and invoicing are discussed.
+
+1. **Payment Terms and Invoice Details:**
+
+   The transcript mentions a discussion about payment terms and invoicing requirements:
+
+   - **Prompt Payment Rules:** "We don't have the – I don't believe we have the prompt payment rules yet, but it, will take for the invoice to be paid and then the payment terms."
+
+   - **Invoice Requirements:** "What information must be included in our invoice?" and "What documentation information must be submitted with invoice? So, definitely the progress report and the schedule of values will accompany each of the invoices."
+
+   - **Draft Invoice:** "Do we need to submit a draft invoice before we submit our action invoice? If so, draft need to be submitted? What information must be provided in the draft invoice? That's applicable, I believe, at this yet."
+
+2. **Bonding and Contracts:**
+
+   - **Bonding:** "Do we have bonding for this? No, we don't bonding. No bonding? No bonding."
+
+   - **Contract Review:** "contract been reviewed internally? that's been reviewed, but our branch manager development manager as long as me for the details."
+
+In summary, the transcript indicates that the specific payment terms are not fully detailed or confirmed, as the prompt payment rules are not yet established. The invoice must include a progress report and a schedule of values. There is no requirement for bonding, and the contract details are still under review. The team needs to ensure they align with any client-specific requirements once more information is available.
+
+23. How long will it take for our invoice to be paid?
+Answer: The transcript does not provide specific details about the exact time it will take for the invoice to be paid. However, it mentions that the payment terms and prompt payment rules are not yet clear. Specifically, it states:
+
+"We don't have the – I don't believe we have the prompt payment rules yet, but it, will take for the invoice to be paid and then the payment terms."
+
+This indicates that the payment terms are still to be determined or clarified.
+
+**Summary:** The transcript does not specify the exact duration for invoice payment. It mentions that prompt payment rules and terms are not yet established, indicating that further clarification is needed to determine the payment timeline.
+
+24. Does the contract specify requirements for a proper invoice?
+Answer: Based on the transcript, the contract specifies requirements for a proper invoice. The discussion mentions the need for specific documentation to accompany invoices:
+
+"So, definitely the progress report and the schedule of values will accompany each of the invoices."
+
+This indicates that there are specific requirements outlined for what must be included with the invoices submitted for the project.
+
+**Summary:** The contract includes requirements for a proper invoice, specifying that a progress report and a schedule of values must accompany each invoice. This ensures that all necessary documentation is provided to support the billing process.
+
+25. What information must be included in our invoice?
+Answer: To address the question about what information must be included in the invoice, the transcript provides specific details:
+
+1. **Progress Report and Schedule of Values**: The transcript states, "So, definitely the progress report and the schedule of values will accompany each of the invoices." This indicates that these two components are essential for the invoice.
+
+In summary, the invoice must include a progress report and a schedule of values. These elements are crucial for ensuring that the invoice reflects the work completed and the associated costs accurately. This requirement helps maintain transparency and accountability in the billing process.
+
+26. What documentation/information must be submitted with each invoice?
+Answer: To address the question regarding the documentation or information that must be submitted with each invoice, the transcript provides specific details:
+
+1. **Progress Report and Schedule of Values**: The transcript explicitly mentions that "the progress report and the schedule of values will accompany each of the invoices." This indicates that these two documents are essential components of the invoice submission process.
+
+Here's the relevant quote from the transcript:
+- "So, definitely the progress report and the schedule of values will accompany each of the invoices."
+
+**Summary**: In the context of the Dillworth Phase 1 handover meeting, it was established that each invoice must be accompanied by a progress report and a schedule of values. These documents are critical for ensuring that the invoicing aligns with the project's financial and progress tracking requirements.
+
+27. Do we need to submit a "draft invoice" before we submit our actual invoice? If so, when does the "draft invoice" need to be submitted?
+Answer: Based on the transcript provided, there is no explicit mention of a requirement to submit a "draft invoice" before submitting the actual invoice. The relevant section of the transcript states:
+
+"Do we need to submit a draft invoice before we submit our action invoice?  
+If so, draft need to be submitted?  
+What information must be provided in the draft invoice?  
+That's applicable, I believe, at this yet."
+
+This indicates uncertainty or lack of a current requirement regarding the submission of a draft invoice.
+
+**Summary:**
+The transcript does not specify a requirement for submitting a draft invoice before the actual invoice. The discussion suggests that this might not be applicable at the current stage of the project.
+
+28. What information must be provided in the "draft invoice"?
+Answer: The transcript does not explicitly provide details about the specific information required in the "draft invoice." The discussion around invoices focuses more on the general requirements for submission and accompanying documentation. The relevant section states:
+
+"Do we need to submit a draft invoice before we submit our action invoice? If so, draft need to be submitted? What information must be provided in the draft invoice? That's applicable, I believe, at this yet."
+
+From this, it appears that the specifics of what must be included in a draft invoice were not detailed or confirmed during the meeting. The conversation suggests that there is uncertainty or that the requirement for a draft invoice may not be applicable at the current stage.
+
+**Summary:** The transcript does not specify what information must be included in a "draft invoice." The discussion indicates uncertainty about the requirement for a draft invoice, implying that details were either not discussed or not applicable at this time.
+
+29. Is a Performance Bond Required for this Project?
+Answer: Based on the transcript, a performance bond is not required for this project. This is confirmed in the following exchange:
+
+KEL-WoodLake -BR(10)(VC) - 37:03  
+"Do we have bonding for this?  
+No, we don't bonding.  
+No bonding?  
+No bonding."
+
+In summary, the discussion clearly indicates that there is no requirement for a performance bond for the Dillworth Phase 1 project. The attendees explicitly state that there is no bonding in place, confirming the absence of this requirement.
+

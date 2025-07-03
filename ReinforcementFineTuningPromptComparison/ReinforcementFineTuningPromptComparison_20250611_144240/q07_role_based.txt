@@ -1,0 +1,48 @@
+Question 7: Do you feel that there are any underlying risks associated with performing  our work on this project and do we need to bring anything to the attention of the customer before starting?
+Prompt Type: role_based
+Model: ft:o4-mini-2025-04-16:flynn:test-eleven:BgYLe9DH
+Metrics: {
+  "response_time": 22.58,
+  "quote_count": 0,
+  "word_count": 778,
+  "char_count": 5476,
+  "has_speaker_names": true,
+  "has_sections": true,
+  "has_not_mentioned": false,
+  "has_missing_info": true
+}
+
+Full Answer:
+============================================================
+1. Direct quotes from the transcript that answer the question  
+- “Do you feel that there are underlying risks concentrated with performing on this and do we need to bring anything to the attention of the customer before starting?” (Multiple speakers, 28:04)  
+- “So definitely Kevin and Cory, there will be a situation with multiple trades in our way. We’ll have to coordinate… make sure we’ve got the safety zone set up around all lifting equipment as soon as the perimeter of our work.” (KEL-WoodLake, 28:14)  
+- “And… you’re working on wood deck, lot of torch, so safety to be watched out for.” (Multiple speakers, 28:39)  
+- “Picture framing current, all the penetrations… all the combustibles will have to be removed from the working area to the safety distance. Tasks swept and garbage picked. Working at heights, we’ll have our guardrail set up around the perimeter.” (KEL-WoodLake, 28:53)  
+- “So as we will be starting this project in October… we’ll definitely have some limitations with the cap stripping installation… we’ll have to use a winter rated product for this project.” (KEL-WoodLake, 34:26)  
+- “Items to be confirmed would be roof anchors were shown as a bidding.” (KEL-WoodLake, 27:33)  
+- “We’ll have to confirm with the client use of that 180 base on the deck if they’re okay with that—this is not combustible.” (KEL-WoodLake, 31:27)  
+- “Wind uplift calculation provided by the customer or did you obtain them from the wind uplift calculator?” (Multiple speakers, 33:50)  
+- “It will be difficult with that amount of the planters on site… difficult to estimate that probably.” (KEL-WoodLake, 31:27)  
+
+2. Expert interpretation of this information  
+a. Multi-trade coordination and crane/lift safety: The roof is in a live construction zone with several trades and lifting operations active simultaneously. Without formal exclusion zones and sequencing, there is a heightened risk of collisions, dropped material and work interruptions.  
+b. Fire hazard on wood deck: Torch-applied membranes over a combustible substrate (wood deck) introduce the risk of deck ignition. Standard operating procedures call for full removal of combustibles from the work zone, cold-torching alternatives, fire-watch personnel and extinguisher staging.  
+c. Working at heights: The scope includes guardrail, parapet tie-in and pop-up hatches. A guardrail system must be installed before any roofing work begins, and all penetrations/picture framing must maintain a clear perimeter to avoid falls or dropped-object hazards.  
+d. Winter-installation limitations: Once ambient temperatures drop toward or below 0 °C, standard torch-or adhesive-applied membranes cannot be installed safely or per manufacturer guidelines. A winter-rated cap sheet and low-temperature primers (e.g. SOPRA VAP winter primer to –10 °C) must be planned, and the customer must understand potential schedule impacts.  
+e. Technical clarifications:  
+   – Roof anchors: Need to confirm location, type and spacing with the customer or engineer if these anchorage points are part of the permanent roof system or only for temporary safety.  
+   – Base-on-base application: The specification allows a cost-saving base-on-base cap application over noncombustible decks, but the client must formally approve deviation from bid documents.  
+   – Wind-uplift: Although the team generated its own calculations, the client’s structural engineer must review/endorse them to ensure code compliance and insurance coverage.  
+   – Planter flashings: Liquid-applied membranes (OLSAN RS230) around planter penetrations were not quantified in the bid. This is a potential change-order item that the customer should pre-approve or formally exclude.  
+f. Logistical and contractual items: Although not directly a safety hazard, absence of the prime contract, prompt-payment rules, bonding requirements and invoice submittal criteria create financial risk. These should be flagged in a pre-start kickoff so procurement, accounting and legal can confirm terms.  
+
+3. Professional summary that fully addresses the question  
+Several underlying risks—the most significant being fire and fall hazards, multi-trade interference, and cold-weather installation constraints—must be brought to the customer’s attention before mobilization. Specifically:  
+- Coordination: confirm crane/lift windows and establish safety/exclusion zones around active lifts and adjacent trades.  
+- Fire Safety: adopt a fire-watch program, clear combustibles, or switch to a cold-process system for torch-applied membranes over the wood deck.  
+- Fall Protection: install guardrail, deck edge protection and manage penetrations/picture-framing to maintain unobstructed safety perimeters.  
+- Cold-Weather Protocol: secure client sign-off on winter-rated cap sheets and primers, and adjust the schedule to accommodate low-temperature work stoppages or alternate materials.  
+- Technical Approvals: obtain formal client (or engineer) approval for base-on-base cap application, roof anchor layout, wind-uplift calculations and planter-penetration membrane scope.  
+- Contractual Clarity: secure a copy of the prime contract, confirm prompt-payment rules, bonding requirements and invoice documentation obligations to mitigate financial exposure.  
+By proactively reviewing these risk areas and securing written approvals or exclusions, the team can avoid safety incidents, schedule delays, change ‑order disputes and payment issues once work begins.

@@ -1,0 +1,25 @@
+Question 23: How long will it take for our invoice to be paid?
+Prompt Type: role_based
+Model: ft:o4-mini-2025-04-16:flynn:test-eleven:BgYLe9DH
+Metrics: {
+  "response_time": 15.24,
+  "quote_count": 0,
+  "word_count": 238,
+  "char_count": 1538,
+  "has_speaker_names": true,
+  "has_sections": true,
+  "has_not_mentioned": false,
+  "has_missing_info": false
+}
+
+Full Answer:
+============================================================
+1. Direct quotes from the transcript  
+   • KEL-WoodLake-BR(10)(VC) (36:00): “Are the payment terms and how long it will take for our invoice to be paid?”  
+   • KEL-WoodLake-BR(10)(VC) (36:03): “We don’t have the – I don’t believe we have the prompt payment rules yet, but it will take for the invoice to be paid and then the payment terms.”  
+
+2. Expert interpretation  
+   At the time of this hand-off meeting, the team had not yet reviewed or received the prime contract’s payment provisions (often called “prompt payment rules”), so they could not commit to a specific invoicing timeline. In other words, they acknowledged that neither the timing nor the mechanics of payment are established until the prime contract is obtained and its payment terms—including invoice submittal requirements and payment periods—are understood.  
+
+3. Professional summary  
+   During the Dillworth Phase 1 hand-off meeting the team explicitly raised the question of payment terms and how long it would take for an invoice to be paid. The response was that they had not yet seen or confirmed the prime contract’s prompt payment rules, so the payment timing remained undetermined. The next step is to secure a copy of the prime contract, identify the applicable payment schedule (for example, net-30, milestone-based, or statutory prompt payment), and confirm any invoicing requirements (such as accompanying progress reports or schedules of values). Only once those contract provisions are in hand can the team establish a definitive payment timeline.

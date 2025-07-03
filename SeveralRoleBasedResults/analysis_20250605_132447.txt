@@ -1,0 +1,576 @@
+FLYNN CONSTRUCTION - PROFESSIONAL HANDOVER ANALYSIS
+Project: Dillworth Phase 1
+Date: 2025-06-05
+================================================================================
+
+1. Who is the customer for this project and describe our past working  relationship, if any?
+
+### Key Finding: Identification of the Customer and Past Working Relationship
+
+**Statement:**
+The customer for the Dillworth Phase 1 project is identified, and it is confirmed that there is no past working relationship with them.
+
+**Supporting Quotes:**
+- **KEL-WoodLake -BR(10)(VC):** "So who is the customer for the project describe our past working any, are they any concern to not before proceedings?"
+- **Frank Jonathan:** "I see in the work we've contact persons."
+- **KEL-WoodLake -BR(10)(VC):** "We've got Brian Rich who is the project manager for Grayback. We've got Earl Faraguna who is the construction manager and Bob McAllister who is the superintendent. So this is the main context for us."
+- **KEL-WoodLake -BR(10)(VC):** "Me personally, I've never worked with the construction so I can't comment on the relationship those."
+- **Multiple speakers:** "haven't worked either. It's our first project with them."
+
+**Implications:**
+The lack of a prior working relationship with the customer, Grayback Construction, implies that the project team should be proactive in establishing clear communication and understanding expectations to ensure a smooth collaboration. Building a strong relationship from the onset will be crucial.
+
+**Follow-Up Items:**
+- **Contact:** Establish initial contact with Brian Rich, Earl Faraguna, and Bob McAllister to introduce the team and clarify any outstanding project expectations.
+- **Verify:** Confirm any specific customer requirements or preferences that might not have been detailed in the initial project documentation.
+
+--------------------------------------------------------------------------------
+
+2. Are there any concerns to note about the customer before proceeding?
+
+### Key Finding: Customer Relationship and Concerns
+
+**Statement:** There are no existing concerns about the customer as this is the first project with them.
+
+**Support with Quotes:**
+- **KEL-WoodLake -BR(10)(VC):** "Me personally, I've never worked with the construction so I can't comment on the relationship those."
+- **Multiple speakers:** "haven't worked either. It's our first project with them."
+
+**Implications:** Since this is the first project with the customer, there are no prior experiences to inform the team about potential challenges or concerns. This means the team should be vigilant in establishing a strong working relationship and clear communication channels from the outset.
+
+### Follow-up Items:
+- **Contact:** Establish regular communication with the customer’s project manager, Brian Rich, and other key contacts like Earl Faraguna and Bob McAllister.
+- **Verify:** Ensure all contractual terms and expectations are clearly understood and documented to avoid any misunderstandings.
+
+--------------------------------------------------------------------------------
+
+3. What is the project construction schedule (start and expected completion) for our scope?
+
+**Project Construction Schedule:**
+
+**Start Date:**
+The roofing work is scheduled to begin on October 13, 2025.
+
+- **Quote:** "The start roofing is scheduled for 13th of October 2025."
+
+**Expected Completion:**
+The project is expected to take 128 crew days with a six-man crew.
+
+- **Quote:** "And the project is scheduled for 128 crew with total crew."
+
+**Implications:**
+The construction team needs to ensure that resources are adequately planned and mobilized to meet the start date and complete the project within the allocated crew days. Coordination with other trades and potential weather impacts should be considered due to the project starting in October.
+
+**Follow-Up Items:**
+- Confirm with the project manager, Brian Rich, or the construction manager, Earl Faraguna, regarding any updates or changes to the schedule.
+- Verify if there are any specific milestones or deadlines within the 128 crew days that need to be prioritized.
+
+--------------------------------------------------------------------------------
+
+4. Are there any materials estimated for that require extended lead times for ordering/delivery?
+
+**Key Finding:**
+
+There are no significant lead times for most materials, but the taper package may require additional time.
+
+- **Statement:** Most materials are standard stock and do not have extended lead times, except for the taper package which may need three to four weeks.
+
+- **Support with Quotes:**
+  - *KEL-WoodLake -BR(10)(VC):* "Everything is standard, standard stock, so I don't think there are any times."
+  - *Frank Jonathan:* "From what I the taper package probably will need three to four weeks."
+
+- **Implications:** The construction team should plan for the taper package's extended lead time to ensure it does not delay the project timeline. Coordination with suppliers should be maintained to confirm delivery schedules.
+
+**Follow-up Items:**
+
+- **Contact:** Frank Jonathan should confirm the exact lead time for the taper package with suppliers.
+- **Verify:** Ensure that all standard stock materials are readily available as anticipated.
+
+--------------------------------------------------------------------------------
+
+5. Have any alternate materials been included in the scope of work or specification?
+
+### Key Finding: Alternate Materials Included in Scope
+
+**Statement:**
+Alternate materials have been considered and included in the scope of work, specifically regarding the roof anchors and the base on base deck system.
+
+**Supporting Quotes:**
+- **Frank Jonathan:** "Items to be confirmed would be roof anchors were shown as a bidding."
+- **KEL-WoodLake -BR(10)(VC):** "We'll have to confirm with the customer use of that 180 base on base on the deck if they're okay with that this is not combustible."
+
+**Implications:**
+The inclusion of alternate materials such as the roof anchors and the base on base deck system suggests that there may be flexibility in the materials used, potentially leading to cost savings or adjustments based on client approval. It is crucial to ensure that these materials meet the project specifications and client expectations to avoid future issues.
+
+**Follow-Up Items:**
+- **Contact:** Project Manager or Client Representative
+- **Verify:** Confirm the acceptance and approval of alternate materials such as the roof anchors and the base on base deck system with the client to ensure compliance with project specifications and expectations.
+
+--------------------------------------------------------------------------------
+
+6. Do we need to bring these alternates to the attention of the client/customer before starting?
+
+### Key Finding: Need for Client Communication on Alternate Materials
+
+**Statement:** It is necessary to confirm with the client regarding the use of alternate materials, specifically the roof anchors and the base on base deck system.
+
+**Supporting Quotes:**
+- **KEL-WoodLake -BR(10)(VC):** "Have any alternate materials included for work specification? Do we need to bring this to attention of the client customer before starting?"
+- **Frank Jonathan:** "Items to be confirmed would be roof anchors were shown as a bidding. Apart from that, I don't see any other confirmed as everything letter."
+
+**Implications:** There is a need to ensure that the client is aware of and approves any deviations from the original specifications, particularly concerning critical components like roof anchors. This is important to avoid any disputes or issues during the construction phase.
+
+**Follow-Up Items:**
+- **Contact:** Project Manager (Brian Rich) or Construction Manager (Earl Faraguna) from Grayback.
+- **Verify:** Confirm the acceptance of the alternate materials, specifically the roof anchors and the base on base system, before proceeding with the construction.
+
+--------------------------------------------------------------------------------
+
+7. Do you feel that there are any underlying risks associated with performing  our work on this project and do we need to bring anything to the attention of the customer before starting?
+
+**Key Finding: Identification of Underlying Risks and Need for Customer Communication**
+
+1. **Presence of Multiple Trades and Safety Concerns**
+   - **Statement:** There are potential risks due to the presence of multiple trades on-site, which necessitates coordination and safety measures.
+   - **Support:** "KEL-WoodLake-BR(10)(VC): 'So definitely Kevin and Cory, there will be a situation with multiple trades in our way. We'll have to coordinate leverage and making sure we've got the safety zone set up around all lifting equipment.'"
+   - **Implications:** Coordination with other trades is crucial to ensure safety and efficiency. Establishing clear communication channels and safety protocols with the customer and other contractors will be necessary to mitigate risks.
+
+2. **Working with Combustible Materials**
+   - **Statement:** The use of combustible materials, such as torching on a wood deck, poses a significant safety risk.
+   - **Support:** "Multiple speakers: 'And to add that, you're working on wood deck lot of torch, so safety to be watched out for.'"
+   - **Implications:** Special attention must be given to fire safety protocols. It may be necessary to discuss alternative methods or additional safety measures with the customer to address these concerns.
+
+3. **Weather-Related Challenges**
+   - **Statement:** The project timeline extends into colder months, which may impact material performance and installation.
+   - **Support:** "KEL-WoodLake-BR(10)(VC): 'So as we will be starting this project in October, we'll be probably running into late, you know, late or in the winter and proceeding through the winter with that.'"
+   - **Implications:** The team should communicate with the customer about the potential need for winter-rated products and any adjustments to the project timeline or methods due to weather conditions.
+
+**Follow-Up Items:**
+
+- **Coordination with Other Trades:** Contact Kevin and Cory to develop a detailed plan for coordinating with other trades and establishing safety zones.
+- **Safety Protocols for Combustible Materials:** Verify with safety officers and the customer about the protocols for using torches on a wood deck. Discuss possible alternatives or additional safety measures.
+- **Weather Preparedness:** Confirm with the customer the approval and procurement of winter-rated materials. Discuss any potential adjustments to the project schedule or methods due to weather conditions.
+
+--------------------------------------------------------------------------------
+
+8. Depending on the Risk, i.e. working at heights, combustible products, etc., what precautions are being put in place to minimize these risks?
+
+### Key Findings on Risk Precautions
+
+1. **Precautions for Working at Heights**
+   - **Statement**: Guardrails will be set up around the perimeter to ensure safety when working at heights.
+   - **Support**: KEL-WoodLake-BR(10)(VC): "Working at the heights, we'll have our guardrail set up around the perimeter."
+   - **Implications**: Ensuring guardrails are in place is crucial for compliance with safety regulations and to prevent falls, which are a common hazard in construction.
+
+2. **Handling Combustible Products**
+   - **Statement**: All combustibles will be removed from the working area to maintain a safe distance and reduce fire risk.
+   - **Support**: KEL-WoodLake-BR(10)(VC): "All the combustibles will have to be removed from the working area the safety distance."
+   - **Implications**: This precaution is necessary to prevent accidental fires, especially when using torches on a wood deck, which was noted as a concern.
+
+3. **Safety Measures During Torching**
+   - **Statement**: Picture framing will be done around all penetrations and parameters to ensure safety.
+   - **Support**: KEL-WoodLake-BR(10)(VC): "Picture framing current, all the penetrations, picture framing current, all parameters."
+   - **Implications**: Proper picture framing helps contain any potential fire hazards during torching, reducing the risk of fire spread.
+
+4. **Site Cleanliness and Organization**
+   - **Statement**: Tasks will be swept, and garbage will be picked up regularly to maintain a clean and safe work environment.
+   - **Support**: KEL-WoodLake-BR(10)(VC): "Task swept and garbage picked."
+   - **Implications**: Regular cleaning reduces tripping hazards and ensures that the work area is safe and organized, which is essential for efficient operations.
+
+### Follow-up Items
+
+- **Verification of Safety Protocols**: Confirm with the safety officer that all outlined precautions are implemented and monitored.
+- **Contact for Clarification**: Reach out to KEL-WoodLake-BR(10)(VC) for any additional safety measures that may need to be considered, especially concerning torching on wood surfaces.
+- **Review of Safety Plans**: Ensure that the safety plans are reviewed and approved by the project safety manager to align with all regulatory requirements.
+
+--------------------------------------------------------------------------------
+
+9. What equipment has been estimated for and what amount has been carried  for each?
+
+### Key Findings on Equipment Estimation
+
+**1. Crane Usage Estimation**
+- **Statement:** The project has accounted for crane usage in the estimate.
+- **Support:** Frank Jonathan: "So we have an on our estimate, but depending project is complete and if the crane is still there on site time for us to use, it all depends. we've carried for 250 dollars an hour And total allowance of both inverted and, let me just combine this one second, 20 hours here on inverted, 46 hours overall, has been allowed for."
+- **Implications:** The estimation includes a specific budget for crane usage, indicating that crane operations are critical for the project. The team needs to ensure that crane availability aligns with the project timeline to avoid delays.
+
+**2. Tower Crane Rights**
+- **Statement:** There is uncertainty regarding the rights to a tower crane on site.
+- **Support:** KEL-WoodLake -BR(10)(VC): "Did rights to the tower crane on site? don't think so."
+- **Implications:** The lack of clarity on tower crane rights could impact project logistics. It is essential to confirm whether the team can access the tower crane to optimize equipment usage and cost.
+
+### Follow-up Items
+- **Contact:** Project Manager or Site Supervisor
+- **What to Verify:** Confirm the availability and rights to the tower crane on site. Ensure that the crane usage aligns with the project schedule and budget.
+
+--------------------------------------------------------------------------------
+
+10. Has the estimating team done a complete overview of the project but not  limited to, drawings, specifications, and estimate?
+
+### Key Finding: The Estimating Team's Overview of the Project
+
+**Statement:** The estimating team has conducted a thorough review of the project, including drawings, specifications, and estimates.
+
+**Supporting Quotes:**
+
+1. **Project Scope and Estimation:**
+   - **KEL-WoodLake -BR(10)(VC):** "Project scope the estimation team drawing, specification and estimate? My answer is yes. Everything was presented, the information at this point are clear."
+   - **Frank Jonathan:** "The estimating provides construction team a complete global takeoff. Yes, it's there on your folder."
+
+2. **Clarity and Completeness:**
+   - **KEL-WoodLake -BR(10)(VC):** "Does the construction team have a 100% clear idea of what our complete scope is? Yes. At this point, there is no more questions. We have very little time review this, but everything seems clear."
+
+**Implications:**
+- The construction team can proceed with confidence that the foundational documents and estimates have been thoroughly reviewed and understood.
+- Any adjustments or changes needed can be addressed with a clear understanding of the initial scope and estimates.
+
+**Follow-up Items:**
+- **Contact:** KEL-WoodLake -BR(10)(VC) and Frank Jonathan for any additional questions or clarifications on specific sections of the project scope.
+- **Verify:** Ensure that any updates or changes to the specifications or estimates are communicated promptly to all relevant parties.
+
+--------------------------------------------------------------------------------
+
+11. Did estimating provide to the construction team a complete Bluebeam take -off with highlighted drawings indicating our scope of work?
+
+**Key Finding:**
+
+The construction team received a complete Bluebeam take-off with highlighted drawings indicating the scope of work.
+
+**Supporting Quote:**
+- Frank Jonathan: "Yes, it's there on your folder. Yeah, I like easy for guys for our performance to spot, so thank you for that."
+
+**Implications:**
+The availability of a complete Bluebeam take-off with highlighted drawings ensures that the construction team has a clear understanding of the project scope. This aids in accurate execution and minimizes the risk of scope-related discrepancies during construction.
+
+**Follow-up Items:**
+No immediate follow-up is needed regarding the Bluebeam take-off, as it appears to be complete and accessible to the team. However, it would be prudent to verify that all team members have access to the folder and understand how to interpret the highlighted drawings. If there are any questions or need for clarification, contact Frank Jonathan for further assistance.
+
+--------------------------------------------------------------------------------
+
+12. Does the construction team have a 100% clear idea of what our complete scope is?
+
+### Key Finding: The Construction Team Has a Clear Understanding of the Project Scope
+
+**Statement:**
+The construction team has a clear understanding of the complete scope of the project.
+
+**Supporting Quotes:**
+- **KEL-WoodLake -BR(10)(VC):** "Does the construction team have a 100% clear idea of what our complete scope is? yes. At this point, there is no more questions. We have very little time review this, but everything seems clear."
+
+**Implications:**
+This indicates that the team feels confident in their understanding of the project requirements and expectations. This clarity is crucial for efficient project execution and minimizing potential misunderstandings or errors during construction.
+
+**Follow-Up Items:**
+- **Verification of Details:** Ensure that all team members have access to the finalized project documents and specifications. This can be coordinated through the project manager.
+- **Contact for Clarification:** If any uncertainties arise, the team should contact Frank Jonathan or KEL-WoodLake -BR(10)(VC) for further clarification.
+
+--------------------------------------------------------------------------------
+
+13. What input or suggestions did the Foreman have in regard to the installation of our work?
+
+### Key Finding: Foreman's Input on Installation
+
+**Statement:** The Foreman, Kevin Trahan, indicated that the installation process should be straightforward and expressed approval of the color-coding system used in the plans.
+
+**Supporting Quotes:**
+- **Kevin Trahan:** "Um, no, it seems like it should be fairly straightforward."
+- **Multiple Speakers:** "do like the color coding as That should help a lot to know uh, yeah."
+
+**Implications:** 
+The Foreman's feedback suggests confidence in the current installation plan and highlights the utility of the color-coding system for clarity. This indicates that the team is well-prepared and organized, which should facilitate a smoother installation process.
+
+**Follow-Up Items:**
+- Confirm with Kevin Trahan if there are any specific areas where additional clarification or resources might be needed.
+- Ensure the color-coded plans are distributed to all relevant team members for consistency in understanding and execution.
+
+--------------------------------------------------------------------------------
+
+14. Have the Project Payroll Attributes been reviewed and confirmed to be correct?
+
+**Key Finding: Project Payroll Attributes have been reviewed and confirmed to be correct.**
+
+- **Statement:** The project payroll attributes have been reviewed and confirmed as accurate.
+
+- **Supporting Quote:** 
+  - KEL-WoodLake-BR(10)(VC): "review or have project payroll attributes will be confirmed I say yes."
+  - KEL-WoodLake-BR(10)(VC): "It appears be correct."
+
+- **Implications:** This confirmation indicates that the financial aspects related to payroll are in order, ensuring that the team can proceed without concerns about discrepancies in payroll processing. This is crucial for maintaining budgetary control and ensuring timely payments to the workforce.
+
+- **Follow-Up Items:** 
+  - No immediate follow-up is necessary regarding payroll attributes as they have been confirmed correct. However, it would be prudent to periodically review these attributes throughout the project to ensure continued accuracy.
+
+--------------------------------------------------------------------------------
+
+15. Do we have a design system letter from the manufacturer that meets the warranty/code requirements and provides the adhesive/fastening pattern?
+
+### Key Finding: Design System Letter and Adhesive/Fastening Pattern
+
+**Statement:**
+The design system letter from the manufacturer, which meets the warranty and code requirements and provides the adhesive/fastening pattern, has been obtained.
+
+**Support with Quotes:**
+- **KEL-WoodLake-BR(10)(VC):** "design, do we have design from the manufacturer warranty And provides the adhesive pastaining pattern. Did we obtain that design letter? Yes."
+- **KEL-WoodLake-BR(10)(VC):** "Okay. So we've got in PIO? Yeah, in the design review folder."
+
+**Implications:**
+Having the design system letter ensures that the project complies with the necessary warranty and code requirements. It also provides clarity on the adhesive and fastening pattern, which is crucial for proper installation and maintaining the integrity of the roofing system.
+
+**Follow-Up Items:**
+No immediate follow-up is necessary regarding the design system letter, as it has been confirmed to be in place. However, ensure that the construction team reviews this document thoroughly to align with installation practices. If any discrepancies or questions arise, contact the manufacturer for clarification.
+
+--------------------------------------------------------------------------------
+
+16. Does this project require any cold weather application procedures as recommended by the manufacturer? If yes, what are they?
+
+**Key Finding: The project requires cold weather application procedures as recommended by the manufacturer.**
+
+- **Statement:** The project will likely encounter cold weather conditions, necessitating specific procedures and materials to ensure proper installation.
+
+- **Supporting Quotes:**
+  - **KEL-WoodLake -BR(10)(VC):** "So as we will be starting this project in October, we'll be probably running into late, you know, late or in the winter and proceeding through the winter with that."
+  - **KEL-WoodLake -BR(10)(VC):** "We'll have to use a winter rated product, so winter rated primers for the SOPRA VAP. This we can install to minus 10, which is good."
+
+- **Implications:** Starting the project in October means it will extend into colder months, requiring the use of winter-rated products. This ensures that materials adhere properly and maintain integrity despite lower temperatures. The team must plan for these conditions to avoid delays or quality issues.
+
+**Follow-Up Items:**
+- **Contact:** The project manager should confirm with the manufacturer that all recommended cold weather procedures are understood and that the necessary materials are available.
+- **Verify:** Ensure that the construction schedule accommodates any additional time needed for cold weather applications.
+- **Coordinate:** Communicate with the procurement team to secure winter-rated products in advance.
+
+--------------------------------------------------------------------------------
+
+17. Has Contract been reviewed internally?
+
+**Key Finding: The contract has been reviewed internally by relevant personnel.**
+
+- **Statement:** The contract has undergone internal review by the branch manager and development manager.
+
+- **Supporting Quotes:**
+  - KEL-WoodLake-BR(10)(VC): "that's been reviewed, but our branch manager development manager as long as me for the details."
+
+- **Implications:** The internal review suggests that key stakeholders within the organization have assessed the contract for compliance and alignment with company policies. This review is crucial to ensure that all contractual obligations are understood and can be met by the construction team.
+
+- **Follow-up Items:** 
+  - Verify if any additional reviews are needed by other departments, such as legal or finance, to ensure all aspects of the contract are covered.
+  - Confirm if any specific concerns or amendments were identified during the review that need to be addressed with the client.
+
+--------------------------------------------------------------------------------
+
+18. Are there any contractual risks to note?
+
+**Key Finding: Uncertainty Regarding Prime Contract and Payment Terms**
+
+- **Statement:** There is uncertainty about the prime contract details and payment terms, which could pose contractual risks.
+
+- **Supporting Quotes:**
+  - KEL-WoodLake-BR(10)(VC): "If you are the subcontractor, do you have the copy of prime contract? If not, request the copy of the prime contract."
+  - KEL-WoodLake-BR(10)(VC): "We don't have the – I don't believe we have the prompt payment rules yet, but it, will take for the invoice to be paid and then the payment terms."
+
+- **Implications:** Not having a copy of the prime contract or clarity on payment terms can lead to misunderstandings and disputes over scope, responsibilities, and financial arrangements. It is crucial to obtain and review these documents to ensure all parties are aligned and to mitigate potential risks.
+
+- **Follow-up Items:**
+  - Contact Brian Rich, the project manager for Grayback, to request a copy of the prime contract.
+  - Verify the payment terms and prompt payment rules with the client to ensure compliance and understanding.
+
+--------------------------------------------------------------------------------
+
+19. If we are a Subcontractor, do we have a copy of the Prime Contract? If not,  request a copy.
+
+### Key Finding: Subcontractor's Access to Prime Contract
+
+**Statement of Determination:**
+The construction team does not currently have a copy of the Prime Contract and needs to request it.
+
+**Supporting Quotes:**
+- **KEL-WoodLake -BR(10)(VC):** "If you are the subcontractor, do you have the copy of prime contract? If not, request the copy of the prime contract."
+- **KEL-WoodLake -BR(10)(VC):** "don't have the copy of prime contract, I believe, yet. That will be requested."
+
+**Implications:**
+Not having a copy of the Prime Contract could lead to misunderstandings or misalignments with the main contractor's expectations and requirements. It is crucial for the subcontractor to understand all terms, conditions, and obligations to ensure compliance and to protect their interests.
+
+**Follow-up Items:**
+- **Contact:** The project manager or the main contractor’s representative.
+- **Action:** Request a copy of the Prime Contract to review all relevant terms and conditions.
+- **Verification:** Confirm receipt of the Prime Contract and ensure all team members are briefed on its contents.
+
+--------------------------------------------------------------------------------
+
+20. What is the date of the Prime Contract?
+
+The transcript does not provide a specific date for the Prime Contract. 
+
+**Follow-up Items:**
+- Contact the project manager, Brian Rich, or the construction manager, Earl Faraguna, to verify the date of the Prime Contract.
+- Ensure that a copy of the Prime Contract is requested and reviewed by the team.
+
+--------------------------------------------------------------------------------
+
+21. Do we know if "prompt payment" rules apply under the provincial construction legislation (given the date of the Prime Contract)?
+
+### Key Finding: Uncertainty About Prompt Payment Rules
+
+**Statement:**
+The team is uncertain about whether "prompt payment" rules apply under the provincial construction legislation.
+
+**Supporting Quote:**
+KEL-WoodLake-BR(10)(VC): "We don't have the – I don't believe we have the prompt payment rules yet, but it, will take for the invoice to be paid and then the payment terms."
+
+**Implications:**
+This uncertainty could affect cash flow management and financial planning for the project. Understanding the prompt payment rules is critical to ensure timely payments and to avoid potential disputes with the client.
+
+**Follow-Up Items:**
+1. **Contact the Legal Team:** Verify the applicability of prompt payment rules under the provincial construction legislation.
+2. **Consult with the Client:** Reach out to the client's legal or finance department to confirm any specific payment terms or requirements.
+3. **Review the Prime Contract:** Obtain and review the prime contract to identify any clauses related to payment terms and conditions.
+
+--------------------------------------------------------------------------------
+
+22. What are the payment terms?
+
+### Key Finding: Payment Terms Are Unclear
+
+**Statement:** The payment terms for the project are currently unclear and need further clarification.
+
+**Supporting Quotes:**
+- **KEL-WoodLake -BR(10)(VC):** "We don't have the – I don't believe we have the prompt payment rules yet, but it, will take for the invoice to be paid and then the payment terms."
+- **KEL-WoodLake -BR(10)(VC):** "Does the contract specify requirements proper invoice?"
+
+**Implications:** The lack of clarity regarding payment terms could lead to cash flow issues and misunderstandings between the parties involved. It is crucial to establish clear payment terms to ensure timely payments and proper financial planning.
+
+**Follow-Up Items:**
+- **Contact:** The project manager, Brian Rich, or the construction manager, Earl Faraguna, should be contacted to obtain detailed information regarding the payment terms.
+- **Verify:** Confirm the specific payment terms, including the timeline for invoice processing and any requirements for proper invoicing.
+
+--------------------------------------------------------------------------------
+
+23. How long will it take for our invoice to be paid?
+
+### Key Finding: Payment Terms and Invoice Timing
+
+**Statement:**
+The exact duration for invoice payment is not clearly defined, and prompt payment rules are not yet available.
+
+**Supporting Quotes:**
+- **KEL-WoodLake-BR(10)(VC):** "We don't have the – I don't believe we have the prompt payment rules yet, but it, will take for the invoice to be paid and then the payment terms."
+
+**Implications:**
+The lack of clarity on payment terms and timing could impact cash flow management for the project. It's crucial to establish clear expectations with the client regarding when payments will be made to avoid financial strain.
+
+**Follow-Up Items:**
+- **Contact:** Project Manager or Financial Officer at Grayback Construction.
+- **Verify:** Obtain detailed payment terms and confirm the timeline for invoice processing and payment.
+- **Action:** Request a copy of the prime contract to review any specified payment conditions.
+
+--------------------------------------------------------------------------------
+
+24. Does the contract specify requirements for a proper invoice?
+
+### Key Finding: Contract Requirements for a Proper Invoice
+
+**Statement:** The contract specifies that certain documentation must accompany each invoice, including a progress report and a schedule of values.
+
+**Supporting Quotes:**
+- KEL-WoodLake-BR(10)(VC): "What documentation information must be submitted with invoice? So, definitely the progress report and the schedule of values will accompany each of the invoices."
+
+**Implications:**
+This indicates that the construction team must ensure that each invoice is accompanied by the required documentation to avoid delays in payment processing. Proper preparation and submission of these documents are crucial for maintaining cash flow and adhering to contractual obligations.
+
+**Follow-Up Items:**
+- **Contact:** The project manager or contract administrator should verify if there are additional requirements for the invoice documentation.
+- **Verify:** Confirm with the client or contract manager if there are any updates or changes to the invoicing requirements as the project progresses.
+
+--------------------------------------------------------------------------------
+
+25. What information must be included in our invoice?
+
+### Key Finding: Information Required in Invoice
+
+**Statement:**
+The invoice must include a progress report and a schedule of values.
+
+**Supporting Quotes:**
+- KEL-WoodLake-BR(10)(VC): "So, definitely the progress report and the schedule of values will accompany each of the invoices."
+
+**Implications:**
+Including a progress report and a schedule of values ensures that the invoice reflects the work completed and its corresponding value. This helps the client verify the accuracy of the billing and aligns with contractual requirements.
+
+**Follow-up Items:**
+- **Contact:** Project Manager or Financial Officer
+- **Verify:** Confirm if there are any additional documentation requirements specified in the contract or by the client.
+
+--------------------------------------------------------------------------------
+
+26. What documentation/information must be submitted with each invoice?
+
+**Key Finding: Documentation Required with Each Invoice**
+
+It was determined that each invoice must be accompanied by specific documentation, including a progress report and a schedule of values.
+
+- **Supporting Quote:**
+  - KEL-WoodLake-BR(10)(VC): "So, definitely the progress report and the schedule of values will accompany each of the invoices."
+
+- **Implications:**
+  - Ensuring that these documents are submitted with each invoice is crucial for the timely processing of payments. The progress report provides an update on the project status, while the schedule of values offers a detailed breakdown of costs, both of which are essential for the client’s review and approval process.
+
+**Follow-Up Items:**
+- Verify with the accounting or finance department if there are any additional documentation requirements or templates that need to be used.
+- Contact the project manager or client liaison to confirm any specific formatting or submission guidelines for these documents.
+
+--------------------------------------------------------------------------------
+
+27. Do we need to submit a "draft invoice" before we submit our actual invoice? If so, when does the "draft invoice" need to be submitted?
+
+### Key Finding: Draft Invoice Submission Requirement
+
+**Statement:** It is currently unclear whether a draft invoice needs to be submitted before the actual invoice.
+
+**Supporting Quote:** 
+- KEL-WoodLake-BR(10)(VC): "Do we need to submit a draft invoice before we submit our action invoice? If so, draft need to be submitted? What information must be provided in the draft invoice? That's applicable, I believe, at this yet."
+
+**Implications:** The lack of clarity on the requirement for a draft invoice could lead to delays in the invoicing process if not addressed promptly. Understanding whether a draft is needed and the timeline for its submission is crucial for ensuring smooth financial operations and compliance with client expectations.
+
+**Follow-Up Items:**
+- **Contact:** Project Manager (possibly Brian Rich or Earl Faraguna as they are listed as main contacts).
+- **Verify:** Confirm if a draft invoice is required and, if so, establish the timeline and necessary content for submission.
+- **Action:** Ensure the finance team is informed of any requirements to avoid delays in payment processing.
+
+--------------------------------------------------------------------------------
+
+28. What information must be provided in the "draft invoice"?
+
+### Key Finding: Information Required for Draft Invoice
+
+**Statement:** The meeting did not provide specific information regarding the requirements for a draft invoice, indicating that this aspect is not yet applicable.
+
+**Supporting Quote:** 
+- KEL-WoodLake -BR(10)(VC): "Do we need to submit a draft invoice before we submit our action invoice? If so, draft need to be submitted? What information must be provided in the draft invoice? That's applicable, I believe, at this yet."
+
+**Implications:** The lack of specific requirements for a draft invoice suggests that the process for submitting invoices is still under discussion or not fully established. This could impact the billing process and timelines if not clarified before project commencement.
+
+**Follow-Up Items:**
+- **Contact:** Project Manager (possibly Brian Rich, as he is mentioned as a contact person).
+- **Verify:** Confirm if a draft invoice is required and, if so, what specific information needs to be included.
+- **Action:** Establish a clear process for invoice submission to avoid delays in payment.
+
+--------------------------------------------------------------------------------
+
+29. Is a Performance Bond Required for this Project?
+
+### Key Finding: No Performance Bond is Required for the Project
+
+**Statement:**
+A performance bond is not required for this project.
+
+**Supporting Quotes:**
+- KEL-WoodLake -BR(10)(VC): "Do we have bonding for this? No, we don't bonding. No bonding? No bonding."
+
+**Implications:**
+The absence of a performance bond means that the project may have fewer upfront costs related to securing such a bond. However, it also implies that there is less financial security for the client in case of contractor default. The construction team should ensure that other risk management strategies are in place.
+
+**Follow-Up Items:**
+- Verify with the project manager or legal team if there are any other forms of financial security or guarantees required by the client.
+- Confirm with the client (Brian Rich, Earl Faraguna, or Bob McAllister) if their expectations align with the current understanding regarding bonding.
+
+--------------------------------------------------------------------------------
+

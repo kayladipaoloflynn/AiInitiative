@@ -1,0 +1,30 @@
+Question 23: How long will it take for our invoice to be paid?
+Prompt Type: structured
+Model: ft:o4-mini-2025-04-16:flynn:test-eleven:BgYLe9DH
+Metrics: {
+  "response_time": 9.61,
+  "quote_count": 0,
+  "word_count": 181,
+  "char_count": 1110,
+  "has_speaker_names": true,
+  "has_sections": true,
+  "has_not_mentioned": false,
+  "has_missing_info": true
+}
+
+Full Answer:
+============================================================
+#### 1. RELEVANT QUOTES  
+– KEL-WoodLake-BR(10)(VC) (36:00): “What are the payment terms and how long it will take for our invoice to be paid?”  
+– KEL-WoodLake-BR(10)(VC) (36:02): “We don't have the – I don't believe we have the prompt payment rules yet, but …”  
+
+#### 2. ANALYSIS  
+The transcript shows that the team raised the question about payment terms and the timing for invoice payment. The only response given was that they do not yet have the prompt-payment rules. No specific payment timeline (for example, net-30, net-60 days, etc.) or any other duration was provided during the meeting.
+
+#### 3. GAPS OR MISSING INFORMATION  
+- The actual payment terms (e.g., net-30, net-45) are not stated.  
+- Any reference to the prime contract or subcontract that might define payment timelines is not included.  
+- No mention of statutory prompt-payment regulations or whether they apply.  
+
+#### 4. FINAL ANSWER  
+The transcript does not specify how long it will take for the invoice to be paid. The team acknowledged that they do not yet have the prompt-payment rules and no payment timeline was provided.

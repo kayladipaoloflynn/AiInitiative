@@ -1,0 +1,48 @@
+Question 18: Are there any contractual risks to note?
+Prompt Type: structured
+Model: ft:o4-mini-2025-04-16:flynn:test-eleven:BgYLe9DH
+Metrics: {
+  "response_time": 16.51,
+  "quote_count": 0,
+  "word_count": 457,
+  "char_count": 3254,
+  "has_speaker_names": true,
+  "has_sections": true,
+  "has_not_mentioned": false,
+  "has_missing_info": true
+}
+
+Full Answer:
+============================================================
+#### 1. RELEVANT QUOTES  
+- “If you are the subcontractor, do you have the copy of prime contract?” (KEL-WoodLake-BR(10)(VC) – 35:23)  
+- “We don’t have the copy of prime contract, I believe, yet. That will be requested.” (Frank Jonathan – 35:28)  
+- “Do we know if prime payment rules apply under provincial registration?” (KEL-WoodLake-BR(10)(VC) – 35:45)  
+- “We don’t have the prompt payment rules yet, but … Does the contract specify requirements proper invoice? What information must be included in our invoice?” (KEL-WoodLake-BR(10)(VC) – 36:00)  
+- “Progress report and the schedule of values will accompany each of the invoices.” (KEL-WoodLake-BR(10)(VC) – 36:29)  
+- “Bonding, is the performing bond requirement required project? Do we have bonding for this? No, we don’t bonding. No bonding.” (KEL-WoodLake-BR(10)(VC) – 37:03)  
+
+#### 2. ANALYSIS  
+These quotes show several areas where contractual obligations remain unclear or undocumented:  
+- The team has not yet obtained or reviewed the prime contract, so they lack visibility into key terms such as payment provisions, change-order procedures, notice requirements, insurance obligations, warranty obligations, indemnities, liquidated damages, and dispute resolution mechanisms.  
+- They have not confirmed whether local “prompt payment” statutes apply, nor do they know the contract’s required invoice format or documentation beyond a progress report and schedule of values. Without that information, invoices could be rejected or delayed.  
+- No performance or payment bond is in place—if the prime contract or owner requires bonding, failing to secure it could constitute default.  
+
+Each of these gaps constitutes a contractual risk: noncompliance with unreviewed contract terms, delayed or withheld payments due to improper invoicing, and potential default for missing bonds.  
+
+#### 3. GAPS OR MISSING INFORMATION  
+- The actual prime contract itself and its specific clauses (payment terms, milestones, retention, change-order process, indemnity, insurance, termination rights).  
+- Confirmation of prompt-payment rules, timeframes for invoicing and payment, and any holdback or retention requirements.  
+- Detailed invoice requirements (format, numbering, supporting documents beyond progress reports and schedule of values).  
+- Whether a performance bond or payment bond is contractually mandated.  
+- Any liquidated damages or penalty provisions.  
+- Dispute resolution mechanism (mediation, arbitration, courts).  
+- Insurance coverage requirements (types and limits).  
+
+#### 4. FINAL ANSWER  
+Based solely on the transcript, the primary contractual risks are:  
+1. The subcontractor does not yet have or has not reviewed the prime contract, leaving all contract terms—including payment provisions, notice requirements, change-order procedures, and bond requirements—undetermined.  
+2. It is unclear whether prompt-payment rules apply or what the exact invoicing requirements are, which could lead to invoice rejection or payment delays.  
+3. No performance or payment bond is in place, which may breach prime contract requirements if bonding is mandated.  
+
+Until the prime contract is obtained and its terms verified, these unknowns represent significant contractual risk.

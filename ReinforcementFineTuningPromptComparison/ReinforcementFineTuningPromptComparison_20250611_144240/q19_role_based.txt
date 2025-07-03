@@ -1,0 +1,33 @@
+Question 19: If we are a Subcontractor, do we have a copy of the Prime Contract? If not,  request a copy.
+Prompt Type: role_based
+Model: ft:o4-mini-2025-04-16:flynn:test-eleven:BgYLe9DH
+Metrics: {
+  "response_time": 10.29,
+  "quote_count": 0,
+  "word_count": 294,
+  "char_count": 2041,
+  "has_speaker_names": true,
+  "has_sections": true,
+  "has_not_mentioned": false,
+  "has_missing_info": true
+}
+
+Full Answer:
+============================================================
+1. Direct quotes from the transcript  
+- KEL-WoodLake-BR(10)(VC) – 35:23: “If you are the subcontractor, do you have the copy of prime contract? If not, request the copy of the prime contract.”  
+- Frank Jonathan (or other speaker) – 35:30: “Don’t have the copy of prime contract, I believe, yet. That will be requested.”
+
+2. Expert interpretation  
+In this exchange the team explicitly acknowledges that, as a subcontractor, they do not currently possess a copy of the owner–contractor (prime) agreement. By flagging this gap in documentation and immediately directing that the prime contract be requested, they are following best practice: a subcontractor must review the prime contract’s terms and conditions (scope of work, payment provisions, change‐order procedures, prompt‐payment rules, dispute resolution, indemnity and insurance requirements, etc.) before commencing work. Without the prime contract, a subcontractor cannot be sure that its own subcontract aligns fully with the obligations and timelines imposed higher up the chain, nor can it verify critical clauses on bonding, invoice requirements or milestone payments, which may differ from general corporate standards.
+
+3. Professional summary  
+As a subcontractor on Dillworth Phase 1, you currently do not have the owner–general contractor (prime) agreement in your files. You should immediately formally request a complete copy of the prime contract from the general contractor or client. Obtaining and reviewing the prime contract is essential to:
+
+• Confirm your exact scope of work and interfaces with other trades  
+• Understand payment terms (including prompt‐payment rules and invoice requirements)  
+• Identify obligations around bonds, insurance, lien waivers and indemnities  
+• Verify change‐order procedures and notice requirements  
+• Ensure compliance with schedule milestones and liquidated damages clauses  
+
+By securing the prime contract now, you mitigate downstream risk, avoid surprises, and align your subcontract terms with the higher‐tier agreement.

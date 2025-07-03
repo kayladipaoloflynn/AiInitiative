@@ -1,0 +1,15 @@
+Question: Who is the customer for this project and describe our past working relationship, if any?
+Prompt Variation: original
+Metrics: {
+  "response_time": 3.35,
+  "quote_count": 2,
+  "word_count": 83,
+  "char_count": 501,
+  "has_speaker_names": false,
+  "has_not_mentioned": false
+}
+
+Answer:
+The customer for this project is Grayback. There is no past working relationship with them, as indicated in the transcript: 
+
+"So who is the customer for the project describe our past working any, are they any concern to not before proceedings? Me personally, I've never worked with the construction so I can't comment on the relationship those. I don't know attended more, any other estimates for those or you've got any experience with them? haven't worked either. It's our first project with them."
