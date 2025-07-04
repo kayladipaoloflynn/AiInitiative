@@ -1,0 +1,17 @@
+Question: What is the project construction schedule (start and expected completion) for our scope?
+Prompt Variation: original
+Metrics: {
+  "response_time": 5.37,
+  "quote_count": 2,
+  "word_count": 60,
+  "char_count": 346,
+  "has_speaker_names": false,
+  "has_not_mentioned": false
+}
+
+Answer:
+Based on the transcript, the project construction schedule for Flynn's roofing scope is as follows:
+
+"The start roofing is scheduled for 13th of October 2025. And the project is scheduled for 128 crew with total crew."
+
+So roofing is scheduled to start on October 13, 2025 and is estimated to take 128 crew days with their total crew to complete.

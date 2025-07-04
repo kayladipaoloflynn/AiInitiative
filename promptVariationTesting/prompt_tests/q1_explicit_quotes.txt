@@ -1,0 +1,17 @@
+Question: Who is the customer for this project and describe our past working relationship, if any?
+Prompt Variation: explicit_quotes
+Metrics: {
+  "response_time": 6.17,
+  "quote_count": 4,
+  "word_count": 66,
+  "char_count": 431,
+  "has_speaker_names": true,
+  "has_not_mentioned": false
+}
+
+Answer:
+According to the transcript, this is Flynn's first project with the customer Grayback Construction. There is no past working relationship to describe.
+
+Frank Jonathan: "It's our first project with them."
+
+KEL-WoodLake-BR(10)(VC): "We've got Brian Rich who is the project manager for Grayback. We've got Earl Faraguna who is the construction manager and Bob McAllister who is the superintendent. So this is the main context for us."

@@ -1,0 +1,21 @@
+Question: What is the project construction schedule (start and expected completion) for our scope?
+Prompt Variation: structured
+Metrics: {
+  "response_time": 10.85,
+  "quote_count": 4,
+  "word_count": 145,
+  "char_count": 932,
+  "has_speaker_names": true,
+  "has_not_mentioned": false
+}
+
+Answer:
+DIRECT ANSWER: The start of roofing is scheduled for October 13, 2025 and the project is scheduled for 128 crew days with a 6-man crew.
+
+EVIDENCE:
+Frank Jonathan: "The start roofing is scheduled for 13th of October 2025. And the project is scheduled for 128 crew with total crew."
+Frank Jonathan: "128 crew days, six-man crew, grayback construction, roofing system visual under this folder and file destination"
+
+ADDITIONAL CONTEXT: The project is for Dillworth phase 1, buildings 1A and 1B. The roofing scope includes conventional assemblies, tapered insulation, and picture framing around the perimeter. The general contractor is Grayback Construction.
+
+MISSING INFO: The exact expected completion date is not explicitly stated, but could be estimated based on the October 13, 2025 start date and the 128 crew days duration. More details on the overall construction schedule and sequencing with other trades would also be helpful.
